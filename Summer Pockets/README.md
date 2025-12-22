@@ -36,6 +36,7 @@ SourceHanSerif-Regular.otf　<Source Han Serif>
 方正大黑_GBK.ttf　<方正大黑_GBK>
 方正卡通_GBK.ttf　<方正卡通_GBK>
 方正兰亭粗黑_GBK.ttf　<方正兰亭粗黑_GBK>
+方正兰亭圆_GBK_粗.ttf　<方正兰亭圆_GBK_粗>
 方正兰亭圆_GBK_中.ttf　<方正兰亭圆_GBK_中>
 方正喵呜_GBK.ttf　<方正喵呜_GBK>
 方正锐正黑_GBK ExtraBold.ttf　<方正锐正黑_GBK ExtraBold>
