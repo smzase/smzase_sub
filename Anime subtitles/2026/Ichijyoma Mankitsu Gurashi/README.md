@@ -9,4 +9,5 @@
 | 字体名 | 下载 |
 | --- | --- |
 | DreamHanSansCN-W15.ttf | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Fonts/DreamHanSansCN-W15.ttf) |
+| 华康翩翩体A Std W5.otf | - |
 
