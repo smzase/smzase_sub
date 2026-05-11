@@ -11,4 +11,5 @@
 | E01 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E01.zh-hans.ass) | - |
 | E02 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E02.zh-hans.ass) | - |
 | E03 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E03.zh-hans.ass) | - |
+| E04 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E04.zh-hans.ass) | - |
 
