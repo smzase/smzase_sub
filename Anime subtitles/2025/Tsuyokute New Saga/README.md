@@ -30,3 +30,14 @@
 | --- |
 | [强者的新传说 字体整合包.7z](https://sub.072158.xyz/font-packages/%E5%BC%BA%E8%80%85%E7%9A%84%E6%96%B0%E4%BC%A0%E8%AF%B4%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
 
+## 使用字体
+
+| 字体名 | 字体下载 |
+| --- | --- |
+| FOT-モード明朝Aラージ Std | [FOT-ModeMinALargeStd-B.otf](https://sub.072158.xyz/fonts/FOT-ModeMinALargeStd-B.otf) |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 方正宋黑_GBK | [方正宋黑_GBK.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%AE%8B%E9%BB%91_GBK.ttf) |
+| 标小智龙珠体 Regular | [LogoSCLongZhuTi-Regular.ttf](https://sub.072158.xyz/fonts/LogoSCLongZhuTi-Regular.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
+
