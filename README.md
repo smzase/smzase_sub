@@ -2,7 +2,7 @@
 
 | 动画标题 | 说明 |
 | --- | --- |
-| 1 | 1 |
+| 一叠间漫画咖啡屋生活(/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/) | 1 |
 
 ## 字幕说明
 
