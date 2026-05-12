@@ -2,7 +2,7 @@
 
 | 动画名 | 说明 |
 | --- | --- |
-| [一叠间漫画咖啡屋生活](./2026/Ichijyoma%20Mankitsu%20Gurashi/) | 中日双语，超绝冲刺中，会做 BD 合集 |
+| [一叠间漫画咖啡屋生活](./Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/) | 中日双语，超绝冲刺中，会做 BD 合集 |
 
 ## 字幕说明
 
