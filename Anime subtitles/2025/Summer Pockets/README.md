@@ -37,7 +37,6 @@
 | EP24 | 有太阳的地方 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E24.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E24.zh-hant.ass) |
 | EP25 | 未来的回忆 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E25.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E25.zh-hant.ass) |
 | EP26 | 把幸福装满口袋 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E26.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E26.zh-hant.ass) |
-| EP31 |  | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E31.zh-hans.ass) | - |
 
 ## 字体整合包
 
