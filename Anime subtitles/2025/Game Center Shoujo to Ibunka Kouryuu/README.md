@@ -10,7 +10,7 @@
 
 | 职位 | 人员 |
 | --- | --- |
-| 翻译 | smzase、MoYuanCN |
+| 翻译 | smzase<br>MoYuanCN |
 | 时轴、特效、美工 | smzase |
 
 ## 字幕列表
