@@ -1,4 +1,4 @@
-![Ichijyoma Mankitsu Gurashi](https://acgapi.072158.xyz/pb/pic/1775051967438_hu77sk.jpg)
+![Ichijyoma Mankitsu Gurashi](https://acgpic.072158.xyz/pb/pic/1778727301843_sy5uik.jpg)
 
 ## 一叠间漫画咖啡屋生活
 
