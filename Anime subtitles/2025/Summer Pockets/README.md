@@ -3,6 +3,19 @@
 ## 夏日口袋
 
 > 唯有那份眩目，未曾忘却。<br><br>
+> 为了整理去世祖母的遗物，主人公鹰原羽依里利用暑假来到了鸟白岛。<br>
+> 在帮忙收拾祖母的回忆之物的同时，<br>
+> 他一边对首次接触的「岛上生活」感到困惑，一边逐渐适应。<br><br>
+> 与眺望大海的少女相遇，<br>
+> 与寻找不可思议蝴蝶的少女相遇，<br>
+> 与寻找回忆与海盗船的少女相遇，<br>
+> 与住在宁静灯塔中的少女相遇，<br><br>
+> 在岛上，他结交了新的伙伴──<br><br>
+> 他想，如果这个暑假永远都不要结束就好了。
+
+| 职位 | 人员 |
+| --- | --- |
+| 翻译、时轴、特效、美工 | smzase |
 
 ## 字幕列表
 
@@ -11,7 +24,6 @@
 
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
-| 合集 |  | [合集下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20%E7%AE%80%E6%97%A5%E5%8F%8C%E8%AF%AD%20%20%E5%AD%97%E5%B9%95%E5%90%88%E9%9B%86%E5%8E%8B%E7%BC%A9%E5%8C%85.7z) | [合集下載](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%E5%A4%8F%E6%97%A5%E5%8F%A3%E8%A2%8B%20%E7%B9%81%E6%97%A5%E5%8F%8C%E8%AF%AD%20%20%E5%AD%97%E5%B9%95%E5%90%88%E9%9B%86%E5%8E%8B%E7%BC%A9%E5%8C%85.7z) |
 | EP01 | 欢迎来到鸟白岛 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E01.zh-hant.ass) |
 | EP02 | 度过暑假的方法 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E02.zh-hant.ass) |
 | EP03 | 海盗船与少女 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Summer%20Pockets/%5Bsmzase%5D%20Summer%20Pockets%20-%20S01E03.zh-hant.ass) |
