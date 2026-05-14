@@ -3,15 +3,6 @@
 ## 与游戏中心的少女异文化交流的故事
 
 > 在游戏厅打工的少·草壁莲司，偶然注意到了一个身影，在情人节那天，一位英国少女·莉莉一个人沉迷于抓娃娃机。<br>
-> 可她玩了很久都抓不到一个，莲司看到急得眼泪杨洋的她，忍不住伸出了援手。<br>
-> 在顺利抓到布偶的几天后，这位少女递给少年一张意想不到的卡片。<br><br>
-> “Be My Valentine!”（做我的恋人吧！）<br><br>
-> 与天真烂漫的英国少女相遇。一场始于误会的游戏厅异文化交流就此拉开序幕！
-
-| 职位 | 人员 |
-| --- | --- |
-| 翻译 | smzase<br>MoYuanCN |
-| 时轴、特效、美工 | smzase |
 
 ## 字幕列表
 
@@ -20,6 +11,7 @@
 
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
+| 合集 |  | [合集下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%E4%B8%8E%E6%B8%B8%E6%88%8F%E4%B8%AD%E5%BF%83%E7%9A%84%E5%B0%91%E5%A5%B3%E5%BC%82%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E7%9A%84%E6%95%85%E4%BA%8B%20%E7%AE%80%E6%97%A5%E5%8F%8C%E8%AF%AD%20%20%E5%AD%97%E5%B9%95%E5%90%88%E9%9B%86%E5%8E%8B%E7%BC%A9%E5%8C%85.7z) | [合集下載](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%E4%B8%8E%E6%B8%B8%E6%88%8F%E4%B8%AD%E5%BF%83%E7%9A%84%E5%B0%91%E5%A5%B3%E5%BC%82%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E7%9A%84%E6%95%85%E4%BA%8B%20%E7%B9%81%E6%97%A5%E5%8F%8C%E8%AF%AD%20%20%E5%AD%97%E5%B9%95%E5%90%88%E9%9B%86%E5%8E%8B%E7%BC%A9%E5%8C%85.7z) |
 | EP01 | 男孩邂逅游戏厅女孩 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E01.zh-hant.ass) |
 | EP02 | 如果推不行的话，那就试试拉吧 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E02.zh-hant.ass) |
 | EP03 | 你的哥哥呢？ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E03.zh-hant.ass) |
