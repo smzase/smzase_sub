@@ -2,15 +2,6 @@
 
 ## 小阿尔玛想要成为家人
 
-> 年轻的天才科学家恩吉与雀创造了外表可爱却战力强大、拥有超越人类AI的战斗机器人阿尔玛，原以为能凭此获得世界认可，却没想到阿尔玛竟叫他们为“爸爸”“妈妈”，引发大混乱。<br>
-> 两人索性以父母身份与她组成家庭，对一切都充满好奇的阿尔玛凭着超强学习力和行动力不停折腾“爸妈”，一场全新风格的家庭喜剧就此开幕。
-
-| 职位 | 人员 |
-| --- | --- |
-| 翻译 | smzase |
-| 校对 | Meiko |
-| 时轴、特效、美工 | smzase |
-
 ## 字幕列表
 
 - `Zh-hans` 为 简日双语
@@ -31,6 +22,10 @@
 | EP11 | 我想要成为家人 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Alma-chan%20Wants%20to%20Be%20a%20Family/%5Bsmzase%26Meiko%5D%20Alma-chan%20Wants%20to%20Be%20a%20Family%20-%20S01E11.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Alma-chan%20Wants%20to%20Be%20a%20Family/%5Bsmzase%26Meiko%5D%20Alma-chan%20Wants%20to%20Be%20a%20Family%20-%20S01E11.zh-hant.ass) |
 
 ## 使用字体
+
+| 字体压缩包 |
+| --- |
+| [小阿尔玛想要成为家人 字体整合包.7z](https://sub.072158.xyz/font-packages/%E5%B0%8F%E9%98%BF%E5%B0%94%E7%8E%9B%E6%83%B3%E8%A6%81%E6%88%90%E4%B8%BA%E5%AE%B6%E4%BA%BA%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
 
 | 字体名 | 字体下载 |
 | --- | --- |
