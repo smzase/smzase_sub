@@ -4,10 +4,10 @@
 
 ## 字幕语言
 
+## 字幕列表
+
 - `Zh-hans` 为 简日双语
 - `Zh-hant` 为 繁日雙語
-
-## 字幕列表
 
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
@@ -24,13 +24,11 @@
 | EP11 | 灼热的秘计 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Tsuyokute%20New%20Saga/%5Bsmzase%5D%20Tsuyokute%20New%20Saga%20-%20S01E11.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Tsuyokute%20New%20Saga/%5Bsmzase%5D%20Tsuyokute%20New%20Saga%20-%20S01E11.zh-hant.ass) |
 | EP12 | 英雄的故事仍在继续 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Tsuyokute%20New%20Saga/%5Bsmzase%5D%20Tsuyokute%20New%20Saga%20-%20S01E12.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Tsuyokute%20New%20Saga/%5Bsmzase%5D%20Tsuyokute%20New%20Saga%20-%20S01E12.zh-hant.ass) |
 
-## 字体整合包
+## 使用字体
 
-| 压缩包名 |
+| 字体压缩包 |
 | --- |
 | [强者的新传说 字体整合包.7z](https://sub.072158.xyz/font-packages/%E5%BC%BA%E8%80%85%E7%9A%84%E6%96%B0%E4%BC%A0%E8%AF%B4%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
-
-## 使用字体
 
 | 字体名 | 字体下载 |
 | --- | --- |
