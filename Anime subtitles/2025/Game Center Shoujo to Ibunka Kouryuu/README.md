@@ -33,13 +33,11 @@
 | EP11 | 回老家 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E11.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E11.zh-hant.ass) |
 | EP12 | 我的心意从未改变 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E12.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu/%5Bsmzase%5D%20Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu%20-%20S01E12.zh-hant.ass) |
 
-## 字体整合包
+## 使用字体
 
-| 压缩包名 |
+| 字体压缩包 |
 | --- |
 | [与游戏中心的少女异文化交流的故事 字体整合包.7z](https://sub.072158.xyz/font-packages/%E4%B8%8E%E6%B8%B8%E6%88%8F%E4%B8%AD%E5%BF%83%E7%9A%84%E5%B0%91%E5%A5%B3%E5%BC%82%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E7%9A%84%E6%95%85%E4%BA%8B%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
-
-## 使用字体
 
 | 字体名 | 字体下载 |
 | --- | --- |
