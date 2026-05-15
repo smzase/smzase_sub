@@ -8,10 +8,8 @@
 | 职位 | 人员 |
 | --- | --- |
 | 翻译 | smzase |
-| 校对 | Meiko  $\color{#8E8E8E}{tastySugar}$  |
+| 校对 | Meiko |
 | 时轴、特效、美工 | smzase |
-
-
 
 ## 字幕列表
 
