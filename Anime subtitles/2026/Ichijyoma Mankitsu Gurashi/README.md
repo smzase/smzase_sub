@@ -25,6 +25,7 @@
 | EP03 | 宿命！猫 vs 刺猬 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E03.zh-hant.ass) |
 | EP04 | 夏天啦！好热啊！出发去南国吧！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E04.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E04.zh-hant.ass) |
 | EP05 | 芽衣子，回老家 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E05.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E05.zh-hant.ass) |
+| EP06 |  | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E06.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Ichijyoma%20Mankitsu%20Gurashi/%5Bsmzase%5D%20Ichijyoma%20Mankitsu%20Gurashi%20-%20S01E06.zh-hant.ass) |
 
 ## 使用字体
 
@@ -51,5 +52,4 @@
 | 梦源黑体 CN W24 | [DreamHanSansCN-W24.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W24.ttf) |
 | 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
 | 猫啃什锦黑 | [MaokenAssortedSans.otf](https://sub.072158.xyz/fonts/MaokenAssortedSans.otf) |
-| 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
 
