@@ -52,4 +52,5 @@
 | 梦源黑体 CN W24 | [DreamHanSansCN-W24.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W24.ttf) |
 | 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
 | 猫啃什锦黑 | [MaokenAssortedSans.otf](https://sub.072158.xyz/fonts/MaokenAssortedSans.otf) |
+| 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
 
