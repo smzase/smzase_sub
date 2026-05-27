@@ -41,6 +41,10 @@
 
 ## 使用字体
 
+| 字体整合包 |
+| --- |
+| [非人学生与厌世教师 字体整合包.7z](https://sub.072158.xyz/font-packages/%E9%9D%9E%E4%BA%BA%E5%AD%A6%E7%94%9F%E4%B8%8E%E5%8E%8C%E4%B8%96%E6%95%99%E5%B8%88%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
+
 | 字体名 | 字体下载 |
 | --- | --- |
 | Arial | [arial.ttf](https://sub.072158.xyz/fonts/arial.ttf) |
