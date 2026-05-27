@@ -2,7 +2,7 @@
 
  - PS：字幕文件夹内，翻到底下，可以下载字体和字体压缩包
 
-| 动画名 | 语言&片源 | 说明 |
+| 动画名 | 语言&片源 | 小说几句 |
 | --- | --- | --- |
 | [夏日口袋（Summer Pockets）](./Anime%20subtitles/2025/Summer%20Pockets) | 中日双语　BD 源 | 出道即巅峰之作，苍厨发力了 |
 | [与游戏中心的少女异文化交流的故事](./Anime%20subtitles/2025/Game%20Center%20Shoujo%20to%20Ibunka%20Kouryuu) | 中日双语　BD 源 | 修翻译 删私货 移除him |
