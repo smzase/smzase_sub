@@ -41,6 +41,7 @@
 | 华康翩翩体A Std | [华康翩翩体A Std W5.otf](https://sub.072158.xyz/fonts/%E5%8D%8E%E5%BA%B7%E7%BF%A9%E7%BF%A9%E4%BD%93A%20Std%20W5.otf) |
 | 小赖字体 SC | [XiaolaiSC-Regular.ttf](https://sub.072158.xyz/fonts/XiaolaiSC-Regular.ttf) |
 | 方正FW童趣POP体 简 | [方正FW童趣POP体 简.TTF](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3FW%E7%AB%A5%E8%B6%A3POP%E4%BD%93%20%E7%AE%80.TTF) |
+| 方正乾隆行书 简繁 | [FZQianLXSJF.otf](https://sub.072158.xyz/fonts/FZQianLXSJF.otf) |
 | 方正兰亭圆_GBK_准 | [方正兰亭圆_GBK_准.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E5%87%86.ttf) |
 | 方正兰亭圆_GBK_大 | [方正兰亭圆_GBK_大.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E5%A4%A7.ttf) |
 | 方正兰亭圆_GBK_特 | [方正兰亭圆_GBK_特.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E7%89%B9.ttf) |
