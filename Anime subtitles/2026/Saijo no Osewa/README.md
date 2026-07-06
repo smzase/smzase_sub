@@ -21,3 +21,13 @@
 | --- | --- | --- | --- |
 | EP01 | 完美的大小姐 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E01.zh-hant.ass) |
 
+## 使用字体
+
+| 字体名 | 字体下载 |
+| --- | --- |
+| 夢ノ明朝 JP W15 | [DreamHanSerifJP-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifJP-W15.ttf) |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
+
