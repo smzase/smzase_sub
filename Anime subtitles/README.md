@@ -13,5 +13,8 @@
 | 标题 | 中文名 |
 | --- | --- |
 | [Ichijyoma Mankitsu Gurashi](./2026/Ichijyoma%20Mankitsu%20Gurashi/) | 一叠间漫画咖啡屋生活 |
+| [Lv999 no Murabito](./2026/Lv999%20no%20Murabito/) | LV999的村民 |
+| [Otome Kaijuu Carameliser](./2026/Otome%20Kaijuu%20Carameliser/) | 少女怪兽焦糖味 |
 | [Rakudai Kenja no Gakuin Musou](./2026/Rakudai%20Kenja%20no%20Gakuin%20Musou/) | 落第贤者的学院无双～第二回转生，S等级开挂魔法师冒险记～ |
+| [Saijo no Osewa](./2026/Saijo%20no%20Osewa/) | 才女的侍从 在满是高岭之花的贵族学校暗中照顾（毫无生活自理能力的）学院第一大小姐 |
 
