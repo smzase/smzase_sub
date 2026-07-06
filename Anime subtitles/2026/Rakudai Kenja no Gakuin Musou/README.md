@@ -20,6 +20,7 @@
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
 | EP01 | 雷神皇 -序章- | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Rakudai%20Kenja%20no%20Gakuin%20Musou/%5Bsmzase%5D%20Rakudai%20Kenja%20no%20Gakuin%20Musou%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Rakudai%20Kenja%20no%20Gakuin%20Musou/%5Bsmzase%5D%20Rakudai%20Kenja%20no%20Gakuin%20Musou%20-%20S01E01.zh-hant.ass) |
+| EP02 | 毫无适应性的天才 -失传魔法- | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Rakudai%20Kenja%20no%20Gakuin%20Musou/%5Bsmzase%5D%20Rakudai%20Kenja%20no%20Gakuin%20Musou%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Rakudai%20Kenja%20no%20Gakuin%20Musou/%5Bsmzase%5D%20Rakudai%20Kenja%20no%20Gakuin%20Musou%20-%20S01E02.zh-hant.ass) |
 
 ## 使用字体
 
