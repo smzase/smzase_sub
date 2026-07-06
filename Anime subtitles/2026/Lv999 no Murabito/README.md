@@ -28,3 +28,13 @@
 | EP01 | 世界的设定 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E01.zh-hant.ass) |
 | EP02 | 因为他是超级大笨蛋 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E02.zh-hant.ass) |
 
+## 使用字体
+
+| 字体名 | 字体下载 |
+| --- | --- |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 夢ノ角ゴ JP W26 | [DreamHanSansJP-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W26.ttf) |
+| 方正特雅宋_GBK | [方正特雅宋_GBK.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E7%89%B9%E9%9B%85%E5%AE%8B_GBK.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
+
