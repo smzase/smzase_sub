@@ -13,7 +13,7 @@
 | [落第贤者的学院无双](./Anime%20subtitles/2026/Rakudai%20Kenja%20no%20Gakuin%20Musou) | 中日双语　Web 源 | 赤石时间到！该来赤石了！ |
 | [Lv999的村民](./Anime%20subtitles/2026/Lv999%20no%20Murabito) | 中日双语　Web 源 | 赤石时间到！该来赤石了！ |
 | [少女怪兽焦糖味](./Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser) | 中日双语　Web 源 | 比较看好这部的制作 |
-| [少女的侍从](./Anime%20subtitles/2026/Saijo%20no%20Osewa) | 中日双语　Web 源 | 还行 |
+| [才女的侍从](./Anime%20subtitles/2026/Saijo%20no%20Osewa) | 中日双语　Web 源 | 还行 |
 
 
 ## 字幕说明
