@@ -20,6 +20,7 @@
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
 | EP01 | 完美的大小姐 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E01.zh-hant.ass) |
+| EP02 | 侍从 第一天 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E02.zh-hant.ass) |
 
 ## 使用字体
 
