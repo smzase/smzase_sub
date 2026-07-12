@@ -30,5 +30,6 @@
 | 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
 | 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
 | 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
 | 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
 
