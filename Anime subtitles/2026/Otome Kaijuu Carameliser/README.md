@@ -19,6 +19,7 @@
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
 | EP01 | 少女怪兽现身东京 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser/%5Bsmzase%5D%20Otome%20Kaijuu%20Carameliser%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser/%5Bsmzase%5D%20Otome%20Kaijuu%20Carameliser%20-%20S01E01.zh-hant.ass) |
+| EP02 | 无法敞开的心扉 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser/%5Bsmzase%5D%20Otome%20Kaijuu%20Carameliser%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser/%5Bsmzase%5D%20Otome%20Kaijuu%20Carameliser%20-%20S01E02.zh-hant.ass) |
 
 ## 使用字体
 
