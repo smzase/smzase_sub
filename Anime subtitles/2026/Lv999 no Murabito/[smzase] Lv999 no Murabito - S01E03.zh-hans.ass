@@ -16,10 +16,10 @@ Video File: ../CR/[Erai-raws] Lv999 no Murabito - 03 [1080p CR WEB-DL AVC AAC][M
 Keyframes File: ../CR/[Erai-raws] Lv999 no Murabito - 03 [1080p CR WEB-DL AVC AAC][MultiSub][FBEB0847].mkv.kf.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 497
-Active Line: 505
-Video Position: 15932
+Video Zoom Percent: 0.375000
+Scroll Position: 706
+Active Line: 862
+Video Position: 32128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,6 +33,8 @@ Style: Sign,Dream Han Sans CN W20,70,&H00FEFEFE,&H000000FF,&H000E0E0E,&H000E0E0E
 Style: Note,Dream Han Sans CN W20,50,&H00FFFFFF,&H00FFFFFF,&H00232323,&H000E0E0E,0,0,0,0,100,100,0,0,1,2.6,0,7,25,25,15,1
 Style: OPJP,Dream Han Sans JP W26,62,&H006E4B18,&H000000FF,&H00F0F1F9,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,8,25,25,8,1
 Style: OPCN,梦源黑体 CN W26,62,&H006E4B18,&H000000FF,&H00F0F1F9,&H00000000,0,0,0,0,100,100,0,0,1,3.4,0,2,25,25,18,1
+Style: EDJP,FOT-Kurokane Std EB,66,&H0038749B,&H000000FF,&H00FCFCFC,&H006A859C,0,0,0,0,100,100,0,0,1,2.5,5,8,25,25,2,1
+Style: EDCN,YW HeiZhongTi Bold,66,&H0038749B,&H000000FF,&H00FCFCFC,&H006A859C,0,0,0,0,100,100,0,0,1,2.5,5,2,25,25,8,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -113,7 +115,7 @@ Dialogue: 6,0:06:17.73,0:06:18.82,Text CN,镜浩二,0,0,0,,这个借我用用
 Dialogue: 6,0:06:20.49,0:06:22.67,Text CN,镜浩二,0,0,0,,正适合用来装钱
 Dialogue: 6,0:06:25.26,0:06:27.53,Text CN,镜浩二,0,0,0,,话说  你叫什么名字
 Dialogue: 6,0:06:28.58,0:06:30.75,Text CN,玛瑙,0,0,0,,玛瑙·亚伯拉罕夏姆
-Dialogue: 6,0:06:30.75,0:06:34.33,Text CN,玛瑙,0,0,0,,代代效忠于魔族大人一族的后裔
+Dialogue: 6,0:06:30.75,0:06:34.33,Text CN,玛瑙,0,0,0,,代代效忠于魔王大人一族的后裔
 Dialogue: 6,0:06:34.33,0:06:37.63,Text CN,玛瑙,0,0,0,,已为魔王大人和艾莉丝大人效力三年
 Dialogue: 6,0:06:37.63,0:06:38.93,Text CN,镜浩二,0,0,0,,是么
 Dialogue: 6,0:06:40.42,0:06:43.42,Text CN,玛瑙,0,0,0,,你… 不杀掉我吗?
@@ -898,6 +900,33 @@ Dialogue: 0,0:01:59.94,0:02:00.24,OPCN,,0,0,0,fx,{\an5\bord8.8\c&H6E4B18&\3c&H6E
 Comment: 0,0:02:00.24,0:02:03.11,OPCN,,0,0,0,,{=0}> OP特效 END
 Comment: 0,0:01:07.05,0:01:07.05,Text CN,,0,0,0,,
 Comment: 0,0:00:47.03,0:00:47.03,Text CN,,0,0,0,,
+Comment: 0,0:22:19.99,0:22:19.99,Text CN,,0,0,0,,—————————— ED ——————————
+Dialogue: 0,0:22:20.49,0:22:29.12,EDJP,,0,0,0,,{\fad(390,390)}君に言われた言葉の意味を　ずっと考えてる
+Dialogue: 0,0:22:29.41,0:22:39.14,EDJP,,0,0,0,,{\fad(390,390)}頭上に暗闇　遠回りの道が唯一救いだったんだ
+Dialogue: 0,0:22:46.72,0:22:54.48,EDJP,,0,0,0,,{\fad(390,390)}角を曲がる　まっすぐ歩く　ちょっと走る　息が切れる
+Dialogue: 0,0:22:55.06,0:22:58.90,EDJP,,0,0,0,,{\fad(390,390)}そうやって心臓は動いてる
+Dialogue: 0,0:22:58.90,0:23:02.82,EDJP,,0,0,0,,{\fad(390,390)}惰性と安定と、それだけだ
+Dialogue: 0,0:23:03.36,0:23:08.83,EDJP,,0,0,0,,{\fad(390,390)}教えられなかったこんな歩き方　情報過多だ退屈にもなれない
+Dialogue: 0,0:23:08.83,0:23:11.92,EDJP,,0,0,0,,{\fad(390,390)}タスクは倍々　もう売ってる花火　季節は曖昧
+Dialogue: 0,0:23:11.92,0:23:15.67,EDJP,,0,0,0,,{\fad(390,390)}悲しいほど何もないから
+Dialogue: 0,0:23:15.67,0:23:22.43,EDJP,,0,0,0,,{\fad(390,390)}色を塗ろう､世界を嫌いになる前に
+Dialogue: 0,0:23:22.88,0:23:28.01,EDJP,,0,0,0,,{\fad(390,390)}いつか　ＨＰが切れたら
+Dialogue: 0,0:23:28.01,0:23:33.14,EDJP,,0,0,0,,{\fad(390,390)}僕はやっとちゃんと言えるのかな
+Dialogue: 0,0:23:33.14,0:23:37.36,EDJP,,0,0,0,,{\fad(390,390)}「君が歩くなら僕も、と思えたんだ」
+Dialogue: 0,0:23:37.36,0:23:46.12,EDJP,,0,0,0,,{\fad(390,390)}「随分遠くからここまで来たんだ」って
+Dialogue: 0,0:22:20.49,0:22:29.12,EDCN,,0,0,0,,{\fad(390,390)}我一直在思索  你对我说的那句话的含义
+Dialogue: 0,0:22:29.41,0:22:39.14,EDCN,,0,0,0,,{\fad(390,390)}头顶被暗夜笼罩  唯有绕行的路途能给我救赎
+Dialogue: 0,0:22:46.72,0:22:54.48,EDCN,,0,0,0,,{\fad(390,390)}转过街角  径直前行  稍稍小跑  气喘吁吁
+Dialogue: 0,0:22:55.06,0:22:58.90,EDCN,,0,0,0,,{\fad(390,390)}这颗心脏  便以这种方式证明着跳动
+Dialogue: 0,0:22:58.90,0:23:02.82,EDCN,,0,0,0,,{\fad(390,390)}仅仅是惯性与安稳的交织
+Dialogue: 0,0:23:03.36,0:23:08.83,EDCN,,0,0,0,,{\fad(390,390)}无人教过我如何前行  信息多得连无聊都认为是奢求
+Dialogue: 0,0:23:08.83,0:23:11.92,EDCN,,0,0,0,,{\fad(390,390)}任务成倍增加  烟火已经开卖  季节也变得暧昧不清
+Dialogue: 0,0:23:11.92,0:23:15.67,EDCN,,0,0,0,,{\fad(390,390)}正因为一无所有才心生悲哀
+Dialogue: 0,0:23:15.67,0:23:22.43,EDCN,,0,0,0,,{\fad(390,390)}所以趁对这世界彻底厌恶之前，试着为它涂抹些许色彩吧
+Dialogue: 0,0:23:22.88,0:23:28.01,EDCN,,0,0,0,,{\fad(390,390)}若有一天  HP终告耗尽
+Dialogue: 0,0:23:28.01,0:23:33.14,EDCN,,0,0,0,,{\fad(390,390)}我是否终于能够  把这番话好好对你说出口呢
+Dialogue: 0,0:23:33.14,0:23:37.36,EDCN,,0,0,0,,{\fad(390,390)}「既然你愿步履不停，那么我也愿迈步向前」
+Dialogue: 0,0:23:37.36,0:23:46.12,EDCN,,0,0,0,,{\fad(390,390)}「原来，我已走过遥远路途来到了这里，抵达了你身边」
 Comment: 0,0:22:19.99,0:22:19.99,Text CN,,0,0,0,,
 
 [Aegisub Extradata]
