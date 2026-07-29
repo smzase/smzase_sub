@@ -16,10 +16,9 @@ Video File: ../CR/[Erai-raws] rakudai kenja - 02 [1080p CR WEB-DL AVC AAC][Multi
 Keyframes File: ../CR/[Erai-raws] rakudai kenja - 02 [1080p CR WEB-DL AVC AAC][MultiSub][0853950E].mkv.kf.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 800
-Active Line: 17273
-Video Position: 33225
+Video Zoom Percent: 0.375000
+Scroll Position: 51
+Active Line: 52
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -90,7 +89,7 @@ Dialogue: 6,0:03:47.29,0:03:49.21,Text CN,弗雷泽,0,0,0,,埃弗塔尔  真对�
 Dialogue: 6,0:03:49.21,0:03:51.61,Text CN,弗雷泽,0,0,0,,我会跟父亲再提这件事的
 Dialogue: 6,0:03:52.25,0:03:53.25,Text CN,埃弗塔尔,0,0,0,,嗯…
 Dialogue: 6,0:03:53.88,0:03:58.68,Text CN,埃弗塔尔,0,0,0,,弗雷泽哥哥是奥尔科特公爵正室所生的次子
-Dialogue: 6,0:03:58.68,0:04:02.22,Text CN,埃弗塔尔,0,0,0,,他于心不忍  便一直照顾我们母女俩
+Dialogue: 6,0:03:58.68,0:04:02.22,Text CN,埃弗塔尔,0,0,0,,他于心不忍  便一直照顾我们母子俩
 Dialogue: 6,0:04:02.22,0:04:03.64,Text CN,埃弗塔尔,0,0,0,,是一位非常温柔的人
 Dialogue: 6,0:04:03.64,0:04:05.48,Text CN,弗雷泽,0,0,0,,还有什么不便之处吗?
 Dialogue: 6,0:04:05.48,0:04:08.27,Text CN,伊莉雅,0,0,0,,没有  您已经帮了我们很大的忙
@@ -362,7 +361,7 @@ Dialogue: 6,0:19:03.50,0:19:06.08,Text CN,弗雷泽,0,0,0,,咦？真奇怪啊
 Dialogue: 6,0:19:06.08,0:19:07.92,Text CN,弗雷泽,0,0,0,,连我都流泪了…
 Dialogue: 6,0:19:08.42,0:19:10.38,Text CN,弗雷泽,0,0,0,,埃弗塔尔  真是太好了呢
 Dialogue: 6,0:19:11.67,0:19:13.30,Text CN,伊莉雅,0,0,0,,那是当然的
-Dialogue: 6,0:19:13.30,0:19:17.85,Text CN,伊莉雅,0,0,0,,您这些年来一直在照顾我们母女俩
+Dialogue: 6,0:19:13.30,0:19:17.85,Text CN,伊莉雅,0,0,0,,您这些年来一直在照顾我们母子俩
 Dialogue: 6,0:19:17.85,0:19:21.44,Text CN,埃弗塔尔,0,0,0,,唯独这两个人  我不想让他们伤心
 Dialogue: 6,0:19:25.69,0:19:27.09,Text CN,弗雷泽,0,0,0,,埃弗塔尔  我们到了
 Dialogue: 6,0:19:27.48,0:19:30.32,Text CN,埃弗塔尔,0,0,0,,噢  好气派的宅邸
@@ -17286,23 +17285,23 @@ Comment: 1,0:01:49.69,0:01:50.29,OPCN,,0,0,0,,{=1}> OP特效 END
 Comment: 0,0:00:28.01,0:00:28.01,Text CN,,0,0,0,,
 Comment: 0,0:00:28.01,0:00:28.01,Text CN,,0,0,0,,
 Comment: 0,0:22:10.02,0:22:10.02,EDJP,,0,0,0,,—————————— ED ——————————
-Dialogue: 0,0:22:10.73,0:22:16.15,EDJP,,0,0,0,,{\blur2\fad(380,380)}見上げた形のない世界
-Dialogue: 0,0:22:16.15,0:22:21.53,EDJP,,0,0,0,,{\blur2\fad(380,380)}呪われた夢だと気付いていたんだ
-Dialogue: 0,0:22:21.65,0:22:26.91,EDJP,,0,0,0,,{\blur2\fad(380,380)}あなたがにくくて愛おしい
+Dialogue: 0,0:22:10.73,0:22:16.15,EDJP,,0,0,0,,{\blur2\fad(380,380)}見上げた果てしのない世界
+Dialogue: 0,0:22:16.15,0:22:21.53,EDJP,,0,0,0,,{\blur2\fad(380,380)}呪われた夢だと気づいてたんだ
+Dialogue: 0,0:22:21.65,0:22:26.91,EDJP,,0,0,0,,{\blur2\fad(380,380)}あなたが憎くて愛おしい
 Dialogue: 0,0:22:26.91,0:22:32.46,EDJP,,0,0,0,,{\blur2\fad(380,380)}憧れが醜く形を変えても
 Dialogue: 0,0:22:32.46,0:22:37.75,EDJP,,0,0,0,,{\blur2\fad(380,380)}あなたが背負う十字架さえも
 Dialogue: 0,0:22:37.75,0:22:42.93,EDJP,,0,0,0,,{\blur2\fad(380,380)}羨む僕には美しいものだった
 Dialogue: 0,0:22:42.93,0:22:48.22,EDJP,,0,0,0,,{\blur2\fad(380,380)}傷跡さえも誇れるのなら
-Dialogue: 0,0:22:48.22,0:22:53.36,EDJP,,0,0,0,,{\blur2\fad(380,380)}それを強さと呼ぶのか
-Dialogue: 0,0:22:53.73,0:23:04.53,EDJP,,0,0,0,,{\blur2\fad(380,380)}人はなぜ一番弱い指で　約束をして私が目合うの
+Dialogue: 0,0:22:48.22,0:22:53.36,EDJP,,0,0,0,,{\blur2\fad(380,380)}それを強さと呼ぶのか？
+Dialogue: 0,0:22:53.73,0:23:04.53,EDJP,,0,0,0,,{\blur2\fad(380,380)}人はなぜ一番弱い指で　約束をしては確かめ合うの？
 Dialogue: 0,0:23:04.53,0:23:09.66,EDJP,,0,0,0,,{\blur2\fad(380,380)}あなたがいたから僕は弱さを知った
-Dialogue: 0,0:23:09.66,0:23:15.08,EDJP,,0,0,0,,{\blur2\fad(380,380)}それでもそばにいたいと願った
+Dialogue: 0,0:23:09.66,0:23:15.08,EDJP,,0,0,0,,{\blur2\fad(380,380)}それでも側にいたいと願った
 Dialogue: 0,0:23:15.08,0:23:20.46,EDJP,,0,0,0,,{\blur2\fad(380,380)}周回遅れで追う背中に
-Dialogue: 0,0:23:20.46,0:23:25.97,EDJP,,0,0,0,,{\blur2\fad(380,380)}伸す手はまだ届かないけれど
-Dialogue: 0,0:23:25.97,0:23:31.31,EDJP,,0,0,0,,{\blur2\fad(380,380)}いつか辿り着く　その瞬間を待ってた
-Dialogue: 0,0:23:31.31,0:23:35.77,EDJP,,0,0,0,,{\blur2\fad(380,0)}あなたをなぞるきどうで
-Dialogue: 0,0:23:35.77,0:23:38.26,EDJP,,0,0,0,,{\blur2\fad(0,380)}憧憬を見てた
-Dialogue: 0,0:22:10.73,0:22:16.15,EDOP,,0,0,0,,{\blur2\fad(380,380)}望着这片无形的世界
+Dialogue: 0,0:23:20.46,0:23:25.97,EDJP,,0,0,0,,{\blur2\fad(380,380)}伸ばす手はまだ届かないけれど
+Dialogue: 0,0:23:25.97,0:23:31.31,EDJP,,0,0,0,,{\blur2\fad(380,380)}いつか辿り着くその瞬間までは
+Dialogue: 0,0:23:31.31,0:23:35.77,EDJP,,0,0,0,,{\blur2\fad(380,0)}あなたをなぞる軌道で
+Dialogue: 0,0:23:35.77,0:23:38.26,EDJP,,0,0,0,,{\blur2\fad(0,380)}憧憬を見ていた
+Dialogue: 0,0:22:10.73,0:22:16.15,EDOP,,0,0,0,,{\blur2\fad(380,380)}望着这片无边无际的世界
 Dialogue: 0,0:22:16.15,0:22:21.53,EDOP,,0,0,0,,{\blur2\fad(380,380)}我早已察觉那是一场被诅咒的噩梦
 Dialogue: 0,0:22:21.65,0:22:26.91,EDOP,,0,0,0,,{\blur2\fad(380,380)}对我而言  你即可恨又令我无比眷恋
 Dialogue: 0,0:22:26.91,0:22:32.46,EDOP,,0,0,0,,{\blur2\fad(380,380)}即使当时的向往化作了丑陋的模样
@@ -17322,3 +17321,5 @@ Dialogue: 0,0:23:35.77,0:23:38.26,EDOP,,0,0,0,,{\blur2\fad(0,380)}望见了曾�
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
 Data: 1,_aegi_folddata,e1;1;1
+Data: 2,_aegi_folddata,e0;0;1
+Data: 3,_aegi_folddata,e1;0;1

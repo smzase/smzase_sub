@@ -11,15 +11,12 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 落第贤者的学院无双
-Audio File: ../CR/[Erai-raws] rakudai kenja - 03 [1080p CR WEB-DL AVC AAC][MultiSub][56DFEC23].mkv
-Video File: ../CR/[Erai-raws] rakudai kenja - 03 [1080p CR WEB-DL AVC AAC][MultiSub][56DFEC23].mkv
-Keyframes File: ../CR/[Erai-raws] rakudai kenja - 03 [1080p CR WEB-DL AVC AAC][MultiSub][56DFEC23].mkv.kf.txt
-Video AR Mode: 4
+Video File: ?dummy:24000/1001:640000:1920:1080:138:138:138:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 258
-Active Line: 268
-Video Position: 29018
+Scroll Position: 95
+Active Line: 99
+Video Position: 11840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -137,7 +134,7 @@ Dialogue: 6,0:08:00.75,0:08:03.71,Text CN,弗雷泽,0,0,0,,父亲大人干的好
 Dialogue: 6,0:08:04.46,0:08:09.17,Text CN,弗雷泽,0,0,0,,一旦变更王位继承人  他的地位和权力最受影响
 Dialogue: 6,0:08:09.64,0:08:11.35,Text CN,莫利亚,0,0,0,,接下来该咋办?
 Dialogue: 6,0:08:11.35,0:08:13.81,Text CN,弗雷泽,0,0,0,,王都已经回不去了
-Dialogue: 6,0:08:13.81,0:08:19.14,Text CN,弗雷泽,0,0,0,,我们穿过国境  将陛下护送到我国主力部队吧
+Dialogue: 6,0:08:13.81,0:08:19.14,Text CN,弗雷泽,0,0,0,,我们穿过国境  将殿下护送到我国主力部队吧
 Dialogue: 6,0:08:22.23,0:08:25.36,Text CN,弗雷泽,0,0,0,,伊莉雅小姐  真的太感谢你了
 Dialogue: 6,0:08:25.36,0:08:27.40,Text CN,伊莉雅,0,0,0,,请各位一定多加小心
 Dialogue: 6,0:08:27.40,0:08:28.43,Text CN,埃弗塔尔,0,0,0,,请等一下!
