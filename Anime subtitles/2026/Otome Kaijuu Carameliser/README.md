@@ -33,6 +33,7 @@
 | TrueTeraG | [TrueTeraG-Medium-RKSJ-H.ttf](https://sub.072158.xyz/fonts/TrueTeraG-Medium-RKSJ-H.ttf) |
 | 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
 | 方正兰亭圆_GBK_准 | [方正兰亭圆_GBK_准.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E5%87%86.ttf) |
+| 方正兰亭圆_GBK_大 | [方正兰亭圆_GBK_大.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E5%A4%A7.ttf) |
 | 方正新舒体简繁 | [FZNSTJF.otf](https://sub.072158.xyz/fonts/FZNSTJF.otf) |
 | 方正细珊瑚简繁 | [FZXSHJF.otf](https://sub.072158.xyz/fonts/FZXSHJF.otf) |
 | 方正超重要体 简繁 | [FZChaoZYTJF.otf](https://sub.072158.xyz/fonts/FZChaoZYTJF.otf) |
