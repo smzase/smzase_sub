@@ -30,6 +30,7 @@
 | EP03 | 魔族与人类共存 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E03.zh-hant.ass) |
 | EP04 | 我有一件事想问你 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E04.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E04.zh-hant.ass) |
 | EP05 | 被赋予的角色 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E05.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E05.zh-hant.ass) |
+| EP06 | 公主的想法 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E06.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Lv999%20no%20Murabito/%5Bsmzase%5D%20Lv999%20no%20Murabito%20-%20S01E06.zh-hant.ass) |
 
 ## 使用字体
 
