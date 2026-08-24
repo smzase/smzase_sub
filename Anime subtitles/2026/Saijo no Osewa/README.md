@@ -23,6 +23,8 @@
 | EP02 | 侍从 第一天 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E02.zh-hant.ass) |
 | EP03 | 重逢 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E03.zh-hant.ass) |
 | EP04 | 谎言与秘密 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E04.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E04.zh-hant.ass) |
+| EP05 | 拐走我吧 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E05.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E05.zh-hant.ass) |
+| EP06 | 天王寺美丽的建议 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E06.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Saijo%20no%20Osewa/%5Bsmzase%5D%20Saijo%20no%20Osewa%20-%20S01E06.zh-hant.ass) |
 
 ## 使用字体
 
