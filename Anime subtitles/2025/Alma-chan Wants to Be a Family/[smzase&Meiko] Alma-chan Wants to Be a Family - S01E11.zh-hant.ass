@@ -15,10 +15,10 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 11 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 11 [1080p CR WEB-DL AVC AAC][MultiSub][23CE1616].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 882
-Active Line: 932
-Video Position: 15769
+Video Zoom Percent: 0.750000
+Scroll Position: 267
+Active Line: 272
+Video Position: 23696
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -310,7 +310,7 @@ Dialogue: 6,0:15:56.19,0:15:56.85,Text CN,花,0,0,0,,{\blur3.0}啊?
 Dialogue: 6,0:16:21.75,0:16:22.99,Text CN,雀,0,0,0,,{\blur3.0}{\fad(270,0)}怎麼樣?
 Dialogue: 6,0:16:23.71,0:16:26.51,Text CN,阿尔玛,0,0,0,,{\blur3.0}{\fad(0,270)}我認為這裡適合放書包…
 Dialogue: 6,0:16:26.59,0:16:28.30,Text CN,恩吉,0,0,0,,{\blur3.0}{\fad(260,320)}沒什麼大不了的
-Dialogue: 6,0:16:28.30,0:16:30.18,Text CN,阿尔玛,0,0,0,,{\blur3.0}{\fad(260,0)}比如  正確握刀方式…
+Dialogue: 6,0:16:28.30,0:16:30.18,Text CN,阿尔玛,0,0,0,,{\blur3.0}{\fad(260,0)}比如  正確的握刀方式…
 Dialogue: 6,0:16:30.18,0:16:31.47,Text CN,阿尔玛,0,0,0,,{\blur3.0}{\fad(0,310)}要握成「貓爪」
 Dialogue: 6,0:16:31.51,0:16:33.26,Text CN,阿尔玛,0,0,0,,{\blur3.0}{\fad(270,0)}網路強制連接
 Dialogue: 6,0:16:43.11,0:16:44.16,Text CN,阿尔玛,0,0,0,,{\blur3.0}{\3c&H443800&}該回去了
