@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 阿尔玛
-Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 01 [1080p CR WEB-DL AVC AAC][MultiSub][D5BD2D27].mkv
-Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 01 [1080p CR WEB-DL AVC AAC][MultiSub][D5BD2D27].mkv
+Audio File: E:/.A下载的东西/阿尔玛2/S01E01.mkv
+Video File: E:/.A下载的东西/阿尔玛2/S01E01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 422
-Active Line: 429
-Video Position: 33946
+Video Zoom Percent: 0.625000
+Scroll Position: 772
+Active Line: 776
+Video Position: 34045
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -447,7 +447,7 @@ Comment: 6,0:21:03.33,0:21:03.88,Text CN,阿尔玛,0,0,0,,{\blur3.0}啊
 Dialogue: 6,0:21:04.83,0:21:07.71,Text CN,阿尔玛,0,800,0,,{\blur3.0}任务… 失败?
 Dialogue: 6,0:21:08.10,0:21:10.00,Text CN,雀,0,0,0,,{\blur3.0}没关系  没关系
 Dialogue: 6,0:21:10.00,0:21:12.77,Text CN,雀,0,0,0,,{\blur3.0}帮助了他人  加 5000 万亿分!
-Dialogue: 6,0:21:12.77,0:21:14.34,Text CN,恩吉,0,0,0,,{\blur3.0}这不仅仅是一次失败 
+Dialogue: 6,0:21:12.77,0:21:14.34,Text CN,恩吉,0,0,0,,{\blur3.0}这不仅仅是一次失败
 Dialogue: 6,0:21:15.34,0:21:17.42,Text CN,恩吉,0,0,0,,{\blur3.0}失败乃成功之母
 Dialogue: 6,0:21:18.01,0:21:20.68,Text CN,恩吉,0,0,0,,{\blur3.0}阿尔玛的话  会吸取经验并做得更好
 Dialogue: 6,0:21:21.68,0:21:22.30,Text CN,恩吉,0,0,0,,{\blur3.0}对吧
@@ -814,7 +814,7 @@ Dialogue: 5,0:23:35.81,0:23:37.40,Text JP,恩吉,0,0,0,,{\blur3.0}まんまじ�
 Comment: 4,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————标题+注释————————
 Dialogue: 0,0:03:41.24,0:03:46.25,Sign,,0,0,0,,{\an3\fn方正超重要体 简繁\fs88\b1\blur0.4\bord7.4\c&HFFFFFF&\3c&HEBCC6A&\fad(500,500)\pos(1812,890)}「初次见面」
 Dialogue: 0,0:23:09.95,0:23:11.87,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs140\b1\fsp-14\blur0.6\bord20\c&HD7B9E0&\3c&HFFFFFF&\fad(0,130)\pos(960,90)}去买东西前的小片段
-Dialogue: 0,0:23:38.36,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord24\c&HDDA334&\3c&HFFFFFF&\fad(0,0)\pos(960,175)}结束
+Dialogue: 0,0:23:38.36,0:23:39.98,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord24\c&HDDA334&\3c&HFFFFFF&\fad(0,0)\pos(960,175)}结束
 Comment: 6,0:00:00.00,0:00:00.00,Note,,0,0,0,,{\blur3.0\fad(250,250)}※
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字————————
 Dialogue: 3,0:05:26.64,0:05:32.52,Sign,,0,0,0,,{\an5\fn033-上首方糖体\fs68\blur0.6\bord0\c&H000000&\pos(1420,100)\clip(1427,60,1440,250)\t(20,160,\clip(1168,60,1680,250))}今天的阿尔玛报告
