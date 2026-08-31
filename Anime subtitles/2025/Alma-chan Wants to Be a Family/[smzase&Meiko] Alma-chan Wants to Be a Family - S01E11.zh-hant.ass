@@ -15,10 +15,8 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 11 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 11 [1080p CR WEB-DL AVC AAC][MultiSub][23CE1616].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 267
-Active Line: 272
-Video Position: 23696
+Video Zoom Percent: 0.250000
+Active Line: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -46,10 +44,10 @@ Dialogue: 6,0:00:05.82,0:00:07.74,Text CN,雀,0,0,0,,{\blur3.0}你要準備到�
 Dialogue: 6,0:00:08.03,0:00:09.95,Text CN,恩吉,0,0,0,,{\blur3.0}催什麼催  真囉嗦…
 Dialogue: 6,0:00:09.95,0:00:12.90,Text CN,雀,0,0,0,,{\blur3.0}誰讓你一到出門就磨磨唧唧的
 Dialogue: 6,0:00:13.74,0:00:16.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}大量未登記個體正在接近中
-Dialogue: 6,0:00:20.00,0:00:21.28,Text CN,恩吉,0,0,0,,{\blur3.0}你們什麼人!?
+Dialogue: 6,0:00:20.00,0:00:21.63,Text CN,恩吉,0,0,0,,{\blur3.0}你們什麼人!?
 Dialogue: 6,0:00:21.63,0:00:22.88,Text CN,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}打擾了
 Dialogue: 6,0:00:22.88,0:00:26.13,Text CN,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}神里恩吉博士  夜羽雀博士
-Dialogue: 6,0:00:26.46,0:00:29.82,Text CN,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}還有通稱「少女型兵器」的阿爾瑪吧
+Dialogue: 6,0:00:26.46,0:00:29.88,Text CN,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}還有通稱「少女型兵器」的阿爾瑪吧
 Dialogue: 6,0:00:31.72,0:00:33.51,Text CN,恩吉,0,0,0,,{\blur3.0}難道你們是大學的…
 Dialogue: 6,0:00:33.51,0:00:35.39,Text CN,恩吉,0,0,0,,{\blur3.0}不  學會的那幫人嗎!?
 Dialogue: 6,0:00:35.89,0:00:37.30,Text CN,恩吉,0,0,0,,{\blur3.0}如今還來找我們幹什麼!
@@ -70,11 +68,11 @@ Dialogue: 6,0:02:54.15,0:02:57.55,Text CN,恩吉,0,0,0,,{\blur3.0}你們當初�
 Dialogue: 6,0:02:57.55,0:02:59.58,Text CN,恩吉,0,0,0,,{\blur3.0}現在翻臉比翻書還快!
 Dialogue: 6,0:02:59.58,0:03:02.20,Text CN,雀,0,0,0,,{\blur3.0}而且還把阿爾瑪當物品看待
 Dialogue: 6,0:03:02.20,0:03:05.12,Text CN,雀,0,0,0,,{\blur3.0}完全沒必要聽這群人的話!
-Dialogue: 6,0:03:06.29,0:03:07.42,Text CN,恩吉,0,450,0,,{\blur3.0}你們趕緊…
-Dialogue: 6,0:03:07.42,0:03:08.30,Text CN,阿尔玛,0,450,0,,{\blur3.0}爸爸
-Dialogue: 6,0:03:08.84,0:03:09.70,Text CN,阿尔玛,0,450,0,,{\blur3.0}媽媽
-Dialogue: 6,0:03:10.42,0:03:12.21,Text CN,阿尔玛,0,450,0,,{\blur3.0}我們去吧  美國
-Dialogue: 6,0:03:12.21,0:03:13.17,Text CN,恩吉,0,450,0,,{\blur3.0}阿爾瑪!?
+Dialogue: 6,0:03:06.29,0:03:07.42,Text CN,恩吉,0,540,0,,{\blur3.0}你們趕緊…
+Dialogue: 6,0:03:07.42,0:03:08.30,Text CN,阿尔玛,0,540,0,,{\blur3.0}爸爸
+Dialogue: 6,0:03:08.84,0:03:09.70,Text CN,阿尔玛,0,540,0,,{\blur3.0}媽媽
+Dialogue: 6,0:03:10.42,0:03:12.21,Text CN,阿尔玛,0,540,0,,{\blur3.0}我們去美國吧
+Dialogue: 6,0:03:12.21,0:03:13.17,Text CN,恩吉,0,540,0,,{\blur3.0}阿爾瑪!?
 Dialogue: 6,0:03:13.59,0:03:17.26,Text CN,阿尔玛,0,0,0,,{\blur3.0}讓曾經否定你們研究的人心服口服
 Dialogue: 6,0:03:17.26,0:03:19.30,Text CN,阿尔玛,0,0,0,,{\blur3.0}這是你們的夢想吧
 Dialogue: 6,0:03:19.30,0:03:20.88,Text CN,恩吉,0,0,0,,{\blur3.0}啊… 嗯
@@ -256,7 +254,7 @@ Dialogue: 6,0:13:37.76,0:13:38.97,Text CN,恩吉,0,0,0,,{\blur3.0}雀…?
 Dialogue: 6,0:13:39.38,0:13:41.93,Text CN,雀,0,0,0,,{\blur3.0}一開始是你提出來的吧
 Dialogue: 6,0:13:41.93,0:13:44.43,Text CN,雀,0,0,0,,{\blur3.0}把阿爾瑪當作女兒對待
 Dialogue: 6,0:13:44.43,0:13:45.85,Text CN,雀,0,0,0,,{\blur3.0}那都是騙人的嗎?
-Dialogue: 6,0:13:48.60,0:13:50.48,Text CN TOP,恩吉,0,0,0,,{\blur3.0}{\fad(240,240)}這並不算失敗
+Dialogue: 6,0:13:48.60,0:13:50.48,Text CN TOP,恩吉,0,0,0,,{\blur3.0}{\fad(240,240)}這並不算一次失敗
 Dialogue: 6,0:13:49.14,0:13:50.27,Text CN,雀,0,0,0,,{\blur3.0}我啊…
 Dialogue: 6,0:13:50.64,0:13:52.19,Text CN TOP,恩吉,0,0,0,,{\blur3.0}{\fad(240,0)}失敗乃成功之母
 Dialogue: 6,0:13:51.35,0:13:54.36,Text CN,雀,0,0,0,,{\blur3.0}說歸說  但你還是在當個好父親
@@ -274,7 +272,7 @@ Dialogue: 6,0:14:14.70,0:14:16.02,Text CN,恩吉,0,0,0,,{\blur3.0}我剛剛太�
 Dialogue: 6,0:14:17.34,0:14:19.76,Text CN,恩吉,0,0,0,,{\blur3.0}我這就去找阿爾瑪！幫幫我吧!
 Dialogue: 6,0:14:20.76,0:14:23.38,Text CN,妮恩,0,0,0,,{\blur3.0}請交給我吧  岳父大人
 Dialogue: 6,0:14:23.38,0:14:25.01,Text CN,恩吉,0,0,0,,{\blur3.0}別叫我岳父大人!
-Dialogue: 6,0:14:25.39,0:14:30.77,Text CN,妮恩,0,0,0,,{\blur3.0}我調用了我司中我的權限能調用的所有衛星進行追蹤
+Dialogue: 6,0:14:25.39,0:14:30.77,Text CN,妮恩,0,0,0,,{\blur3.0}我調用了我司中 我的權限能調用的所有衛星進行追蹤
 Dialogue: 6,0:14:30.77,0:14:32.56,Text CN,妮恩,0,0,0,,{\blur3.0}一定沒問題的
 Dialogue: 6,0:14:32.56,0:14:35.65,Text CN,妮恩,0,0,0,,{\blur3.0}畢竟阿爾瑪小姐是你們引以為傲的女兒
 Dialogue: 6,0:14:36.93,0:14:38.94,Text CN,雀,0,0,0,,{\blur3.0}{\fad(0,120)}謝謝你啊  小妮恩
@@ -335,7 +333,7 @@ Dialogue: 6,0:17:31.20,0:17:33.07,Text CN,恩吉,0,0,0,,{\blur3.0}沒什麼大�
 Dialogue: 6,0:17:33.07,0:17:36.87,Text CN,雀,0,0,0,,{\blur3.0}你啊  在這種時候還裝什麼酷
 Dialogue: 6,0:17:36.87,0:17:39.00,Text CN,雀,0,0,0,,{\blur3.0}明明之前還向領導叩頭
 Dialogue: 6,0:17:39.00,0:17:42.13,Text CN,雀,0,0,0,,{\blur3.0}還把我的那份交接材料都做了
-Dialogue: 6,0:17:42.13,0:17:44.04,Text CN,雀,0,0,0,,{\blur3.0}匆匆忙忙{連滾帶爬}飛回日本的
+Dialogue: 6,0:17:42.13,0:17:44.04,Text CN,雀,0,0,0,,{\blur3.0}{匆匆忙忙}連滾帶爬飛回日本的
 Dialogue: 6,0:17:44.04,0:17:45.26,Text CN,恩吉,0,0,0,,{\blur3.0}現在別說這個
 Dialogue: 6,0:17:48.17,0:17:48.80,Text CN,恩吉,0,0,0,,{\blur3.0}阿爾瑪
 Dialogue: 6,0:17:49.36,0:17:52.12,Text CN,恩吉,0,0,0,,{\blur3.0}你能支持我們的夢想  真的很高興
@@ -422,10 +420,10 @@ Dialogue: 5,0:00:05.82,0:00:07.74,Text JP,雀,0,0,0,,{\blur3.0}いつまで支�
 Dialogue: 5,0:00:08.03,0:00:09.95,Text JP,恩吉,0,0,0,,{\blur3.0}いちいちうるさいな…
 Dialogue: 5,0:00:09.95,0:00:12.90,Text JP,雀,0,0,0,,{\blur3.0}出かけるってなったらモタモタするんだから
 Dialogue: 5,0:00:13.74,0:00:16.25,Text JP,阿尔玛,0,0,0,,{\blur3.0}未登録の個体　多数接近中
-Dialogue: 5,0:00:20.00,0:00:21.28,Text JP,恩吉,0,0,0,,{\blur3.0}なんだお前らは!?
+Dialogue: 5,0:00:20.00,0:00:21.63,Text JP,恩吉,0,0,0,,{\blur3.0}なんだお前らは!?
 Dialogue: 5,0:00:21.63,0:00:22.88,Text JP,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}失礼する
 Dialogue: 5,0:00:22.88,0:00:26.13,Text JP,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}神里エンジ博士　夜羽スズメ博士
-Dialogue: 5,0:00:26.46,0:00:29.82,Text JP,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}そして通称「少女型兵器」アルマですね
+Dialogue: 5,0:00:26.46,0:00:29.88,Text JP,Middle-Aged Scientist 1,0,0,0,,{\blur3.0}そして通称「少女型兵器」アルマですね
 Dialogue: 5,0:00:31.72,0:00:33.51,Text JP,恩吉,0,0,0,,{\blur3.0}まさかお前ら大学…
 Dialogue: 5,0:00:33.51,0:00:35.39,Text JP,恩吉,0,0,0,,{\blur3.0}いや　学会の連中か!?
 Dialogue: 5,0:00:35.89,0:00:37.30,Text JP,恩吉,0,0,0,,{\blur3.0}今更なんの用だ！
@@ -446,11 +444,11 @@ Dialogue: 5,0:02:54.15,0:02:57.55,Text JP,恩吉,0,0,0,,{\blur3.0}あのとき�
 Dialogue: 5,0:02:57.55,0:02:59.58,Text JP,恩吉,0,0,0,,{\blur3.0}手のひらをクルクルと！
 Dialogue: 5,0:02:59.58,0:03:02.20,Text JP,雀,0,0,0,,{\blur3.0}それにアルマを物みたいに
 Dialogue: 5,0:03:02.20,0:03:05.12,Text JP,雀,0,0,0,,{\blur3.0}こんなヤツらの話を聞く必要なんてないわよ！
-Dialogue: 5,0:03:06.29,0:03:07.42,Text JP,恩吉,0,450,0,,{\blur3.0}とっとと全員…
-Dialogue: 5,0:03:07.42,0:03:08.30,Text JP,阿尔玛,0,450,0,,{\blur3.0}おとうさん
-Dialogue: 5,0:03:08.84,0:03:09.70,Text JP,阿尔玛,0,450,0,,{\blur3.0}おかあさん
-Dialogue: 5,0:03:10.42,0:03:12.21,Text JP,阿尔玛,0,450,0,,{\blur3.0}行きましょう　アメリカ
-Dialogue: 5,0:03:12.21,0:03:13.17,Text JP,恩吉,0,450,0,,{\blur3.0}アルマ!?
+Dialogue: 5,0:03:06.29,0:03:07.42,Text JP,恩吉,0,540,0,,{\blur3.0}とっとと全員…
+Dialogue: 5,0:03:07.42,0:03:08.30,Text JP,阿尔玛,0,540,0,,{\blur3.0}おとうさん
+Dialogue: 5,0:03:08.84,0:03:09.70,Text JP,阿尔玛,0,540,0,,{\blur3.0}おかあさん
+Dialogue: 5,0:03:10.42,0:03:12.21,Text JP,阿尔玛,0,540,0,,{\blur3.0}行きましょう　アメリカ
+Dialogue: 5,0:03:12.21,0:03:13.17,Text JP,恩吉,0,540,0,,{\blur3.0}アルマ!?
 Dialogue: 5,0:03:13.59,0:03:17.26,Text JP,阿尔玛,0,0,0,,{\blur3.0}研究を否定した人たちを見返して認められる
 Dialogue: 5,0:03:17.26,0:03:19.30,Text JP,阿尔玛,0,0,0,,{\blur3.0}それが２人の夢ですよね
 Dialogue: 5,0:03:19.30,0:03:20.88,Text JP,恩吉,0,0,0,,{\blur3.0}あ…　ああ
@@ -662,7 +660,7 @@ Dialogue: 5,0:15:11.06,0:15:15.02,Text JP,常夜,0,0,0,,{\blur3.0}そのブー�
 Dialogue: 5,0:15:15.44,0:15:16.94,Text JP,常夜,0,0,0,,{\blur3.0}長時間の探索はできない…
 Dialogue: 5,0:15:16.94,0:15:17.77,Text JP,玛琪娜,0,0,0,,{\blur3.0}わかった！
 Dialogue: 5,0:15:17.77,0:15:19.44,Text JP,常夜,0,0,0,,{\blur3.0}最後まで聞きなさい！
-Dialogue: 5,0:15:19.82,0:15:23.28,Text JP,玛琪娜,0,0,0,,{\blur3.0}危なくなったらトコが指示してくれるんだろ！
+Dialogue: 5,0:15:19.82,0:15:23.28,Text JP,玛琪娜,0,0,0,,{\blur3.0}危なくなったら　トコが指示してくれるんだろ！
 Dialogue: 5,0:15:23.28,0:15:24.84,Text JP,玛琪娜,0,0,0,,{\blur3.0}だから大丈夫！
 Dialogue: 5,0:15:24.84,0:15:27.96,Text JP,玛琪娜,0,0,0,,{\blur3.0}ありがとな！　アルマ捜すの手伝ってくれて
 Dialogue: 5,0:15:28.66,0:15:30.32,Text JP,常夜,0,0,0,,{\blur3.0}先輩のためです！
