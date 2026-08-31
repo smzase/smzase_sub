@@ -15,10 +15,9 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 04 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 04 [1080p CR WEB-DL AVC AAC][MultiSub][F6B151E3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 946
-Active Line: 968
-Video Position: 31008
+Video Zoom Percent: 0.500000
+Scroll Position: 852
+Active Line: 875
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +40,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————本字幕由「三明治摆烂组&Meiko」联合制作——————————
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————请遵循「CC BY-NC-ND 4.0」协议——————————
 Comment: 6,0:00:00.00,0:00:00.00,Text CN,,0,0,0,,————————正文CN————————
-Dialogue: 6,0:00:01.11,0:00:04.40,Text CN,雀,0,0,0,,{\blur3.0}那個  這個非做不可嗎?{Meiko: 這裡是故意用的容易誤解的說法，不要太早把包袱丟出來。}
+Dialogue: 6,0:00:01.11,0:00:04.40,Text CN,雀,0,0,0,,{\blur3.0}那個  這個非做不可嗎?{Meiko: 这里是故意用的容易误解的说法，不要太早把包袱丢出来。}
 Dialogue: 6,0:00:04.98,0:00:06.99,Text CN,雀,0,0,0,,{\blur3.0}就沒有其他方法了嗎?
 Dialogue: 6,0:00:06.99,0:00:08.79,Text CN,恩吉,0,0,0,,{\blur3.0}認命吧  雀
 Dialogue: 6,0:00:09.36,0:00:11.49,Text CN,恩吉,0,0,0,,{\blur3.0}這是避不掉的問題
@@ -143,7 +142,7 @@ Dialogue: 6,0:04:52.48,0:04:54.44,Text CN,恩吉,0,0,0,,{\blur3.0}阿… 阿爾�
 Dialogue: 6,0:04:55.15,0:04:56.40,Text CN,雀,0,0,0,,{\blur3.0}這是何等的…
 Dialogue: 6,0:04:56.40,0:04:57.15,Text CN,恩吉,0,0,0,,{\blur3.0}雀?
 Dialogue: 6,0:04:57.40,0:05:00.53,Text CN,雀,0,0,0,,{\blur3.0}好~厲害！動作好靈活!
-Dialogue: 6,0:05:00.99,0:05:03.70,Text CN,雀,0,0,0,,{\blur3.0}頭上的是散熱用的穩定器?{Meiko: 非專有名詞不推薦做 Ruby}
+Dialogue: 6,0:05:00.99,0:05:03.70,Text CN,雀,0,0,0,,{\blur3.0}頭上的是散熱用的穩定器?{Meiko: 非专有名词不推荐做 Ruby}
 Dialogue: 6,0:05:03.70,0:05:06.54,Text CN,雀,0,0,0,,{\blur3.0}可動範圍也很大  好軟啊~
 Dialogue: 6,0:05:04.66,0:05:06.29,Text CN TOP,玛琪娜,0,0,0,,{\blur3.0}喂  別摸…
 Dialogue: 6,0:05:06.87,0:05:09.29,Text CN,雀,0,0,0,,{\blur3.0}下肢粗是為了強化功率?
@@ -303,7 +302,7 @@ Dialogue: 6,0:12:25.14,0:12:26.35,Text CN,常夜,0,0,0,,{\blur3.0}一定是
 Dialogue: 6,0:12:26.35,0:12:28.60,Text CN,常夜,0,0,0,,{\blur3.0}是你誘騙了她吧?
 Dialogue: 6,0:12:28.60,0:12:29.23,Text CN,恩吉,0,0,0,,{\blur3.0}哈!?
 Dialogue: 6,0:12:29.52,0:12:34.15,Text CN,常夜,0,0,0,,{\blur3.0}前輩發明的機器人  其潛力是無限大的
-Dialogue: 6,0:12:29.69,0:12:32.15,Text CN TOP,玛琪娜,0,1000,0,,{\blur3.0}「誘騙」很強嗎?{Meiko: 把前文的たらし込み用片假名写了一遍，表示 machina 不懂是什麼意思}
+Dialogue: 6,0:12:29.69,0:12:32.15,Text CN TOP,玛琪娜,0,1000,0,,{\blur3.0}「誘騙」很強嗎?{Meiko: 把前文的たらし込み用片假名写了一遍，表示 machina 不懂是什么意思}
 Dialogue: 6,0:12:32.15,0:12:33.44,Text CN TOP,阿尔玛,1000,0,0,,{\blur3.0}搜索中
 Dialogue: 6,0:12:34.15,0:12:37.40,Text CN,常夜,0,0,0,,{\blur3.0}只要有和瑪琪娜同型號的這個機器人在
 Dialogue: 6,0:12:37.40,0:12:39.99,Text CN,常夜,0,0,0,,{\blur3.0}無論誰來了都不怕
@@ -353,7 +352,7 @@ Dialogue: 6,0:14:24.05,0:14:26.14,Text CN,常夜,0,0,0,,{\blur3.0}前輩  不是
 Dialogue: 6,0:14:26.55,0:14:29.10,Text CN,常夜,0,0,0,,{\blur3.0}您對這種男人沒有想法的對吧!
 Dialogue: 6,0:14:29.56,0:14:32.56,Text CN,雀,0,0,0,,{\blur3.0}才… 才不會對這傢伙
 Dialogue: 6,0:14:32.56,0:14:34.98,Text CN,雀,0,0,0,,{\blur3.0}有什麼想法呢…
-Dialogue: 6,0:14:34.98,0:14:36.73,Text CN,常夜,1300,0,0,,{\blur3.0}{\fad(0,240)}雌性的表情…!
+Dialogue: 6,0:14:34.98,0:14:36.73,Text CN,常夜,1300,0,0,,{\blur3.0}{\fad(0,240)}一臉雌性的表情…!
 Dialogue: 6,0:14:37.65,0:14:39.61,Text CN,雀,0,0,0,,{\blur3.0}這個是你做的嗎?
 Dialogue: 6,0:14:39.61,0:14:41.11,Text CN,常夜,0,0,0,,{\blur3.0}是… 是的
 Dialogue: 6,0:14:41.44,0:14:46.07,Text CN,常夜,0,0,0,,{\blur3.0}啊… 但是… 我只是用了前輩發現的技術…
@@ -390,7 +389,7 @@ Dialogue: 6,0:16:05.82,0:16:07.45,Text CN,恩吉,0,0,0,,{\blur3.0}只是比喻�
 Dialogue: 6,0:16:07.45,0:16:08.62,Text CN,常夜,0,0,0,,{\blur3.0}對啊…
 Dialogue: 6,0:16:09.03,0:16:11.08,Text CN,常夜,0,0,0,,{\blur3.0}全部消失了就好了
 Dialogue: 6,0:16:12.45,0:16:15.04,Text CN,常夜,0,0,0,,{\blur3.0}與其帶著這種心情活在世上
-Dialogue: 6,0:16:15.96,0:16:18.67,Text CN,,0,0,0,,{\blur3.0}是這樣吧  瑪琪娜
+Dialogue: 6,0:16:15.96,0:16:18.67,Text CN,常夜,0,0,0,,{\blur3.0}是這樣吧  瑪琪娜
 Dialogue: 6,0:16:19.00,0:16:19.54,Text CN,玛琪娜,0,0,0,,{\blur3.0}對!
 Dialogue: 6,0:16:19.79,0:16:21.42,Text CN,恩吉,0,0,0,,{\blur3.0}你根本沒懂吧!
 Dialogue: 6,0:16:21.42,0:16:23.55,Text CN,雀,0,0,0,,{\blur3.0}思兼小姐  冷靜一點…
@@ -413,7 +412,7 @@ Dialogue: 6,0:17:13.66,0:17:16.39,Text CN,雀,0,0,0,,{\blur3.0}能直接操作�
 Dialogue: 6,0:17:16.81,0:17:19.06,Text CN,雀,0,0,0,,{\blur3.0}但沒有時間拆解了…
 Dialogue: 6,0:17:19.64,0:17:20.85,Text CN,恩吉,0,0,0,,{\blur3.0}直接…
 Dialogue: 6,0:17:21.35,0:17:22.11,Text CN,恩吉,0,0,0,,{\blur3.0}對了!
-Dialogue: 6,0:17:22.44,0:17:23.98,Text CN,,0,0,0,,{\blur3.0}會議時間!{Meiko: 作戰時間在中文裡像是已經開始行動了，但是日語的「作戰」是指「計劃」的意思，這裡因為在開會，翻譯成「會議」。}
+Dialogue: 6,0:17:22.44,0:17:23.98,Text CN,,0,0,0,,{\blur3.0}會議時間!{Meiko: 作战时间在中文里像是已经开始行动了，但是日语的「作战」是指「计划」的意思，这里因为在开会，翻译成「会议」。}
 Dialogue: 6,0:17:24.54,0:17:26.33,Text CN,,0,0,0,,{\blur3.0}這樣  這樣  這樣…
 Dialogue: 6,0:17:26.57,0:17:28.57,Text CN,常夜,0,0,0,,{\blur3.0}現在做什麼都沒用了!
 Dialogue: 6,0:17:28.57,0:17:29.86,Text CN,玛琪娜,0,0,0,,{\blur3.0}沒錯沒錯!
@@ -774,7 +773,7 @@ Dialogue: 5,0:16:05.82,0:16:07.45,Text JP,恩吉,0,0,0,,{\blur3.0}ものの例�
 Dialogue: 5,0:16:07.45,0:16:08.62,Text JP,常夜,0,0,0,,{\blur3.0}そうか…
 Dialogue: 5,0:16:09.03,0:16:11.08,Text JP,常夜,0,0,0,,{\blur3.0}全部消えてなくなればいいんだ
 Dialogue: 5,0:16:12.45,0:16:15.04,Text JP,常夜,0,0,0,,{\blur3.0}こんな気持ちのまま生きてくくらいなら
-Dialogue: 5,0:16:15.96,0:16:18.67,Text JP,,0,0,0,,{\blur3.0}そういうことですね　マキナ
+Dialogue: 5,0:16:15.96,0:16:18.67,Text JP,常夜,0,0,0,,{\blur3.0}そういうことですね　マキナ
 Dialogue: 5,0:16:19.00,0:16:19.54,Text JP,玛琪娜,0,0,0,,{\blur3.0}おう！
 Dialogue: 5,0:16:19.79,0:16:21.42,Text JP,恩吉,0,0,0,,{\blur3.0}わかってないだろう！
 Dialogue: 5,0:16:21.42,0:16:23.55,Text JP,雀,0,0,0,,{\blur3.0}思兼さん　落ち着いて…
@@ -912,8 +911,8 @@ Dialogue: 0,0:17:22.11,0:17:24.36,Sign,,0,0,0,,{\an5\fn梦源黑体 CN W24\fs120
 Dialogue: 3,0:19:20.18,0:19:26.19,Sign,,0,0,0,,{\an5\fn033-上首方糖体\fs68\blur0.6\bord0\c&H000000&\pos(1425,100)\clip(1430,60,1436,250)\t(30,160,\clip(1168,60,1680,250))}今天的阿尔玛报告
 Dialogue: 0,0:21:41.91,0:21:43.45,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs242\b1\fsp-8\blur2.2\bord18\c&HFFC29A&\3c&HFFC29A&\fad(0,0)\pos(960,220)}休息一下
 Dialogue: 1,0:21:41.91,0:21:43.45,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs242\b1\fsp-8\blur0.6\bord1\c&HFFFFFF&\3c&HFFFFFF&\fad(0,0)\pos(960,220)}休息一下
-Dialogue: 0,0:23:38.15,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(0,0)\pos(960,175)\1a&H89&}結束
-Dialogue: 1,0:23:38.15,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H96D7B2&\3c&H96D7B2&\fad(0,0)\pos(960,175)}結束
+Dialogue: 0,0:23:38.15,0:23:39.90,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(0,0)\pos(960,175)\1a&H89&}結束
+Dialogue: 1,0:23:38.15,0:23:39.90,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H96D7B2&\3c&H96D7B2&\fad(0,0)\pos(960,175)}結束
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字跟蹤————————
 Dialogue: 0,0:00:55.49,0:00:55.53,Sign,,0,0,0,,{=1}{\an5\fn梦源黑体 CN W24\fs50\blur0.5\bord0\shad1\c&H8A9EBE&\4c&H67768D&\frz7.11\fax-0.12\pos(1002.76,129.61)\clip(m 1002.94 110.91 l 1008.45 129.78 1013.96 157.13 1118.92 171.55 1118.29 87.37)}阿爾瑪
 Dialogue: 0,0:00:55.53,0:00:55.57,Sign,,0,0,0,,{=1}{\an5\fn梦源黑体 CN W24\fs50\blur0.5\bord0\shad1\c&H8A9EBE&\4c&H67768D&\frz7.11\fax-0.12\pos(1004.7,129.61)\clip(m 1005.06 111.33 l 1010.15 127.23 1014.39 146.95 1017.36 173.04 1133.98 152.26 1126.56 75.7)}阿爾瑪
@@ -1001,6 +1000,8 @@ Dialogue: 0,0:21:18.80,0:21:23.55,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:21:23.55,0:21:29.14,EDOP,,0,0,0,,{\fad(540,540)}想要永遠平凡下去
 Dialogue: 0,0:21:29.39,0:21:33.27,EDOP,,0,0,0,,{\fad(540,540)}那些隨處可見的日常小生活
 Dialogue: 0,0:21:33.27,0:21:38.97,EDOP,,0,0,0,,{\fad(540,540)}只想永遠下去 只想永遠下去
+Comment: 0,0:02:01.98,0:02:01.98,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:02:01.98,0:02:01.98,OPJP,,0,0,0,,{=2}> OP
 Comment: 0,0:02:01.98,0:02:01.98,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:03:29.02,0:03:31.98,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:03:29.02,0:03:31.98,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8359,8 +8360,11 @@ Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,,{=3}> OP END
 Comment: 0,0:02:01.98,0:02:02.02,Default,,0,0,0,,
 Comment: 0,0:02:01.98,0:20:11.94,Default,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 1,a-mo,e{"uuid"#3A"c4b09304-c4c6-44eb-af4f-9d117c1cc39f"#2C"originalText"#3A"{\\an5\\fn#E6#A2#A6#E6#BA#90#E9#BB#91#E4#BD#93 CN W24\\fs50\\blur0.5\\bord0\\shad1\\c&H8A9EBE&\\4c&H67768D&\\frz7.11\\fax-0.12\\pos(1217.34#2C129.6)}#E9#98#BF#E5#B0#94#E7#8E#9B"}
+Data: 2,_aegi_folddata,e0;1;1
+Data: 3,_aegi_folddata,e1;1;1

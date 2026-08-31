@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 阿尔玛
-Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 04 [1080p CR WEB-DL AVC AAC][MultiSub][F6B151E3].mkv
-Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 04 [1080p CR WEB-DL AVC AAC][MultiSub][F6B151E3].mkv
+Audio File: E:/.A下载的东西/阿尔玛2/S01E04.mkv
+Video File: E:/.A下载的东西/阿尔玛2/S01E04.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 939
-Active Line: 968
-Video Position: 14137
+Video Zoom Percent: 0.500000
+Scroll Position: 858
+Active Line: 875
+Video Position: 34043
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -353,7 +353,7 @@ Dialogue: 6,0:14:24.05,0:14:26.14,Text CN,常夜,0,0,0,,{\blur3.0}前辈  不是
 Dialogue: 6,0:14:26.55,0:14:29.10,Text CN,常夜,0,0,0,,{\blur3.0}您对这种男人没有想法的对吧!
 Dialogue: 6,0:14:29.56,0:14:32.56,Text CN,雀,0,0,0,,{\blur3.0}才… 才不会对这家伙
 Dialogue: 6,0:14:32.56,0:14:34.98,Text CN,雀,0,0,0,,{\blur3.0}有什么想法呢…
-Dialogue: 6,0:14:34.98,0:14:36.73,Text CN,常夜,1300,0,0,,{\blur3.0}{\fad(0,240)}雌性的表情…!
+Dialogue: 6,0:14:34.98,0:14:36.73,Text CN,常夜,1300,0,0,,{\blur3.0}{\fad(0,240)}一脸雌性的表情…!
 Dialogue: 6,0:14:37.65,0:14:39.61,Text CN,雀,0,0,0,,{\blur3.0}这个是你做的吗?
 Dialogue: 6,0:14:39.61,0:14:41.11,Text CN,常夜,0,0,0,,{\blur3.0}是… 是的
 Dialogue: 6,0:14:41.44,0:14:46.07,Text CN,常夜,0,0,0,,{\blur3.0}啊… 但是… 我只是用了前辈发现的技术…
@@ -390,7 +390,7 @@ Dialogue: 6,0:16:05.82,0:16:07.45,Text CN,恩吉,0,0,0,,{\blur3.0}只是比喻�
 Dialogue: 6,0:16:07.45,0:16:08.62,Text CN,常夜,0,0,0,,{\blur3.0}对啊…
 Dialogue: 6,0:16:09.03,0:16:11.08,Text CN,常夜,0,0,0,,{\blur3.0}全部消失了就好了
 Dialogue: 6,0:16:12.45,0:16:15.04,Text CN,常夜,0,0,0,,{\blur3.0}与其带着这种心情活在世上
-Dialogue: 6,0:16:15.96,0:16:18.67,Text CN,,0,0,0,,{\blur3.0}是这样吧  玛琪娜
+Dialogue: 6,0:16:15.96,0:16:18.67,Text CN,常夜,0,0,0,,{\blur3.0}是这样吧  玛琪娜
 Dialogue: 6,0:16:19.00,0:16:19.54,Text CN,玛琪娜,0,0,0,,{\blur3.0}对!
 Dialogue: 6,0:16:19.79,0:16:21.42,Text CN,恩吉,0,0,0,,{\blur3.0}你压根没懂吧!
 Dialogue: 6,0:16:21.42,0:16:23.55,Text CN,雀,0,0,0,,{\blur3.0}思兼小姐  冷静一点…
@@ -774,7 +774,7 @@ Dialogue: 5,0:16:05.82,0:16:07.45,Text JP,恩吉,0,0,0,,{\blur3.0}ものの例�
 Dialogue: 5,0:16:07.45,0:16:08.62,Text JP,常夜,0,0,0,,{\blur3.0}そうか…
 Dialogue: 5,0:16:09.03,0:16:11.08,Text JP,常夜,0,0,0,,{\blur3.0}全部消えてなくなればいいんだ
 Dialogue: 5,0:16:12.45,0:16:15.04,Text JP,常夜,0,0,0,,{\blur3.0}こんな気持ちのまま生きてくくらいなら
-Dialogue: 5,0:16:15.96,0:16:18.67,Text JP,,0,0,0,,{\blur3.0}そういうことですね　マキナ
+Dialogue: 5,0:16:15.96,0:16:18.67,Text JP,常夜,0,0,0,,{\blur3.0}そういうことですね　マキナ
 Dialogue: 5,0:16:19.00,0:16:19.54,Text JP,玛琪娜,0,0,0,,{\blur3.0}おう！
 Dialogue: 5,0:16:19.79,0:16:21.42,Text JP,恩吉,0,0,0,,{\blur3.0}わかってないだろう！
 Dialogue: 5,0:16:21.42,0:16:23.55,Text JP,雀,0,0,0,,{\blur3.0}思兼さん　落ち着いて…
@@ -912,8 +912,8 @@ Dialogue: 0,0:17:22.11,0:17:24.36,Sign,,0,0,0,,{\an5\fn梦源黑体 CN W24\fs120
 Dialogue: 3,0:19:20.18,0:19:26.19,Sign,,0,0,0,,{\an5\fn033-上首方糖体\fs68\blur0.6\bord0\c&H000000&\pos(1425,100)\clip(1430,60,1436,250)\t(30,160,\clip(1168,60,1680,250))}今天的阿尔玛报告
 Dialogue: 0,0:21:41.91,0:21:43.45,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs242\b1\fsp-8\blur2.2\bord18\c&HFFC29A&\3c&HFFC29A&\fad(0,0)\pos(960,220)}休息一下
 Dialogue: 1,0:21:41.91,0:21:43.45,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs242\b1\fsp-8\blur0.6\bord1\c&HFFFFFF&\3c&HFFFFFF&\fad(0,0)\pos(960,220)}休息一下
-Dialogue: 0,0:23:38.15,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(0,0)\pos(960,175)\1a&H89&}结束
-Dialogue: 1,0:23:38.15,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H96D7B2&\3c&H96D7B2&\fad(0,0)\pos(960,175)}结束
+Dialogue: 0,0:23:38.15,0:23:39.90,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(0,0)\pos(960,175)\1a&H89&}结束
+Dialogue: 1,0:23:38.15,0:23:39.90,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H96D7B2&\3c&H96D7B2&\fad(0,0)\pos(960,175)}结束
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字跟踪————————
 Dialogue: 0,0:00:55.49,0:00:55.53,Sign,,0,0,0,,{=1}{\an5\fn梦源黑体 CN W24\fs50\blur0.5\bord0\shad1\c&H8A9EBE&\4c&H67768D&\frz7.11\fax-0.12\pos(1002.76,129.61)\clip(m 1002.94 110.91 l 1008.45 129.78 1013.96 157.13 1118.92 171.55 1118.29 87.37)}阿尔玛
 Dialogue: 0,0:00:55.53,0:00:55.57,Sign,,0,0,0,,{=1}{\an5\fn梦源黑体 CN W24\fs50\blur0.5\bord0\shad1\c&H8A9EBE&\4c&H67768D&\frz7.11\fax-0.12\pos(1004.7,129.61)\clip(m 1005.06 111.33 l 1010.15 127.23 1014.39 146.95 1017.36 173.04 1133.98 152.26 1126.56 75.7)}阿尔玛
@@ -1001,6 +1001,8 @@ Dialogue: 0,0:21:18.80,0:21:23.55,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:21:23.55,0:21:29.14,EDOP,,0,0,0,,{\fad(540,540)}想要永远平凡下去
 Dialogue: 0,0:21:29.39,0:21:33.27,EDOP,,0,0,0,,{\fad(540,540)}那些随处可见的日常小生活
 Dialogue: 0,0:21:33.27,0:21:38.97,EDOP,,0,0,0,,{\fad(540,540)}只想永远下去 只想永远下去
+Comment: 0,0:02:01.98,0:02:01.98,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:02:01.98,0:02:01.98,OPJP,,0,0,0,,{=2}> OP
 Comment: 0,0:02:01.98,0:02:01.98,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:03:29.02,0:03:31.98,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:03:29.02,0:03:31.98,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8359,8 +8361,11 @@ Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:03:26.69,0:03:27.03,OPCN,,0,0,0,,{=3}> OP END
 Comment: 0,0:02:01.98,0:02:02.02,Default,,0,0,0,,
 Comment: 0,0:02:01.98,0:20:11.94,Default,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 1,a-mo,e{"uuid"#3A"c4b09304-c4c6-44eb-af4f-9d117c1cc39f"#2C"originalText"#3A"{\\an5\\fn#E6#A2#A6#E6#BA#90#E9#BB#91#E4#BD#93 CN W24\\fs50\\blur0.5\\bord0\\shad1\\c&H8A9EBE&\\4c&H67768D&\\frz7.11\\fax-0.12\\pos(1217.34#2C129.6)}#E9#98#BF#E5#B0#94#E7#8E#9B"}
+Data: 2,_aegi_folddata,e0;1;1
+Data: 3,_aegi_folddata,e1;1;1
