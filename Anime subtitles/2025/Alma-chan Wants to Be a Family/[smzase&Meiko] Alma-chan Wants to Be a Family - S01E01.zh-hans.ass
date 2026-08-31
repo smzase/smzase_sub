@@ -17,9 +17,9 @@ Keyframes File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 01 [1080p CR 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 131
-Active Line: 132
-Video Position: 8115
+Scroll Position: 407
+Active Line: 411
+Video Position: 30550
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -450,7 +450,7 @@ Comment: 6,0:21:03.33,0:21:03.88,Text CN,阿尔玛,0,0,0,,{\blur3.0}啊
 Dialogue: 6,0:21:04.83,0:21:07.71,Text CN,阿尔玛,0,800,0,,{\blur3.0}任务… 失败?
 Dialogue: 6,0:21:08.10,0:21:10.00,Text CN,雀,0,0,0,,{\blur3.0}没关系  没关系
 Dialogue: 6,0:21:10.00,0:21:12.77,Text CN,雀,0,0,0,,{\blur3.0}帮助了他人  加 5000 万亿分!
-Dialogue: 6,0:21:12.77,0:21:14.34,Text CN,恩吉,0,0,0,,{\blur3.0}这不仅仅是一次失败
+Dialogue: 6,0:21:12.77,0:21:14.34,Text CN,恩吉,0,0,0,,{\blur3.0}这并不算一次失败
 Dialogue: 6,0:21:15.21,0:21:17.42,Text CN,恩吉,0,0,0,,{\blur3.0}失败乃成功之母
 Dialogue: 6,0:21:18.01,0:21:20.68,Text CN,恩吉,0,0,0,,{\blur3.0}阿尔玛的话  会吸取经验并做得更好
 Dialogue: 6,0:21:21.68,0:21:22.30,Text CN,恩吉,0,0,0,,{\blur3.0}对吧
