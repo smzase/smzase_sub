@@ -11,13 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 阿尔玛
-Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 08 [1080p CR WEB-DL AVC AAC][MultiSub][EEA49705].mkv
-Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 08 [1080p CR WEB-DL AVC AAC][MultiSub][EEA49705].mkv
+Audio File: E:/.A下载的东西/阿尔玛2/S01E08.mkv
+Video File: E:/.A下载的东西/阿尔玛2/S01E08.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 802
-Active Line: 816
+Video Zoom Percent: 0.750000
+Scroll Position: 269
+Active Line: 281
+Video Position: 22803
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,14 +99,14 @@ Dialogue: 6,0:04:21.45,0:04:22.66,Text CN,玛琪娜,0,0,0,,{\blur3.0}去工作�
 Dialogue: 6,0:04:22.66,0:04:23.33,Text CN,ナワノ,0,0,0,,{\blur3.0}诶!?
 Dialogue: 6,0:04:23.33,0:04:25.64,Text CN,玛琪娜,0,0,0,,{\blur3.0}只要工作就有钱了吧!
 Dialogue: 6,0:04:25.64,0:04:27.04,Text CN,玛琪娜,0,0,0,,{\blur3.0}小常说过的!
-Dialogue: 6,0:04:27.04,0:04:28.29,Text CN,玛琪娜,0,0,0,,{\blur3.0}为什么去不工作?
-Dialogue: 6,0:04:28.29,0:04:30.25,Text CN,ナワノ,0,0,0,,{\blur3.0}能去上我早去上了!
+Dialogue: 6,0:04:27.04,0:04:28.29,Text CN,玛琪娜,0,0,0,,{\blur3.0}为什么不去工作?
+Dialogue: 6,0:04:28.29,0:04:30.25,Text CN,ナワノ,0,0,0,,{\blur3.0}能去工作我早去了!
 Dialogue: 6,0:04:30.83,0:04:34.05,Text CN,阿尔玛,0,0,0,,{\blur3.0}可以让他在你公司任职吗?
 Dialogue: 6,0:04:34.42,0:04:37.80,Text CN,ナワノ,0,0,0,,{\blur3.0}喂喂  工作又不是儿戏
 Dialogue: 6,0:04:37.80,0:04:39.05,Text CN,妮恩,0,0,0,,{\blur3.0}我知道了
 Dialogue: 6,0:04:40.20,0:04:40.86,Text CN,妮恩,0,0,0,,{\blur3.0}田中
 Dialogue: 6,0:04:42.97,0:04:45.01,Text CN,妮恩,0,0,0,,{\blur3.0}我们开始面试吧!
-Dialogue: 6,0:04:45.01,0:04:46.47,Text CN,ナワノ,0,0,0,,{\blur3.0}啥子玩意!?
+Dialogue: 6,0:04:45.01,0:04:46.47,Text CN,ナワノ,0,0,0,,{\blur3.0}什么玩意!?
 Dialogue: 6,0:04:47.60,0:04:49.23,Text CN,ナワノ,0,0,0,,{\blur3.0}不是  说明一下…
 Dialogue: 6,0:04:49.23,0:04:52.56,Text CN,阿尔玛,0,0,0,,{\blur3.0}妮恩是沃兹尼亚克公司的千金
 Dialogue: 6,0:04:52.56,0:04:53.69,Text CN,ナワノ,0,0,0,,{\blur3.0}真假!?
@@ -318,7 +319,7 @@ Dialogue: 6,0:15:43.76,0:15:44.76,Text CN,雀,0,0,0,,{\blur3.0}小玛琪娜!
 Comment: 6,0:15:45.43,0:15:45.93,Text CN,Playwithme,0,0,0,,{\blur3.0}齁呀
 Dialogue: 6,0:15:45.93,0:15:47.76,Text CN,玛琪娜,0,0,0,,{\blur3.0}奇~怪~
 Dialogue: 6,0:15:49.26,0:15:51.06,Text CN,玛琪娜,0,0,0,,{\blur3.0}我的身体!
-Comment: 6,0:15:51.06,0:15:51.97,Text CN,Playwithme,0,0,0,,{\blur3.0}哟‘呀
+Comment: 6,0:15:51.06,0:15:51.97,Text CN,Playwithme,0,0,0,,{\blur3.0}哟呀
 Dialogue: 6,0:15:51.97,0:15:55.48,Text CN,阿尔玛,0,0,0,,{\blur3.0}就像这样  稍有大意就会被他吸收掉
 Comment: 6,0:16:00.27,0:16:03.03,Text CN,Playwithme,0,0,0,,{\blur3.0}哦~ 咦~哟——!
 Dialogue: 6,0:16:03.69,0:16:07.16,Text CN,阿尔玛,0,0,0,,{\blur3.0}取得了玛琪娜的动力  目标变得更强了

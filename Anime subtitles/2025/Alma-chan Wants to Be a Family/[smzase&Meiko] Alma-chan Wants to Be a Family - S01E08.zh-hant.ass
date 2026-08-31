@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 阿尔玛
-Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 08 [1080p CR WEB-DL AVC AAC][MultiSub][EEA49705].mkv
-Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 08 [1080p CR WEB-DL AVC AAC][MultiSub][EEA49705].mkv
+Audio File: E:/.A下载的东西/阿尔玛2/S01E08.mkv
+Video File: E:/.A下载的东西/阿尔玛2/S01E08.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 801
-Active Line: 816
-Video Position: 33276
+Video Zoom Percent: 0.500000
+Scroll Position: 772
+Active Line: 779
+Video Position: 25127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -99,8 +99,8 @@ Dialogue: 6,0:04:21.45,0:04:22.66,Text CN,玛琪娜,0,0,0,,{\blur3.0}去工作�
 Dialogue: 6,0:04:22.66,0:04:23.33,Text CN,ナワノ,0,0,0,,{\blur3.0}欸!?
 Dialogue: 6,0:04:23.33,0:04:25.64,Text CN,玛琪娜,0,0,0,,{\blur3.0}只要工作就有錢了吧!
 Dialogue: 6,0:04:25.64,0:04:27.04,Text CN,玛琪娜,0,0,0,,{\blur3.0}小常說過的!
-Dialogue: 6,0:04:27.04,0:04:28.29,Text CN,玛琪娜,0,0,0,,{\blur3.0}為什麼去不工作?
-Dialogue: 6,0:04:28.29,0:04:30.25,Text CN,ナワノ,0,0,0,,{\blur3.0}能去上我早去上了!
+Dialogue: 6,0:04:27.04,0:04:28.29,Text CN,玛琪娜,0,0,0,,{\blur3.0}為什麼不去工作?
+Dialogue: 6,0:04:28.29,0:04:30.25,Text CN,ナワノ,0,0,0,,{\blur3.0}能去工作我早去了!
 Dialogue: 6,0:04:30.83,0:04:34.05,Text CN,阿尔玛,0,0,0,,{\blur3.0}可以讓他在你公司任職嗎?
 Dialogue: 6,0:04:34.42,0:04:37.80,Text CN,ナワノ,0,0,0,,{\blur3.0}喂喂  工作又不是兒戲
 Dialogue: 6,0:04:37.80,0:04:39.05,Text CN,妮恩,0,0,0,,{\blur3.0}我知道了
@@ -148,7 +148,7 @@ Dialogue: 6,0:06:27.87,0:06:31.25,Text CN,ナワノ,0,0,0,,{\blur3.0}我的應�
 Dialogue: 6,0:06:31.25,0:06:32.58,Text CN,妮恩,0,0,0,,{\blur3.0}具體點呢?
 Dialogue: 6,0:06:32.58,0:06:33.04,Text CN,ナワノ,0,0,0,,{\blur3.0}欸
 Dialogue: 6,0:06:33.52,0:06:34.86,Text CN,ナワノ,0,0,0,,{\blur3.0}那個…
-Dialogue: 6,0:06:36.17,0:06:39.17,Text CN,ナワノ,0,0,0,,{\blur3.0}公司裡比較通氣吧  該怎麼說呢  就是…{Meiko: 中文裡「通氣」也是雙關}
+Dialogue: 6,0:06:36.17,0:06:39.17,Text CN,ナワノ,0,0,0,,{\blur3.0}公司裡比較通氣吧  該怎麼說呢  就是…{Meiko: 中文里「通气」也是双关}
 Dialogue: 6,0:06:39.17,0:06:39.96,Text CN,妮恩,0,0,0,,{\blur3.0}原來如此
 Dialogue: 6,0:06:39.96,0:06:40.42,Text CN,ナワノ,0,0,0,,{\blur3.0}啊
 Dialogue: 6,0:06:40.84,0:06:43.09,Text CN,妮恩,0,0,0,,{\blur3.0}很遺憾  這次無法錄用你
@@ -319,7 +319,7 @@ Dialogue: 6,0:15:43.76,0:15:44.76,Text CN,雀,0,0,0,,{\blur3.0}小瑪琪娜!
 Comment: 6,0:15:45.43,0:15:45.93,Text CN,Playwithme,0,0,0,,{\blur3.0}齁呀
 Dialogue: 6,0:15:45.93,0:15:47.76,Text CN,玛琪娜,0,0,0,,{\blur3.0}奇~怪~
 Dialogue: 6,0:15:49.26,0:15:51.06,Text CN,玛琪娜,0,0,0,,{\blur3.0}我的身體!
-Comment: 6,0:15:51.06,0:15:51.97,Text CN,Playwithme,0,0,0,,{\blur3.0}喲‘呀
+Comment: 6,0:15:51.06,0:15:51.97,Text CN,Playwithme,0,0,0,,{\blur3.0}喲呀
 Dialogue: 6,0:15:51.97,0:15:55.48,Text CN,阿尔玛,0,0,0,,{\blur3.0}就像這樣  稍有大意就會被他吸收掉
 Comment: 6,0:16:00.27,0:16:03.03,Text CN,Playwithme,0,0,0,,{\blur3.0}哦~ 咦~喲——!
 Dialogue: 6,0:16:03.69,0:16:07.16,Text CN,阿尔玛,0,0,0,,{\blur3.0}取得了瑪琪娜的動力  目標變得更強了
@@ -369,7 +369,7 @@ Dialogue: 6,0:18:24.42,0:18:27.42,Text CN,常夜,0,900,0,,{\blur3.0}真的嗎！
 Dialogue: 6,0:18:27.42,0:18:29.12,Text CN,雀,800,0,0,,{\blur3.0}待會再解釋!
 Dialogue: 6,0:18:29.12,0:18:30.88,Text CN,雀,800,0,0,,{\blur3.0}小瑪琪娜  助我一臂之力
 Dialogue: 6,0:18:30.88,0:18:31.67,Text CN,玛琪娜,0,0,0,,{\blur3.0}好!
-Dialogue: 6,0:18:32.05,0:18:33.43,Text CN,雀,0,0,0,,{\blur3.0}啟動彈射裝置!{Meiko：我也不明白這是什麼，姑且看圖說話了}
+Dialogue: 6,0:18:32.05,0:18:33.43,Text CN,雀,0,0,0,,{\blur3.0}啟動彈射裝置!{Meiko：我也不明白这是啥，姑且看图说话了}
 Dialogue: 6,0:18:53.45,0:18:56.20,Text CN,阿尔玛军团,0,0,0,,{\blur3.0}阿爾瑪軍團！登場!
 Dialogue: 6,0:18:56.57,0:18:59.54,Text CN,常夜,0,0,0,,{\blur3.0}那些是  小阿爾瑪的備用身體…
 Dialogue: 6,0:19:00.20,0:19:03.71,Text CN,鹭,0,0,0,,{\blur3.0}是小瑪琪娜在操控啊  真厲害~!
@@ -816,8 +816,8 @@ Dialogue: 3,0:14:19.67,0:14:22.30,Sign,,0,0,0,,{\an5\fn@方正喵呜_GBK\fs50\fr
 Dialogue: 3,0:14:19.67,0:14:22.30,Sign,,0,0,0,,{\an5\fn@方正喵呜_GBK\fs50\frz-90\fsp-5\blur0.8\bord0\c&H1EFCFF&\pos(805.06,323.81)}製造的
 Dialogue: 3,0:14:25.68,0:14:30.81,Sign,,0,0,0,,{\an5\fn梦源黑体 CN W26\fs30\blur0.6\bord5\c&HFFFFFF&\3c&H88816E&\pos(814.24,583.75)}夜羽
 Dialogue: 3,0:14:25.68,0:14:30.81,Sign,,0,0,0,,{\an5\fn梦源黑体 CN W26\fs80\blur0.6\bord5\c&HFFFFFF&\3c&H88816E&\pos(960,626.57)}Y - 引擎 99%
-Dialogue: 2,0:17:27.99,0:17:29.99,Sign,,0,0,0,,{\an5\fs32\blur5\bord0\c&HFDFDFA&\frz6.74\fax-0.12\pos(1415.29,348.65)\1a&H8B&}神 裡 鷺
-Dialogue: 3,0:17:27.99,0:17:29.99,Sign,,0,0,0,,{\an5\fs32\blur0.6\bord0\c&HFDFDFA&\frz6.74\fax-0.12\pos(1415.29,348.65)}神 裡 鷺
+Dialogue: 2,0:17:27.99,0:17:29.99,Sign,,0,0,0,,{\an5\fs32\blur5\bord0\c&HFDFDFA&\frz6.74\fax-0.12\pos(1415.29,348.65)\1a&H8B&}神 里 鷺
+Dialogue: 3,0:17:27.99,0:17:29.99,Sign,,0,0,0,,{\an5\fs32\blur0.6\bord0\c&HFDFDFA&\frz6.74\fax-0.12\pos(1415.29,348.65)}神 里 鷺
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字跟踪————————
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字  不繁化————————
 Dialogue: 3,0:10:42.91,0:10:48.09,Sign,,0,0,0,,{\an5\fn033-上首方糖体\fs68\blur0.6\bord0\c&H000000&\pos(1425,100)\clip(1430,60,1436,250)\t(30,160,\clip(1168,60,1680,250))}今天的阿尔玛报告
