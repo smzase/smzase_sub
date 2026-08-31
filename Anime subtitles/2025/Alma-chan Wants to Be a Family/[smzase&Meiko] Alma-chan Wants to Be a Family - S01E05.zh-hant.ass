@@ -16,9 +16,9 @@ Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 05 [1080p CR WEB-
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1253
-Active Line: 1275
-Video Position: 15889
+Scroll Position: 1254
+Active Line: 8628
+Video Position: 3207
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————�
 Comment: 6,0:00:00.00,0:00:00.00,Text CN,,0,0,0,,————————正文CN————————
 Dialogue: 6,0:00:05.69,0:00:06.44,Text CN,雀,0,0,0,,{\blur3.0}真有趣!
 Dialogue: 6,0:00:08.11,0:00:09.11,Text CN,阿尔玛,0,0,0,,{\blur3.0}真是荒謬
-Dialogue: 6,0:00:09.70,0:00:11.12,Text CN,雀,800,0,0,,{\blur3.0}阿爾瑪向左轉一點
+Dialogue: 6,0:00:09.70,0:00:11.12,Text CN,雀,800,0,0,,{\blur3.0}阿爾瑪 向左轉一點
 Dialogue: 6,0:00:11.12,0:00:11.66,Text CN,阿尔玛,800,0,0,,{\blur3.0}好的
 Dialogue: 6,0:00:12.28,0:00:14.74,Text CN,阿尔玛,0,0,0,,{\blur3.0}明明死了卻還能動
 Dialogue: 6,0:00:14.74,0:00:17.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}這種生物真的存在嗎?
@@ -135,7 +135,7 @@ Dialogue: 6,0:06:02.18,0:06:05.14,Text CN,恩吉,0,0,0,,{\blur3.0}首先鑽到�
 Dialogue: 6,0:06:05.14,0:06:06.80,Text CN,恩吉,0,0,0,,{\blur3.0}要… 要… 要冷靜!
 Dialogue: 6,0:06:07.14,0:06:10.27,Text CN,阿尔玛,0,0,0,,{\blur3.0}爸爸  那是地震時的應對措施
 Dialogue: 6,0:06:10.27,0:06:12.19,Text CN,雀,0,0,0,,{\blur3.0}你才最該冷靜!
-Dialogue: 6,0:06:12.64,0:06:14.52,Text CN,雀,0,0,0,,{\blur3.0}總之先把燈打開{Meiko: 電気をつける = 開燈，這里電気 = 電燈}
+Dialogue: 6,0:06:12.64,0:06:14.52,Text CN,雀,0,0,0,,{\blur3.0}總之先把燈打開{Meiko: 電気をつける = 开灯，这里電気 = 电灯}
 Dialogue: 6,0:06:15.31,0:06:17.73,Text CN,阿尔玛,0,0,0,,{\blur3.0}我的眼睛有夜視功能
 Dialogue: 6,0:06:19.65,0:06:21.32,Text CN,恩吉,0,0,0,,{\blur3.0}欸  阿… 阿爾瑪…
 Dialogue: 6,0:06:21.82,0:06:24.99,Text CN,阿尔玛,0,0,0,,{\blur3.0}恢復電源的任務就交給我吧
@@ -233,7 +233,7 @@ Dialogue: 6,0:10:55.05,0:10:56.14,Text CN,阿尔玛,0,0,0,,{\blur3.0}可是…
 Dialogue: 6,0:10:56.14,0:10:57.64,Text CN,宝田mimic,0,0,0,,{\blur3.0}沒關係  沒關係
 Dialogue: 6,0:10:57.64,0:10:58.30,Text CN,阿尔玛,0,0,0,,{\blur3.0}那麼
 Dialogue: 6,0:10:58.76,0:11:02.52,Text CN,阿尔玛,0,0,0,,{\blur3.0}按漫畫家的平均收入數據換算成時薪
-Dialogue: 6,0:11:02.98,0:11:06.81,Text CN,阿尔玛,0,0,0,,{\blur3.0}一次工作的合理報酬是 100 日元吧{Meiko: 匯率是會變的，沒必要換算成 CNY。另外後面畫了很多圖還是只給 100 日元，應該不是一張圖。}
+Dialogue: 6,0:11:02.98,0:11:06.81,Text CN,阿尔玛,0,0,0,,{\blur3.0}一次工作的合理報酬是 100 日元吧{Meiko: 汇率是会变的，没必要换算成 CNY。另外后面画了很多图还是只给 100 日元，应该不是一张图。}
 Dialogue: 6,0:11:07.19,0:11:07.86,Text CN,宝田mimic,0,0,0,,{\blur3.0}欸…
 Dialogue: 6,0:11:08.19,0:11:10.44,Text CN,宝田mimic,0,0,0,,{\blur3.0}100 日元就行了嗎？那麼給你
 Dialogue: 6,0:11:12.07,0:11:13.44,Text CN,阿尔玛,0,0,0,,{\blur3.0}謝謝您
@@ -382,9 +382,9 @@ Dialogue: 6,0:18:23.33,0:18:24.58,Text CN,恩吉,0,0,0,,{\blur3.0}不  沒什麼
 Dialogue: 6,0:18:24.58,0:18:25.67,Text CN,雀,0,0,0,,{\blur3.0}那就好
 Dialogue: 6,0:18:27.46,0:18:29.21,Text CN,恩吉,0,0,0,,{\blur3.0}沒有阿爾瑪的信號
 Dialogue: 6,0:18:29.88,0:18:32.71,Text CN,恩吉,0,0,0,,{\blur3.0}那傢伙總是對阿爾瑪過度擔心
-Dialogue: 6,0:18:33.18,0:18:35.97,Text CN,恩吉,0,0,0,,{\blur3.0}還是不要告訴她好了 {Meiko: 心配をかける -> 讓對方擔心。不想讓雀擔心 -> 不想告訴她}
+Dialogue: 6,0:18:33.18,0:18:35.97,Text CN,恩吉,0,0,0,,{\blur3.0}還是不要告訴她好了 {Meiko: 心配をかける -> 让对方担心。不想让雀担心 -> 不想告诉她}
 Dialogue: 6,0:18:37.31,0:18:39.52,Text CN,恩吉,0,0,0,,{\blur3.0}阿爾瑪  你到底去哪裡了…
-Dialogue: 6,0:18:40.39,0:18:42.06,Text CN,Astronaut,0,0,160,,{\fnFOT-CinemaCN\fs78\b1\shad2.4\blur0.4\bord4\c&HFEFFFF&\3c&H3A3838&\4c&H000000&\4a&H4A&}馬特！聽到請回答!{Meiko: 瑪特一般用於女名}
+Dialogue: 6,0:18:40.39,0:18:42.06,Text CN,Astronaut,0,0,160,,{\fnFOT-CinemaCN\fs78\b1\shad2.4\blur0.4\bord4\c&HFEFFFF&\3c&H3A3838&\4c&H000000&\4a&H4A&}馬特！聽到請回答!{Meiko: 玛特一般用于女名}
 Dialogue: 6,0:18:42.64,0:18:43.56,Text CN,Astronaut,0,0,160,,{\fnFOT-CinemaCN\fs78\b1\shad2.4\blur0.4\bord4\c&HFEFFFF&\3c&H3A3838&\4c&H000000&\4a&H4A&}馬特！馬特!
 Dialogue: 6,0:18:43.69,0:18:46.15,Text CN,Matt,0,0,160,,{\fnFOT-CinemaCN\fs78\b1\shad2.4\blur0.4\bord4\c&HFEFFFF&\3c&H3A3838&\4c&H000000&\4a&H4A&}我已經超出了通訊範圍
 Dialogue: 6,0:18:44.48,0:18:46.40,Text CN TOP,Astronaut,0,0,0,,{\blur3.0}馬特  能聽到嗎?
@@ -426,7 +426,7 @@ Dialogue: 6,0:20:14.03,0:20:15.95,Text CN,阿尔玛,0,0,0,,{\blur3.0}一起去�
 Dialogue: 6,0:20:15.95,0:20:17.11,Text CN,玛琪娜,0,0,0,,{\blur3.0}等等我~!
 Dialogue: 6,0:20:17.66,0:20:19.24,Text CN,玛琪娜,0,0,0,,{\blur3.0}哦~ 這是什麼!
 Dialogue: 6,0:20:19.24,0:20:23.37,Text CN,阿尔玛,0,0,0,,{\blur3.0}退役後廢棄的舊軍用衛星吧
-Dialogue: 6,0:20:24.41,0:20:27.37,Text CN,玛琪娜,0,0,0,,{\blur3.0}說是可以使用它的太陽能板!{Meiko: 可以理解成衛星 AI 說的，也可以理解成上面寫得有東西}
+Dialogue: 6,0:20:24.41,0:20:27.37,Text CN,玛琪娜,0,0,0,,{\blur3.0}說是可以使用它的太陽能板!{Meiko: 可以理解成卫星 AI 说的，也可以理解成上面写得有东西}
 Dialogue: 6,0:20:27.37,0:20:29.04,Text CN,阿尔玛,0,0,0,,{\blur3.0}獲取衛星數據
 Dialogue: 6,0:20:29.58,0:20:31.04,Text CN,阿尔玛,0,0,0,,{\blur3.0}學習完畢
 Dialogue: 7,0:20:29.58,0:20:31.04,Text ENG,阿尔玛,0,0,0,,{\blur3.0}Learning Complete
@@ -1308,6 +1308,8 @@ Dialogue: 0,0:23:16.83,0:23:21.58,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:23:21.58,0:23:27.17,EDOP,,0,0,0,,{\fad(540,540)}想要永遠平凡下去
 Dialogue: 0,0:23:27.42,0:23:31.30,EDOP,,0,0,0,,{\fad(540,540)}那些隨處可見的日常小生活
 Dialogue: 0,0:23:31.30,0:23:37.00,EDOP,,0,0,0,,{\fad(540,540)}只想永遠下去 只想永遠下去
+Comment: 0,0:00:49.03,0:00:49.03,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:00:49.03,0:00:49.03,OPJP,,0,0,0,,{=14}> OP
 Comment: 0,0:00:49.03,0:00:49.03,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:02:16.07,0:02:18.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:02:16.07,0:02:18.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8666,6 +8668,7 @@ Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,,{=15}> OP END
 Comment: 0,0:00:49.03,0:00:49.07,Default,,0,0,0,,
 
 [Aegisub Extradata]
@@ -8679,3 +8682,5 @@ Data: 8,a-mo,e{"originalText"#3A"{\\an7\\c&HFFFFFF&\\p1\\pos(1583.54#2C680.11)}m
 Data: 9,a-mo,e{"originalText"#3A"{\\an8\\fn#E6#B1#9F#E5#9F#8E#E5#9C#86#E4#BD#93 700W\\fs80\\blur0.6\\bord9\\3c&HFEFFFB&\\fax-0.17\\c&H79A0ED&\\frz-25.41\\pos(1358.27#2C310.96)}#E5#85#B3{\\c&H5E5DBA&}#E4#B8#9C{\\c&H74709E&}#E7#85#AE{\\c&H7B657F&}#E5#A4#A7{\\c&H6061BD&}#E5#B8#88\\N{\\c&H726D9E&}#E6#B1#81{\\c&H779DEB&}#E5#A4#AA{\\c&H79627F&}#E9#83#8E"#2C"uuid"#3A"33a4bd25-6d57-42d2-b0cf-c18b388cd2c8"}
 Data: 11,a-mo,e{"originalText"#3A"{\\an5\\fn#E6#A2#A6#E6#BA#90#E9#BB#91#E4#BD#93 CN W24\\fs72\\blur0.6\\bord6\\c&HFFFFFF&\\3c&HFFD89E&\\pos(1185#2C236)}#E6#88#90#E5#8A#9F#E7#8E#87"#2C"uuid"#3A"74d373a0-cdf1-4647-9c8c-38b185002972"}
 Data: 13,a-mo,e{"originalText"#3A"{\\an5\\fn#E6#A2#A6#E6#BA#90#E9#BB#91#E4#BD#93 CN W24\\fs72\\blur0.6\\bord6\\c&HFFFFFF&\\3c&HFFD89E&\\pos(1185#2C236)}#E6#88#90#E5#8A#9F#E7#8E#87"#2C"uuid"#3A"d30dd04a-5a08-4bbb-ab94-f49d7a5b1baa"}
+Data: 14,_aegi_folddata,e0;1;1
+Data: 15,_aegi_folddata,e1;1;1

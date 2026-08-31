@@ -15,10 +15,10 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 05 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 05 [1080p CR WEB-DL AVC AAC][MultiSub][4017FE94].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 1259
-Active Line: 1275
-Video Position: 15889
+Video Zoom Percent: 0.875000
+Scroll Position: 318
+Active Line: 319
+Video Position: 25012
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -43,7 +43,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————�
 Comment: 6,0:00:00.00,0:00:00.00,Text CN,,0,0,0,,————————正文CN————————
 Dialogue: 6,0:00:05.69,0:00:06.44,Text CN,雀,0,0,0,,{\blur3.0}真有趣!
 Dialogue: 6,0:00:08.11,0:00:09.11,Text CN,阿尔玛,0,0,0,,{\blur3.0}真是荒谬
-Dialogue: 6,0:00:09.70,0:00:11.12,Text CN,雀,800,0,0,,{\blur3.0}阿尔玛向左转一点
+Dialogue: 6,0:00:09.70,0:00:11.12,Text CN,雀,800,0,0,,{\blur3.0}阿尔玛 向左转一点
 Dialogue: 6,0:00:11.12,0:00:11.66,Text CN,阿尔玛,800,0,0,,{\blur3.0}好的
 Dialogue: 6,0:00:12.28,0:00:14.74,Text CN,阿尔玛,0,0,0,,{\blur3.0}明明死了却还能动
 Dialogue: 6,0:00:14.74,0:00:17.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}这种生物真的存在吗?
@@ -1308,6 +1308,8 @@ Dialogue: 0,0:23:16.83,0:23:21.58,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:23:21.58,0:23:27.17,EDOP,,0,0,0,,{\fad(540,540)}想要永远平凡下去
 Dialogue: 0,0:23:27.42,0:23:31.30,EDOP,,0,0,0,,{\fad(540,540)}那些随处可见的日常小生活
 Dialogue: 0,0:23:31.30,0:23:37.00,EDOP,,0,0,0,,{\fad(540,540)}只想永远下去 只想永远下去
+Comment: 0,0:00:49.03,0:00:49.03,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:00:49.03,0:00:49.03,OPJP,,0,0,0,,{=14}> OP
 Comment: 0,0:00:49.03,0:00:49.03,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:02:16.07,0:02:18.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:02:16.07,0:02:18.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8666,6 +8668,7 @@ Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:02:13.74,0:02:14.08,OPCN,,0,0,0,,{=15}> OP END
 Comment: 0,0:00:49.03,0:00:49.07,Default,,0,0,0,,
 
 [Aegisub Extradata]
@@ -8679,3 +8682,5 @@ Data: 8,a-mo,e{"originalText"#3A"{\\an7\\c&HFFFFFF&\\p1\\pos(1583.54#2C680.11)}m
 Data: 9,a-mo,e{"originalText"#3A"{\\an8\\fn#E6#B1#9F#E5#9F#8E#E5#9C#86#E4#BD#93 700W\\fs80\\blur0.6\\bord9\\3c&HFEFFFB&\\fax-0.17\\c&H79A0ED&\\frz-25.41\\pos(1358.27#2C310.96)}#E5#85#B3{\\c&H5E5DBA&}#E4#B8#9C{\\c&H74709E&}#E7#85#AE{\\c&H7B657F&}#E5#A4#A7{\\c&H6061BD&}#E5#B8#88\\N{\\c&H726D9E&}#E6#B1#81{\\c&H779DEB&}#E5#A4#AA{\\c&H79627F&}#E9#83#8E"#2C"uuid"#3A"33a4bd25-6d57-42d2-b0cf-c18b388cd2c8"}
 Data: 11,a-mo,e{"originalText"#3A"{\\an5\\fn#E6#A2#A6#E6#BA#90#E9#BB#91#E4#BD#93 CN W24\\fs72\\blur0.6\\bord6\\c&HFFFFFF&\\3c&HFFD89E&\\pos(1185#2C236)}#E6#88#90#E5#8A#9F#E7#8E#87"#2C"uuid"#3A"74d373a0-cdf1-4647-9c8c-38b185002972"}
 Data: 13,a-mo,e{"originalText"#3A"{\\an5\\fn#E6#A2#A6#E6#BA#90#E9#BB#91#E4#BD#93 CN W24\\fs72\\blur0.6\\bord6\\c&HFFFFFF&\\3c&HFFD89E&\\pos(1185#2C236)}#E6#88#90#E5#8A#9F#E7#8E#87"#2C"uuid"#3A"d30dd04a-5a08-4bbb-ab94-f49d7a5b1baa"}
+Data: 14,_aegi_folddata,e0;1;1
+Data: 15,_aegi_folddata,e1;1;1
