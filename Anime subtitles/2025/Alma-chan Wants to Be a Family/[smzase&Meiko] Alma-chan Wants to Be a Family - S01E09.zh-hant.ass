@@ -16,8 +16,7 @@ Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 09 [1080p CR WEB-
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 701
-Active Line: 712
+Active Line: 2
 Video Position: 3615
 
 [V4+ Styles]
@@ -88,7 +87,7 @@ Dialogue: 6,0:04:13.69,0:04:15.07,Text CN,阿尔玛,0,0,0,,{\blur3.0}感覺怎�
 Dialogue: 6,0:04:16.11,0:04:17.74,Text CN,ナオキ,0,0,0,,{\blur3.0}哦哇！對不起!
 Dialogue: 6,0:04:18.57,0:04:20.42,Text CN,阿尔玛,0,0,0,,{\blur3.0}不要突然起來哦
 Dialogue: 6,0:04:27.25,0:04:28.62,Text CN,阿尔玛,0,0,0,,{\blur3.0}抱歉
-Dialogue: 6,0:04:28.62,0:04:30.80,Text CN,阿尔玛,0,0,0,,{\blur3.0}我還沒習慣這身{體}
+Dialogue: 6,0:04:28.62,0:04:30.80,Text CN,阿尔玛,0,0,0,,{\blur3.0}我還沒習慣這身{体}
 Dialogue: 6,0:04:30.80,0:04:32.63,Text CN,阿尔玛,0,0,0,,{\blur3.0}所以沒能躲開撞到你了
 Dialogue: 6,0:04:32.63,0:04:34.36,Text CN,ナオキ,0,0,0,,{\blur3.0}不  沒有…
 Dialogue: 6,0:04:35.96,0:04:38.04,Text CN,ナオキ,0,0,0,,{\blur3.0}總之  非常感謝您!
@@ -182,7 +181,7 @@ Dialogue: 6,0:10:54.55,0:10:55.30,Text CN,ナオキ,0,0,0,,{\blur3.0}欸?
 Dialogue: 6,0:10:55.88,0:10:57.70,Text CN,ナオキ,0,0,0,,{\blur3.0}嗯  我的名字
 Dialogue: 6,0:10:58.26,0:10:58.90,Text CN,ナオキ,0,0,0,,{\blur3.0}這個
 Dialogue: 6,0:10:59.60,0:11:02.76,Text CN,ナオキ,0,0,0,,{\blur3.0}是小時候去世的媽媽給我的
-Dialogue: 6,0:11:03.31,0:11:06.80,Text CN,ナオキ,0,0,0,,{\blur3.0}雖然刻著名字  顯得又土又幼稚…{Meiko：因為有名字所以才幼稚}
+Dialogue: 6,0:11:03.31,0:11:06.80,Text CN,ナオキ,0,0,0,,{\blur3.0}雖然刻著名字  顯得又土又幼稚…{Meiko：因为有名字所以才幼稚}
 Dialogue: 6,0:11:08.44,0:11:11.20,Text CN,ナオキ,0,0,0,,{\blur3.0}但要是弄丟了  還是不好受
 Dialogue: 6,0:11:14.65,0:11:15.66,Text CN,阿尔玛,0,0,0,,{\blur3.0}太好了呢
 Dialogue: 6,0:11:16.12,0:11:19.08,Text CN,阿尔玛,0,0,0,,{\blur3.0}對你來說  是很重要的東西呢
@@ -427,7 +426,7 @@ Dialogue: 5,0:05:22.47,0:05:24.26,Text JP,阿尔玛,0,0,0,,{\blur3.0}情報が�
 Dialogue: 5,0:05:24.26,0:05:26.97,Text JP,阿尔玛,0,0,0,,{\blur3.0}ぶつかったときに落とした可能性が高いです
 Dialogue: 5,0:05:29.23,0:05:31.10,Text JP,阿尔玛,0,0,0,,{\blur3.0}私にも責任があります
 Dialogue: 5,0:05:31.48,0:05:33.35,Text JP,阿尔玛,0,0,0,,{\blur3.0}とりあえず　ルートを逆走して…
-Dialogue: 5,0:05:37.53,0:05:38.78,Text JP,阿尔玛,0,0,0,,{\blur3.0}形狀一致
+Dialogue: 5,0:05:37.53,0:05:38.78,Text JP,阿尔玛,0,0,0,,{\blur3.0}形状一致
 Dialogue: 5,0:05:38.78,0:05:40.65,Text JP,阿尔玛,0,0,0,,{\blur3.0}あの猫は鍵を持っています
 Dialogue: 5,0:05:40.65,0:05:41.49,Text JP,阿尔玛,0,0,0,,{\blur3.0}追いましょう
 Dialogue: 5,0:05:46.33,0:05:48.24,Text JP,阿尔玛,0,0,0,,{\blur3.0}バランスの調整が難しいです
@@ -444,8 +443,8 @@ Dialogue: 5,0:06:33.71,0:06:35.33,Text JP,阿尔玛,0,0,0,,{\blur3.0}奥のほ�
 Dialogue: 5,0:06:38.09,0:06:39.67,Text JP,ナオキ,0,0,0,,{\blur3.0}見つからないな〜
 Dialogue: 5,0:06:42.01,0:06:44.01,Text JP,ナオキ,0,0,0,,{\blur3.0}高校生だよな
 Dialogue: 5,0:06:46.01,0:06:47.36,Text JP,阿尔玛,0,0,0,,{\blur3.0}見当たりませんね
-Dialogue: 5,0:06:52.06,0:06:53.52,Text JP,ナオキ,0,0,0,,{\blur3.0}銀髮…
-Dialogue: 5,0:06:53.52,0:06:54.69,Text JP,ナオキ,0,0,0,,{\blur3.0}外國人？
+Dialogue: 5,0:06:52.06,0:06:53.52,Text JP,ナオキ,0,0,0,,{\blur3.0}銀髪…
+Dialogue: 5,0:06:53.52,0:06:54.69,Text JP,ナオキ,0,0,0,,{\blur3.0}外国人？
 Dialogue: 5,0:06:59.27,0:07:00.57,Text JP,ナオキ,0,0,0,,{\blur3.0}大丈夫!?
 Dialogue: 5,0:07:02.15,0:07:04.70,Text JP,ナオキ,0,0,0,,{\blur3.0}おねーさん　危なっかしいんだよ
 Dialogue: 5,0:07:04.70,0:07:06.04,Text JP,阿尔玛,0,0,0,,{\blur3.0}ありがとうございます
@@ -745,6 +744,8 @@ Dialogue: 0,0:23:16.83,0:23:21.58,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:23:21.58,0:23:27.17,EDOP,,0,0,0,,{\fad(540,540)}想要永遠平凡下去
 Dialogue: 0,0:23:27.42,0:23:31.30,EDOP,,0,0,0,,{\fad(540,540)}那些隨處可見的日常小生活
 Dialogue: 0,0:23:31.30,0:23:37.00,EDOP,,0,0,0,,{\fad(540,540)}只想永遠下去 只想永遠下去
+Comment: 0,0:01:55.01,0:01:55.01,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:01:55.01,0:01:55.01,OPJP,,0,0,0,,{=6}> OP
 Comment: 0,0:01:55.01,0:01:55.01,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:03:22.06,0:03:24.98,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:03:22.06,0:03:24.98,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8103,6 +8104,7 @@ Dialogue: 2,0:03:19.72,0:03:20.06,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:03:19.72,0:03:20.06,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:03:19.72,0:03:20.06,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:03:19.72,0:03:20.06,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:03:19.72,0:03:20.06,OPCN,,0,0,0,,{=7}> OP END
 Comment: 0,0:01:55.01,0:22:09.98,Default,,0,0,0,,
 Comment: 0,0:22:09.93,0:22:09.98,Default,,0,0,0,,
 
@@ -8111,3 +8113,5 @@ Data: 2,a-mo,e{"uuid"#3A"9da40523-2ed2-4909-8be5-31d358028035"#2C"originalText"#
 Data: 3,a-mo,e{"uuid"#3A"7afd0960-8e23-4861-8ed2-d9dfbd61a904"#2C"originalText"#3A"{\\an5\\fn@#E5#8D#8E#E5#BA#B7#E7#BF#A9#E7#BF#A9#E4#BD#93A Std W5\\fs64\\blur0.6\\bord0\\c&H5B585D&\\frz-67.8\\fax-0.14\\pos(1211.31#2C756.55)}#E4#BB#8A#E6#97#A5#E6#97#A0#E4#BA#8B"}
 Data: 4,a-mo,e{"uuid"#3A"a6905641-f3eb-4e7e-b02a-ce05013f167d"#2C"originalText"#3A"{\\an5\\fn@#E5#8D#8E#E5#BA#B7#E7#BF#A9#E7#BF#A9#E4#BD#93A Std W5\\fs64\\blur0.6\\bord0\\c&H5B585D&\\frz-67.8\\fax-0.14\\pos(530.86#2C537.21)}#E7#9C#81#E7#94#B5#E6#A8#A1#E5#BC#8F"}
 Data: 5,a-mo,e{"uuid"#3A"f913bb7b-9fd1-42f9-8dde-601287899ac0"#2C"originalText"#3A"{\\an5\\fn@#E5#8D#8E#E5#BA#B7#E7#BF#A9#E7#BF#A9#E4#BD#93A Std W5\\fs64\\blur0.6\\bord0\\c&H5B585D&\\frz-67.8\\fax-0.14\\pos(616.23#2C517.22)}#E4#BB#8A#E6#97#A5#E6#97#A0#E4#BA#8B"}
+Data: 6,_aegi_folddata,e0;1;1
+Data: 7,_aegi_folddata,e1;1;1
