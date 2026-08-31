@@ -30,11 +30,11 @@
 
 | 字体名 | 字体下载 |
 | --- | --- |
-| 夢ノ明朝 JP W15 | [DreamHanSerifJP-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifJP-W15.ttf) |
-| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
-| 方正字迹-杜墨飞钢笔楷书 简繁 | [FZZJ-DMFGBKSJF.ttf](https://sub.072158.xyz/fonts/FZZJ-DMFGBKSJF.ttf) |
-| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
-| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
-| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
-| 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
+| 夢ノ明朝 JP W15 | [DreamHanSerifJP-W15.ttf](https://download.072158.xyz/fonts/DreamHanSerifJP-W15.ttf) |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 方正字迹-杜墨飞钢笔楷书 简繁 | [FZZJ-DMFGBKSJF.ttf](https://download.072158.xyz/fonts/FZZJ-DMFGBKSJF.ttf) |
+| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
+| 霞鹜文楷 Medium | [LXGWWenKai-Medium.ttf](https://download.072158.xyz/fonts/LXGWWenKai-Medium.ttf) |
 
