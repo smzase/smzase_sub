@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 阿尔玛
-Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 06 [1080p CR WEB-DL AVC AAC][MultiSub][C3BC85A3].mkv
-Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 06 [1080p CR WEB-DL AVC AAC][MultiSub][C3BC85A3].mkv
+Audio File: E:/.A下载的东西/阿尔玛2/S01E06.mkv
+Video File: E:/.A下载的东西/阿尔玛2/S01E06.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 814
-Active Line: 832
-Video Position: 16955
+Video Zoom Percent: 0.375000
+Scroll Position: 780
+Active Line: 792
+Video Position: 34044
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -557,8 +557,8 @@ Dialogue: 5,0:08:29.32,0:08:30.37,Text JP,Passerby,0,0,0,,{\blur3.0}何　あれ
 Dialogue: 5,0:08:31.20,0:08:35.25,Text JP,妮恩,0,0,0,,{\blur3.0}あなたの小さなボディに込められた無限の可能性
 Dialogue: 5,0:08:35.25,0:08:37.91,Text JP,妮恩,0,0,0,,{\blur3.0}それを生かせる場所は我が社しかない
 Dialogue: 5,0:08:38.41,0:08:41.50,Text JP,妮恩,0,0,0,,{\blur3.0}もちろん　最高の待遇を用意しますわ！
-Dialogue: 5,0:08:41.50,0:08:44.30,Text JP,阿尔玛,0,0,0,,{\blur3.0}でも　私は兵器じゃないです
-Dialogue: 5,0:08:44.30,0:08:45.67,Text JP,妮恩,0,0,0,,{\blur3.0}よそうなんですの!?
+Dialogue: 5,0:08:41.50,0:08:44.30,Text JP,阿尔玛,0,0,0,,{\blur3.0}でも　私は兵器じゃないですよ
+Dialogue: 5,0:08:44.30,0:08:45.67,Text JP,妮恩,0,0,0,,{\blur3.0}そうなんですの!?
 Dialogue: 5,0:08:45.67,0:08:48.01,Text JP,妮恩,0,0,0,,{\blur3.0}ビームとか出してましたわよね？
 Dialogue: 5,0:08:48.47,0:08:50.60,Text JP,阿尔玛,0,0,0,,{\blur3.0}趣味でつけたって言ってました
 Dialogue: 5,0:08:51.26,0:08:54.90,Text JP,妮恩,0,0,0,,{\blur3.0}では　今まで全力を出したことはないんですの？
@@ -717,8 +717,8 @@ Dialogue: 5,0:17:42.29,0:17:44.21,Text JP,花,0,0,0,,{\blur3.0}おかあさん�
 Dialogue: 5,0:17:44.67,0:17:46.96,Text JP,妮恩,0,0,0,,{\blur3.0}まぁ　それは心配ですわね
 Dialogue: 5,0:17:47.26,0:17:48.72,Text JP,阿尔玛,0,0,0,,{\blur3.0}はい　心配です
 Dialogue: 5,0:17:49.55,0:17:53.09,Text JP,妮恩,0,0,0,,{\blur3.0}タナカ！　至急　我が社の精鋭医療チームを！
-Dialogue: 5,0:17:53.93,0:17:56.12,Text JP,阿尔玛,0,0,0,,{\blur3.0}いえ　治療は完了していますでは
-Dialogue: 5,0:17:56.56,0:17:58.04,Text JP,妮恩,0,0,0,,{\blur3.0}いりませんわね
+Dialogue: 5,0:17:53.93,0:17:56.12,Text JP,阿尔玛,0,0,0,,{\blur3.0}いえ　治療は完了しています
+Dialogue: 5,0:17:56.56,0:17:58.04,Text JP,妮恩,0,0,0,,{\blur3.0}では　いりませんわね
 Dialogue: 5,0:17:58.47,0:18:02.78,Text JP,花,0,0,0,,{\blur3.0}薬のんでごはん食べたんなら　あとは寝て治すしかないだろ
 Dialogue: 5,0:18:03.86,0:18:06.23,Text JP,花,0,0,0,,{\blur3.0}まぁ　心配なのはわかるけどよ
 Dialogue: 5,0:18:06.50,0:18:08.94,Text JP,妮恩,0,0,0,,{\blur3.0}アルマさんの看病を受けたなら
@@ -830,8 +830,8 @@ Dialogue: 3,0:19:02.75,0:19:04.50,Sign,,0,0,0,,{\an5\fn方正兰亭圆GBK ExtraB
 Dialogue: 3,0:19:02.75,0:19:04.50,Sign,,0,0,0,,{\an5\fn梦源黑体 CN W24\fs50\blur0.6\bord0\fscy97\pos(806.7,291.5)}宝矿力水特
 Dialogue: 0,0:22:19.94,0:22:21.45,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs242\b1\fsp-8\blur2.2\bord18\c&HFFFFFF&\3c&HFFFFFF&\fad(0,120)\pos(960,820)}探病
 Dialogue: 1,0:22:19.94,0:22:21.45,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs242\b1\fsp-8\blur0.6\bord1\c&H1B1B1B&\3c&H1B1B1B&\fad(0,120)\pos(960,820)}探病
-Dialogue: 0,0:23:38.39,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(180,0)\pos(960,175)\1a&H89&}结束
-Dialogue: 1,0:23:38.39,0:23:42.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H95D6B0&\3c&H95D6B0&\fad(180,0)\pos(960,175)}结束
+Dialogue: 0,0:23:38.39,0:23:39.94,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(180,0)\pos(960,175)\1a&H89&}结束
+Dialogue: 1,0:23:38.39,0:23:39.94,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H95D6B0&\3c&H95D6B0&\fad(180,0)\pos(960,175)}结束
 Dialogue: 3,0:23:02.28,0:23:05.74,Sign,,0,0,0,,{\an5\fn江城圆体 700W\fs74\blur0.6\bord6\c&HFEFFFF&\3c&H3B659A&\fscx100\fscy82\frz-15.63\fax-0.74\pos(1132.97,216.59)}焦糖布丁
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字跟踪————————
 Comment: 0,0:20:49.98,0:20:49.98,EDJP,,0,0,0,,——————————ED——————————
@@ -865,6 +865,8 @@ Dialogue: 0,0:21:56.88,0:22:01.63,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:22:01.63,0:22:07.22,EDOP,,0,0,0,,{\fad(540,540)}想要永远平凡下去
 Dialogue: 0,0:22:07.47,0:22:11.35,EDOP,,0,0,0,,{\fad(540,540)}那些随处可见的日常小生活
 Dialogue: 0,0:22:11.35,0:22:17.05,EDOP,,0,0,0,,{\fad(540,540)}只想永远下去 只想永远下去
+Comment: 0,0:01:35.99,0:01:35.99,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:01:35.99,0:01:35.99,OPJP,,0,0,0,,{=0}> OP
 Comment: 0,0:01:35.99,0:01:35.99,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:03:03.04,0:03:05.96,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:03:03.04,0:03:05.96,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8223,5 +8225,10 @@ Dialogue: 2,0:03:00.70,0:03:01.04,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:03:00.70,0:03:01.04,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:03:00.70,0:03:01.04,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:03:00.70,0:03:01.04,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:03:00.70,0:03:01.04,OPCN,,0,0,0,,{=1}> OP END
 Comment: 0,0:01:35.99,0:01:36.03,Default,,0,0,0,,
 Comment: 0,0:20:49.98,0:20:50.02,Default,,0,0,0,,
+
+[Aegisub Extradata]
+Data: 0,_aegi_folddata,e0;1;1
+Data: 1,_aegi_folddata,e1;1;1
