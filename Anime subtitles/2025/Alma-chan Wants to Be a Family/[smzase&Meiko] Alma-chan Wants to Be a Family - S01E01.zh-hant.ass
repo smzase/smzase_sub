@@ -16,9 +16,9 @@ Video File: E:/.A下载的东西/阿尔玛2/S01E01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 772
-Active Line: 776
-Video Position: 34045
+Scroll Position: 125
+Active Line: 129
+Video Position: 7926
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -167,7 +167,7 @@ Dialogue: 6,0:05:17.96,0:05:19.09,Text CN,恩吉,250,0,0,,{\blur3.0}是我啊!
 Dialogue: 6,0:05:19.63,0:05:22.68,Text CN,阿尔玛,0,0,0,,{\blur3.0}如果資訊有誤  可以更正
 Dialogue: 6,0:05:23.93,0:05:26.43,Text CN,旁白,0,0,0,,{\blur3.0}之後花了好幾個小時辯解
 Dialogue: 6,0:05:27.22,0:05:29.90,Text CN,阿尔玛,0,0,0,,{\blur3.0}「已識別爸爸和媽媽」
-Dialogue: 6,0:05:30.56,0:05:31.40,Text CN,旁白,0,0,0,,{\blur3.0}滿分
+Dialogue: 6,0:05:30.56,0:05:31.40,Text CN,旁白,0,0,0,,{\blur3.0}小紅花
 Dialogue: 6,0:05:33.77,0:05:35.04,Text CN,阿尔玛,0,0,0,,{\blur3.0}沒事吧?
 Dialogue: 6,0:05:35.42,0:05:37.53,Text CN,阿尔玛,0,0,0,,{\blur3.0}爸爸  媽媽
 Dialogue: 6,0:05:38.44,0:05:41.82,Text CN,阿尔玛,0,0,0,,{\blur3.0}從身體數據中  確認到壓力值微增

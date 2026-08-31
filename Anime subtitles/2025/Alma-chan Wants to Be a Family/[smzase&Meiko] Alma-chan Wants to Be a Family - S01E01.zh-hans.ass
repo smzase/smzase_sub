@@ -15,10 +15,10 @@ Audio File: E:/.A下载的东西/阿尔玛2/S01E01.mkv
 Video File: E:/.A下载的东西/阿尔玛2/S01E01.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 772
-Active Line: 776
-Video Position: 34045
+Video Zoom Percent: 0.500000
+Scroll Position: 128
+Active Line: 129
+Video Position: 7926
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -167,7 +167,7 @@ Dialogue: 6,0:05:17.96,0:05:19.09,Text CN,恩吉,250,0,0,,{\blur3.0}是我啊!
 Dialogue: 6,0:05:19.63,0:05:22.68,Text CN,阿尔玛,0,0,0,,{\blur3.0}如果信息有误  可以更正
 Dialogue: 6,0:05:23.93,0:05:26.43,Text CN,旁白,0,0,0,,{\blur3.0}之后花了好几个小时辩解
 Dialogue: 6,0:05:27.22,0:05:29.90,Text CN,阿尔玛,0,0,0,,{\blur3.0}「已识别爸爸和妈妈」
-Dialogue: 6,0:05:30.56,0:05:31.40,Text CN,旁白,0,0,0,,{\blur3.0}满分
+Dialogue: 6,0:05:30.56,0:05:31.40,Text CN,旁白,0,0,0,,{\blur3.0}小红花
 Dialogue: 6,0:05:33.77,0:05:35.04,Text CN,阿尔玛,0,0,0,,{\blur3.0}没事吧?
 Dialogue: 6,0:05:35.42,0:05:37.53,Text CN,阿尔玛,0,0,0,,{\blur3.0}爸爸  妈妈
 Dialogue: 6,0:05:38.44,0:05:41.82,Text CN,阿尔玛,0,0,0,,{\blur3.0}从身体数据中  确认到压力值微增
