@@ -15,10 +15,10 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 10 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 10 [1080p CR WEB-DL AVC AAC][MultiSub][00FFFB73].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 1067
-Active Line: 12127
-Video Position: 2033
+Video Zoom Percent: 0.875000
+Scroll Position: 101
+Active Line: 105
+Video Position: 10656
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -151,7 +151,7 @@ Dialogue: 6,0:07:12.95,0:07:13.87,Text CN,雀,800,0,0,,{\blur3.0}可以让你…
 Dialogue: 6,0:07:14.46,0:07:15.50,Text CN,雀,800,0,0,,{\blur3.0}抱我!
 Dialogue: 6,0:07:15.50,0:07:17.50,Text CN,恩吉,0,0,0,,{\blur3.0}你也是  在说啥呢!?
 Dialogue: 6,0:07:17.96,0:07:21.04,Text CN,雀,0,0,0,,{\blur3.0}这是阿尔玛特地为我们找到的方法…
-Dialogue: 6,0:07:21.67,0:07:26.12,Text CN,雀,0,0,0,,{\blur3.0}我不想在还没尝试完所有的方法前放弃
+Dialogue: 6,0:07:21.55,0:07:26.13,Text CN,雀,0,0,0,,{\blur3.0}我不想在还没尝试完所有方法前放弃
 Dialogue: 6,0:07:26.68,0:07:28.04,Text CN,恩吉,0,0,0,,{\blur3.0}这个嘛  我也是…
 Dialogue: 6,0:07:28.60,0:07:32.39,Text CN,恩吉,0,0,0,,{\blur3.0}毕竟你要是一直这样子  我也不自在啊…
 Dialogue: 6,0:07:33.68,0:07:36.42,Text CN,恩吉,0,0,0,,{\blur3.0}不过  具体要做什么…
@@ -362,7 +362,7 @@ Dialogue: 6,0:17:45.46,0:17:49.86,Text CN,阿尔玛,0,0,0,,{\blur3.0}制作乐�
 Dialogue: 6,0:17:50.43,0:17:53.05,Text CN,妮恩,0,0,0,,{\blur3.0}将难题一个个克服吧
 Dialogue: 6,0:17:53.05,0:17:54.47,Text CN,玛琪娜,0,0,0,,{\blur3.0}加油吧~!
 Dialogue: 6,0:17:54.97,0:17:56.62,Text CN,阿尔玛,0,0,0,,{\blur3.0}『A-Ma-Ne 频道』
-Dialogue: 6,0:17:57.47,0:18:00.00,Text CN,阿尔玛,0,0,0,,{\blur3.0}妮恩  首先先做什么呢?
+Dialogue: 6,0:17:57.47,0:18:00.00,Text CN,阿尔玛,0,0,0,,{\blur3.0}妮恩  首先要做什么呢?
 Dialogue: 6,0:18:02.23,0:18:04.73,Text CN,妮恩,0,0,0,,{\blur3.0}建造演唱会会场呢
 Dialogue: 6,0:18:04.73,0:18:07.02,Text CN,阿尔玛,0,0,0,,{\blur3.0}哇啊——
 Dialogue: 6,0:18:09.11,0:18:11.86,Text CN,妮恩,0,0,0,,{\blur3.0}那个材料要放在 A3 区域
@@ -507,7 +507,7 @@ Dialogue: 5,0:07:12.95,0:07:13.87,Text JP,雀,800,0,0,,{\blur3.0}私に…
 Dialogue: 5,0:07:14.46,0:07:15.50,Text JP,雀,800,0,0,,{\blur3.0}触ってよし！
 Dialogue: 5,0:07:15.50,0:07:17.50,Text JP,恩吉,0,0,0,,{\blur3.0}お前も何言ってんだ〜!?
 Dialogue: 5,0:07:17.96,0:07:21.04,Text JP,雀,0,0,0,,{\blur3.0}せっかくアルマが見つけてくれた方法だし…
-Dialogue: 5,0:07:21.67,0:07:26.12,Text JP,雀,0,0,0,,{\blur3.0}ありとあらゆる方法を試さないまま諦めるなんてしたくない！
+Dialogue: 5,0:07:21.55,0:07:26.13,Text JP,雀,0,0,0,,{\blur3.0}ありとあらゆる方法を試さないまま諦めるなんてしたくない！
 Dialogue: 5,0:07:26.68,0:07:28.04,Text JP,恩吉,0,0,0,,{\blur3.0}まぁ俺も…
 Dialogue: 5,0:07:28.60,0:07:32.39,Text JP,恩吉,0,0,0,,{\blur3.0}お前が　しおらしいままだと　調子が狂うしな…
 Dialogue: 5,0:07:33.68,0:07:36.42,Text JP,恩吉,0,0,0,,{\blur3.0}でも　具体的に何をすれば…
