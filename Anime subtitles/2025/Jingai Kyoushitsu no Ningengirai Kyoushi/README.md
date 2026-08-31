@@ -44,25 +44,25 @@
 
 | 字体整合包 |
 | --- |
-| [非人学生与厌世教师 字体整合包.7z](https://sub.072158.xyz/font-packages/%E9%9D%9E%E4%BA%BA%E5%AD%A6%E7%94%9F%E4%B8%8E%E5%8E%8C%E4%B8%96%E6%95%99%E5%B8%88%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
+| [非人学生与厌世教师 字体整合包.7z](https://download.072158.xyz/font-packages/%E9%9D%9E%E4%BA%BA%E5%AD%A6%E7%94%9F%E4%B8%8E%E5%8E%8C%E4%B8%96%E6%95%99%E5%B8%88%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
 
 | 字体名 | 字体下载 |
 | --- | --- |
-| Arial | [arial.ttf](https://sub.072158.xyz/fonts/arial.ttf) |
-| FOT-スーラ Pro | [FOT-SeuratPro-B.otf](https://sub.072158.xyz/fonts/FOT-SeuratPro-B.otf) |
-| 华康翩翩体A Std | [华康翩翩体A Std W5.otf](https://sub.072158.xyz/fonts/%E5%8D%8E%E5%BA%B7%E7%BF%A9%E7%BF%A9%E4%BD%93A%20Std%20W5.otf) |
-| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
-| 夢ノ角ゴ JP W26 | [DreamHanSansJP-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W26.ttf) |
-| 方正兰亭圆GBK | [FZLanTYK_Da.otf](https://sub.072158.xyz/fonts/FZLanTYK_Da.otf) |
-| 方正字迹-俊坡硬笔 简繁 | [FZZJ-JPYBJF.ttf](https://sub.072158.xyz/fonts/FZZJ-JPYBJF.ttf) |
-| 方正时代宋 简繁 | [FZShiDSJF_Te.otf](https://sub.072158.xyz/fonts/FZShiDSJF_Te.otf) |
-| 方正楷体_GBK | [方正楷体_GBK.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E6%A5%B7%E4%BD%93_GBK.ttf) |
-| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
-| 梦源宋体 CN W20 | [DreamHanSerifCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W20.ttf) |
-| 梦源黑体 CN W15 | [DreamHanSansCN-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W15.ttf) |
-| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
-| 梦源黑体 CN W22 | [DreamHanSansCN-W22.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W22.ttf) |
-| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
-| 猫啃什锦黑 | [MaokenAssortedSans.otf](https://sub.072158.xyz/fonts/MaokenAssortedSans.otf) |
-| 霞鹜文楷等宽 Medium | [LXGWWenKaiMono-Medium.ttf](https://sub.072158.xyz/fonts/LXGWWenKaiMono-Medium.ttf) |
+| Arial | [arial.ttf](https://download.072158.xyz/fonts/arial.ttf) |
+| FOT-スーラ Pro | [FOT-SeuratPro-B.otf](https://download.072158.xyz/fonts/FOT-SeuratPro-B.otf) |
+| 华康翩翩体A Std | [华康翩翩体A Std W5.otf](https://download.072158.xyz/fonts/%E5%8D%8E%E5%BA%B7%E7%BF%A9%E7%BF%A9%E4%BD%93A%20Std%20W5.otf) |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 夢ノ角ゴ JP W26 | [DreamHanSansJP-W26.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W26.ttf) |
+| 方正兰亭圆GBK | [FZLanTYK_Da.otf](https://download.072158.xyz/fonts/FZLanTYK_Da.otf) |
+| 方正字迹-俊坡硬笔 简繁 | [FZZJ-JPYBJF.ttf](https://download.072158.xyz/fonts/FZZJ-JPYBJF.ttf) |
+| 方正时代宋 简繁 | [FZShiDSJF_Te.otf](https://download.072158.xyz/fonts/FZShiDSJF_Te.otf) |
+| 方正楷体_GBK | [方正楷体_GBK.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E6%A5%B7%E4%BD%93_GBK.ttf) |
+| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
+| 梦源宋体 CN W20 | [DreamHanSerifCN-W20.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W20.ttf) |
+| 梦源黑体 CN W15 | [DreamHanSansCN-W15.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W15.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 梦源黑体 CN W22 | [DreamHanSansCN-W22.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W22.ttf) |
+| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
+| 猫啃什锦黑 | [MaokenAssortedSans.otf](https://download.072158.xyz/fonts/MaokenAssortedSans.otf) |
+| 霞鹜文楷等宽 Medium | [LXGWWenKaiMono-Medium.ttf](https://download.072158.xyz/fonts/LXGWWenKaiMono-Medium.ttf) |
 
