@@ -11,14 +11,12 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: 阿尔玛
-Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 07 [1080p CR WEB-DL AVC AAC][MultiSub][97D9CFE3].mkv
-Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 07 [1080p CR WEB-DL AVC AAC][MultiSub][97D9CFE3].mkv
+Audio File: E:/.A下载的东西/阿尔玛2/S01E07.mkv
+Video File: E:/.A下载的东西/阿尔玛2/S01E07.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 910
-Active Line: 936
-Video Position: 32112
+Video Zoom Percent: 0.500000
+Active Line: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -114,7 +112,7 @@ Dialogue: 6,0:05:06.41,0:05:09.33,Text CN,玛琪娜,0,0,0,,{\blur3.0}哇~！這�
 Dialogue: 6,0:05:09.33,0:05:10.46,Text CN,常夜,0,0,0,,{\blur3.0}喂  瑪琪娜!
 Dialogue: 6,0:05:13.96,0:05:14.50,Text CN,阿尔玛,0,0,0,,{\blur3.0}小花?
 Dialogue: 6,0:05:14.50,0:05:16.55,Text CN,花,0,0,0,,{\blur3.0}嗯？阿爾瑪…
-Dialogue: 6,0:05:16.55,0:05:17.90,Text CN,花,0,0,0,,{\blur3.0}為什麼你在這?
+Dialogue: 6,0:05:16.55,0:05:18.01,Text CN,花,0,0,0,,{\blur3.0}你怎麼在這?
 Dialogue: 6,0:05:18.97,0:05:20.12,Text CN,阿尔玛,0,0,0,,{\blur3.0}真巧呢
 Dialogue: 6,0:05:21.09,0:05:21.96,Text CN,妮恩,0,0,0,,{\blur3.0}阿爾瑪小姐!
 Dialogue: 6,0:05:22.55,0:05:25.48,Text CN,妮恩,0,0,0,,{\blur3.0}不好意思  我擅自尾隨了過來
@@ -265,7 +263,7 @@ Dialogue: 6,0:12:34.07,0:12:37.57,Text CN,阿尔玛,0,0,0,,{\blur3.0}看到自�
 Dialogue: 6,0:12:37.57,0:12:38.61,Text CN,恩吉,0,0,0,,{\blur3.0}原來如此啊
 Dialogue: 6,0:12:39.08,0:12:40.11,Text CN,恩吉,0,0,0,,{\blur3.0}幫我拿下醬油
 Dialogue: 6,0:12:40.11,0:12:41.00,Text CN,雀,0,0,0,,{\blur3.0}好好
-Dialogue: 6,0:12:41.36,0:12:43.49,Text CN,雀,0,0,0,,{\blur3.0}確實  我們有必要去看看{Meiko: 看了看原作漫畫，確定這裡不是把 ねえ 写錯成了 ね。因為他們倆對阿爾瑪的學校生活一無所知，所以有必要去觀摩教學。}
+Dialogue: 6,0:12:41.36,0:12:43.49,Text CN,雀,0,0,0,,{\blur3.0}確實  我們有必要去看看{Meiko: 看了看原作漫画，确定这里不是把 ねえ 写错成了 ね。因为他们俩对阿尔玛的学校生活一无所知，所以有必要去观摩教学。}
 Dialogue: 6,0:12:44.33,0:12:46.00,Text CN,阿尔玛,0,0,0,,{\blur3.0}沒空去嗎?
 Dialogue: 6,0:12:47.12,0:12:49.25,Text CN,恩吉&雀,0,0,0,,{\blur3.0}不  完全有空
 Dialogue: 6,0:12:49.67,0:12:53.46,Text CN,恩吉,0,0,0,,{\blur3.0}話說開放日那天  穿什麼去好啊?
@@ -342,7 +340,7 @@ Dialogue: 6,0:16:25.76,0:16:26.38,Text CN,恩吉,0,0,0,,{\blur3.0}出現了…
 Dialogue: 6,0:16:27.13,0:16:29.80,Text CN,妮恩,0,0,0,,{\blur3.0}是用我司作為贊助商
 Dialogue: 6,0:16:29.80,0:16:33.60,Text CN,妮恩,0,0,0,,{\blur3.0}以商業行為的名義匯來的資金
 Dialogue: 6,0:16:33.60,0:16:35.85,Text CN,妮恩,0,0,0,,{\blur3.0}我對設計也很有講究哦!
-Dialogue: 6,0:16:35.85,0:16:37.23,Text CN,雀,0,0,0,,{\blur3.0}給你按讚!{Meiko: いいね = 按讚}
+Dialogue: 6,0:16:35.85,0:16:37.23,Text CN,雀,0,0,0,,{\blur3.0}給你按讚!{Meiko: いいね = 点赞}
 Dialogue: 6,0:16:39.27,0:16:42.73,Text CN,阿尔玛,0,0,0,,{\blur3.0}此外  當這所學校試運行完畢後
 Dialogue: 6,0:16:42.73,0:16:44.69,Text CN,阿尔玛,0,0,0,,{\blur3.0}將進入下一階段
 Dialogue: 6,0:16:44.69,0:16:45.61,Text CN,恩吉,0,0,0,,{\blur3.0}下一階段…?
@@ -394,7 +392,7 @@ Dialogue: 6,0:18:34.59,0:18:38.36,Text CN,阿尔玛,0,0,0,,{\blur3.0}這所由 A
 Dialogue: 6,0:18:38.97,0:18:43.39,Text CN,阿尔玛,0,0,0,,{\blur3.0}我只是想  永遠地把這所學校變好…
 Dialogue: 6,0:18:43.39,0:18:44.60,Text CN,妮恩,0,0,0,,{\blur3.0}永遠
 Dialogue: 6,0:18:45.02,0:18:48.02,Text CN,妮恩,0,0,0,,{\blur3.0}即便我們畢業了長大成人
-Dialogue: 6,0:18:48.53,0:18:50.94,Text CN,妮恩,0,0,0,,{\blur3.0}你也要一直留著這所學校裡嗎?
+Dialogue: 6,0:18:48.53,0:18:50.94,Text CN,妮恩,0,0,0,,{\blur3.0}你也要一直留在這所學校裡嗎?
 Dialogue: 6,0:18:53.03,0:19:00.04,Text CN TOP,Song,0,0,0,,{\blur3.0}「仰望吾師  感懷恩情」
 Dialogue: 6,0:19:00.04,0:19:05.38,Text CN TOP,Song,0,0,0,,{\blur3.0}「何等崇高尊貴」
 Dialogue: 6,0:19:00.75,0:19:02.96,Text CN,妮恩,0,0,0,,{\blur3.0}阿爾瑪小姐  請多保重~
@@ -535,7 +533,7 @@ Dialogue: 5,0:05:06.41,0:05:09.33,Text JP,玛琪娜,0,0,0,,{\blur3.0}うぉ〜�
 Dialogue: 5,0:05:09.33,0:05:10.46,Text JP,常夜,0,0,0,,{\blur3.0}こら　マキナ！
 Dialogue: 5,0:05:13.96,0:05:14.50,Text JP,阿尔玛,0,0,0,,{\blur3.0}ハナ？
 Dialogue: 5,0:05:14.50,0:05:16.55,Text JP,花,0,0,0,,{\blur3.0}んっ？　アルマ…
-Dialogue: 5,0:05:16.55,0:05:17.90,Text JP,花,0,0,0,,{\blur3.0}なんでお前が？
+Dialogue: 5,0:05:16.55,0:05:18.01,Text JP,花,0,0,0,,{\blur3.0}なんでお前が？
 Dialogue: 5,0:05:18.97,0:05:20.12,Text JP,阿尔玛,0,0,0,,{\blur3.0}偶然ですね
 Dialogue: 5,0:05:21.09,0:05:21.96,Text JP,妮恩,0,0,0,,{\blur3.0}アルマさん！
 Dialogue: 5,0:05:22.55,0:05:25.48,Text JP,妮恩,0,0,0,,{\blur3.0}勝手ながら追尾させていただきましたわ〜
@@ -922,8 +920,8 @@ Dialogue: 3,0:18:52.48,0:18:56.49,Sign,,0,0,0,,{\an5\fn@梦源宋体 CN\fs80\blu
 Dialogue: 3,0:18:56.49,0:19:00.50,Sign,,0,0,0,,{\an5\fn@方正喵呜_GBK\fs42\frz-61.39\blur0.5\bord0\c&HD6BDCB&\pos(808.48,419.61)}恭喜
 Dialogue: 3,0:18:56.49,0:19:00.50,Sign,,0,0,0,,{\an5\fn@方正喵呜_GBK\fs48\frz-90\blur0.5\bord0\c&HCDBACF&\pos(1370.41,404.83)}畢業
 Dialogue: 3,0:22:28.03,0:22:31.50,Sign,,0,0,0,,{\an5\fn猫啃什锦黑\fs170\blur0.6\bord8\c&H322425&\3c&HFFFDFD&\fad(240,460)\pos(960,960)}咖啡時間 2
-Dialogue: 0,0:23:37.56,0:23:41.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(460,0)\pos(960,175)}結束
-Dialogue: 1,0:23:37.56,0:23:41.00,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H1D75E6&\3c&H1D75E6&\fad(440,0)\pos(960,175)}結束
+Dialogue: 0,0:23:37.56,0:23:39.98,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur1.2\bord24\c&HFFFFFF&\3c&HFFFFFF&\fad(460,0)\pos(960,175)}結束
+Dialogue: 1,0:23:37.56,0:23:39.98,Sign,,0,0,0,,{\an5\fn方正喵呜_GBK\fs300\b1\fsp0\blur0.6\bord3\c&H1D75E6&\3c&H1D75E6&\fad(440,0)\pos(960,175)}結束
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字跟蹤————————
 Comment: 3,0:00:00.00,0:00:00.00,Sign,,0,0,0,,————————屏字  不繁化————————
 Dialogue: 3,0:04:45.22,0:04:53.86,Sign,,0,0,0,,{\an5\fn033-上首方糖体\fs68\blur0.6\bord0\c&H000000&\pos(1425,100)\clip(1430,60,1436,250)\t(30,160,\clip(1168,60,1680,250))}今天的阿尔玛报告
@@ -969,6 +967,8 @@ Dialogue: 0,0:22:04.85,0:22:09.60,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:22:09.60,0:22:15.19,EDOP,,0,0,0,,{\fad(540,540)}想要永遠平凡下去
 Dialogue: 0,0:22:15.44,0:22:19.32,EDOP,,0,0,0,,{\fad(540,540)}那些隨處可見的日常小生活
 Dialogue: 0,0:22:19.32,0:22:25.02,EDOP,,0,0,0,,{\fad(540,540)}只想永遠下去 只想永遠下去
+Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,,{=23}> OP
 Comment: 0,0:00:00.00,0:00:00.00,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:01:27.03,0:01:29.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:01:27.03,0:01:29.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8327,6 +8327,7 @@ Dialogue: 2,0:01:24.71,0:01:25.05,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:01:24.71,0:01:25.05,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:01:24.71,0:01:25.05,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:01:24.71,0:01:25.05,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:01:24.71,0:01:25.05,OPCN,,0,0,0,,{=24}> OP END
 Comment: 0,0:20:57.95,0:20:57.99,Default,,0,0,0,,
 
 [Aegisub Extradata]
@@ -8351,3 +8352,5 @@ Data: 19,a-mo,e{"originalText"#3A"{\\an5\\fn033-#E4#B8#8A#E9#A6#96#E6#96#B9#E7#B
 Data: 20,a-mo,u?S*P=GFH;7ZB<&2F?(1C/C*\8&RB<D6=8':O-$-T,?3YCOGGFO;7O??TFO3^EVR=:H-R.$"=8'*M>8)Q,D:=8'*P=G1U8&RD*EAU.$-X-T5G8&QT9S:)2E:'25:&*FR=='^T+$%T-4)M.TES+8XIPZPII9TGN,PFCKDHGI4FBY<FJ)=C,#*V>7FE)DIC-D*G-T9W-D)N.T9T.CUU:D1U,4BB-45N9G1S.W1V.71W.')S)HU
 Data: 21,a-mo,e{"originalText"#3A"{\\an4\\fn@033-#E4#B8#8A#E9#A6#96#E6#96#B9#E7#B3#96#E4#BD#93\\frz-90\\fsp-20\\fs140\\blur0.6\\bord4\\c&H322625&\\3c&HFFFEFE&\\pos(1786.27#2C1096.72)}#E5#AE#B6#E9#95#BF#E4#BC#9A"#2C"uuid"#3A"038decea-71ce-4758-8058-02221c9e3f36"}
 Data: 22,a-mo,e{"originalText"#3A"{\\an4\\fn@033-#E4#B8#8A#E9#A6#96#E6#96#B9#E7#B3#96#E4#BD#93\\frz-90\\fsp-20\\fs140\\blur0.6\\bord4\\c&H322625&\\3c&HFFFEFE&\\pos(365.38#2C1036.99)}#E6#95#99#E5#B8#88#E5#9F#B9#E8#AE#AD"#2C"uuid"#3A"3cc24121-126d-4d07-a873-1bfc53fc8938"}
+Data: 23,_aegi_folddata,e0;1;1
+Data: 24,_aegi_folddata,e1;1;1
