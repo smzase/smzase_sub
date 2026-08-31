@@ -39,13 +39,13 @@
 
 | 字体名 | 字体下载 |
 | --- | --- |
-| FOT-くろかね Std | [FOT-KurokaneStd-EB.otf](https://sub.072158.xyz/fonts/FOT-KurokaneStd-EB.otf) |
-| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
-| 夢ノ角ゴ JP W26 | [DreamHanSansJP-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansJP-W26.ttf) |
-| 攸望黑钟体（简繁） | [攸望黑钟体-粗（简繁-ai）v3.0.ttf](https://sub.072158.xyz/fonts/%E6%94%B8%E6%9C%9B%E9%BB%91%E9%92%9F%E4%BD%93-%E7%B2%97%EF%BC%88%E7%AE%80%E7%B9%81-ai%EF%BC%89v3.0.ttf) |
-| 方正特雅宋_GBK | [方正特雅宋_GBK.ttf](https://sub.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E7%89%B9%E9%9B%85%E5%AE%8B_GBK.ttf) |
-| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
-| 梦源宋体 CN W22 | [DreamHanSerifCN-W22.ttf](https://sub.072158.xyz/fonts/DreamHanSerifCN-W22.ttf) |
-| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
-| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://sub.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
+| FOT-くろかね Std | [FOT-KurokaneStd-EB.otf](https://download.072158.xyz/fonts/FOT-KurokaneStd-EB.otf) |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 夢ノ角ゴ JP W26 | [DreamHanSansJP-W26.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W26.ttf) |
+| 攸望黑钟体（简繁） | [攸望黑钟体-粗（简繁-ai）v3.0.ttf](https://download.072158.xyz/fonts/%E6%94%B8%E6%9C%9B%E9%BB%91%E9%92%9F%E4%BD%93-%E7%B2%97%EF%BC%88%E7%AE%80%E7%B9%81-ai%EF%BC%89v3.0.ttf) |
+| 方正特雅宋_GBK | [方正特雅宋_GBK.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E7%89%B9%E9%9B%85%E5%AE%8B_GBK.ttf) |
+| 梦源宋体 CN W15 | [DreamHanSerifCN-W15.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W15.ttf) |
+| 梦源宋体 CN W22 | [DreamHanSerifCN-W22.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W22.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
 
