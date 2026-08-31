@@ -15,10 +15,10 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 03 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 03 [1080p CR WEB-DL AVC AAC][MultiSub][F5B6DA7D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 910
-Active Line: 932
-Video Position: 31022
+Video Zoom Percent: 0.375000
+Scroll Position: 917
+Active Line: 927
+Video Position: 1008
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————本字幕由「三明治摆烂组&Meiko」联合制作——————————
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————请遵循「CC BY-NC-ND 4.0」协议——————————
 Comment: 6,0:00:00.00,0:00:00.00,Text CN,,0,0,0,,————————正文CN————————
-Dialogue: 6,0:00:06.74,0:00:09.20,Text CN,,0,0,0,,{\blur3.0}她是 1 班的房敷同學吧
+Dialogue: 6,0:00:06.74,0:00:09.20,Text CN,,0,0,0,,{\blur3.0}她是 1 班的屋敷同學吧
 Dialogue: 6,0:00:09.20,0:00:10.70,Text CN,,0,0,0,,{\blur3.0}她在幹什麼呢…
 Dialogue: 6,0:00:10.99,0:00:11.75,Text CN,花,0,0,0,,{\blur3.0}嗯?
 Dialogue: 6,0:00:12.70,0:00:13.70,Text CN,,0,0,0,,{\blur3.0}快走吧
@@ -119,7 +119,7 @@ Dialogue: 6,0:05:04.41,0:05:06.54,Text CN,花,0,0,0,,{\blur3.0}那傢伙… 怎�
 Dialogue: 6,0:05:08.96,0:05:10.62,Text CN,花,0,0,0,,{\blur3.0}哇啊！沒事吧
 Dialogue: 6,0:05:13.13,0:05:15.99,Text CN,花,0,0,0,,{\blur3.0}真是的  還擔心別人淋濕
 Dialogue: 6,0:05:15.99,0:05:18.30,Text CN,花,0,0,0,,{\blur3.0}自己卻變成落湯雞  這像什麼話
-Dialogue: 6,0:05:18.30,0:05:22.14,Text CN,阿尔玛,0,1000,0,,{\blur3.0}我沒事的  我的防水性很好{Meiko: 這幾句擋住了說話人的臉/嘴，挪開比較好}
+Dialogue: 6,0:05:18.30,0:05:22.14,Text CN,阿尔玛,0,1000,0,,{\blur3.0}我沒事的  我的防水性很好{Meiko: 这几句挡住了说话人的脸/嘴，挪开比较好}
 Dialogue: 6,0:05:22.14,0:05:23.14,Text CN,花,0,1000,0,,{\blur3.0}防水…?
 Dialogue: 6,0:05:24.68,0:05:26.89,Text CN,恩吉,0,0,0,,{\blur3.0}{\fad(0,500)}不要暴露你是機器人
 Dialogue: 6,0:05:27.64,0:05:28.86,Text CN,阿尔玛,0,1000,0,,{\blur3.0}沒什麼
@@ -134,9 +134,9 @@ Comment: 6,0:05:47.29,0:05:47.95,Text CN,,0,0,0,,{\blur3.0}哈!
 Dialogue: 6,0:05:51.12,0:05:54.25,Text CN,恩吉,0,0,0,,{\blur3.0}{\fad(0,700)}不要暴露你是機器人… 機器人  機器人  機器人…
 Dialogue: 6,0:05:54.44,0:05:56.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}啊我我我我…
 Dialogue: 6,0:05:56.25,0:05:58.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}我不是機器人
-Dialogue: 6,0:05:58.25,0:05:59.67,Text CN,花,0,0,0,,{\blur3.0}總感覺哪看過這句話
+Dialogue: 6,0:05:58.25,0:05:59.67,Text CN,花,0,0,0,,{\blur3.0}總感覺在哪看過這句話
 Dialogue: 6,0:05:59.67,0:06:02.43,Text CN,阿尔玛,0,0,0,,{\blur3.0}可不可怕我不清楚
-Dialogue: 6,0:06:02.43,0:06:06.68,Text CN,阿尔玛,0,0,0,,{\blur3.0}但你和這些小狗在一起時  露出的表情非常溫柔{Meiko: 第二人稱還是換成“你”}
+Dialogue: 6,0:06:02.43,0:06:06.68,Text CN,阿尔玛,0,0,0,,{\blur3.0}但你和這些小狗在一起時  露出的表情非常溫柔{Meiko: 第二人称还是换成“你”}
 Dialogue: 6,0:06:07.01,0:06:08.01,Text CN,花,0,0,0,,{\blur3.0}有嗎?
 Dialogue: 6,0:06:08.01,0:06:08.92,Text CN,阿尔玛,0,0,0,,{\blur3.0}有的
 Dialogue: 6,0:06:12.31,0:06:13.52,Text CN,花,0,0,0,,{\blur3.0}好吧
@@ -153,7 +153,7 @@ Dialogue: 6,0:06:55.36,0:06:56.69,Text CN,花,0,0,0,,{\blur3.0}好厲害…
 Dialogue: 6,0:06:58.31,0:07:00.86,Text CN,花,0,0,0,,{\blur3.0}你究竟是什麼人啊!
 Dialogue: 6,0:07:00.86,0:07:03.74,Text CN,阿尔玛,0,0,0,,{\blur3.0}我是學習型自主機器人  阿爾瑪
 Dialogue: 6,0:07:03.74,0:07:04.72,Text CN,花,0,0,0,,{\blur3.0}機器人!?
-Dialogue: 6,0:07:06.41,0:07:09.41,Text CN,阿尔玛,0,0,0,,{\blur3.0}阿爾瑪之眼  阿爾瑪之耳  全功率運行
+Dialogue: 6,0:07:06.41,0:07:09.41,Text CN,阿尔玛,0,0,0,,{\blur3.0}阿爾瑪之耳  阿爾瑪之眼  全功率運行
 Dialogue: 6,0:07:15.37,0:07:17.92,Text CN,阿尔玛,0,0,0,,{\blur3.0}目標「強森」已找到
 Dialogue: 6,0:07:19.20,0:07:19.80,Text CN,花,0,0,0,,{\blur3.0}欸…
 Dialogue: 6,0:07:20.50,0:07:21.63,Text CN,花,0,0,0,,{\blur3.0}那裡是…
@@ -163,7 +163,7 @@ Dialogue: 6,0:07:31.39,0:07:34.72,Text CN,阿尔玛,0,0,0,,{\blur3.0}即便走�
 Dialogue: 6,0:07:35.64,0:07:39.44,Text CN,阿尔玛,0,0,0,,{\blur3.0}強森它們  一定是把這裡當作「家」了吧
 Dialogue: 6,0:07:41.48,0:07:43.94,Text CN,花,0,0,0,,{\blur3.0}別說那麼讓人肉麻的話啊
 Dialogue: 6,0:07:43.94,0:07:47.99,Text CN,ハナの祖母,0,0,0,,{\blur3.0}哎呀  好可愛的小姑娘呢  小花
-Dialogue: 6,0:07:47.99,0:07:48.95,Text CN,,0,0,0,,{\blur3.0}奶奶
+Dialogue: 6,0:07:47.99,0:07:48.95,Text CN,花,0,0,0,,{\blur3.0}奶奶
 Dialogue: 6,0:07:48.95,0:07:51.45,Text CN,阿尔玛,0,0,0,,{\blur3.0}你的名字叫花女士嗎?
 Dialogue: 6,0:07:52.08,0:07:53.02,Text CN,花,0,0,0,,{\blur3.0}是啊
 Dialogue: 6,0:07:53.45,0:07:54.91,Text CN,阿尔玛,0,0,0,,{\blur3.0}很棒的名字
@@ -174,12 +174,12 @@ Dialogue: 6,0:08:05.13,0:08:09.68,Text CN,ハナの祖母,0,0,0,,{\blur3.0}這�
 Dialogue: 6,0:08:09.68,0:08:11.10,Text CN,花,0,0,0,,{\blur3.0}什麼？才沒有…
 Dialogue: 6,0:08:11.55,0:08:14.60,Text CN,阿尔玛,0,0,0,,{\blur3.0}朋友… 第一次交到
 Dialogue: 6,0:08:14.60,0:08:15.43,Text CN,花,0,0,0,,{\blur3.0}什麼!?
-Dialogue: 6,0:08:16.06,0:08:19.23,Text CN,阿尔玛,0,0,0,,{\blur3.0}可以向爸爸媽媽報告個好消息了
+Dialogue: 6,0:08:16.06,0:08:19.23,Text CN,阿尔玛,0,0,0,,{\blur3.0}可以向爸爸媽媽報告一個好消息了
 Dialogue: 6,0:08:19.23,0:08:21.98,Text CN,花,0,0,0,,{\blur3.0}我們今天才剛認識  你在說什麼啊
 Dialogue: 6,0:08:21.98,0:08:25.49,Text CN,阿尔玛,0,0,0,,{\blur3.0}那麼  多花點時間就能成為朋友了吧?
 Dialogue: 6,0:08:25.49,0:08:28.53,Text CN,花,0,0,0,,{\blur3.0}唔… 不是這個問題…
 Dialogue: 6,0:08:29.20,0:08:33.49,Text CN,花,0,0,0,,{\blur3.0}所謂朋友  是在一起互相了解的過程中
-Dialogue: 6,0:08:33.49,0:08:35.58,Text CN,花,0,0,0,,{\blur3.0}然後自然而然的…
+Dialogue: 6,0:08:33.49,0:08:35.58,Text CN,花,0,0,0,,{\blur3.0}然後自然而然地…
 Dialogue: 6,0:08:35.58,0:08:38.50,Text CN,阿尔玛,0,0,0,,{\blur3.0}請更詳細地告訴我  小花
 Dialogue: 6,0:08:38.50,0:08:40.46,Text CN,花,0,0,0,,{\blur3.0}你好煩！快回家!
 Dialogue: 6,0:08:48.26,0:08:50.59,Text CN,飯田,0,0,0,,{\blur3.0}啊  對不起…
@@ -221,7 +221,7 @@ Dialogue: 6,0:10:12.68,0:10:15.89,Text CN,恩吉,0,0,0,,{\blur3.0}畢竟也能�
 Dialogue: 6,0:10:16.85,0:10:19.31,Text CN,恩吉,0,0,0,,{\blur3.0}但是  暴露身份… 辦理手續…
 Dialogue: 6,0:10:19.31,0:10:20.77,Text CN,恩吉,0,0,0,,{\blur3.0}有很多要擔心的地方啊
 Dialogue: 6,0:10:20.77,0:10:24.15,Text CN,雀,0,0,0,,{\blur3.0}備用電池能裝進書包裡嗎
-Dialogue: 6,0:10:24.15,0:10:27.90,Text CN,恩吉,0,0,0,,{\blur3.0}操作系統最佳化  制訂應對手冊…{Meiko:manual 是指遇到情況時可以尋找對策的手冊}
+Dialogue: 6,0:10:24.15,0:10:27.90,Text CN,恩吉,0,0,0,,{\blur3.0}操作系統最佳化  制訂應對手冊…{Meiko:manual 是指遇到情况时可以查找对策的手册}
 Dialogue: 6,0:10:27.90,0:10:30.94,Text CN,雀,0,0,0,,{\blur3.0}還要準備體操服和課本
 Dialogue: 6,0:10:32.03,0:10:34.78,Text CN,恩吉,0,0,0,,{\blur3.0}一週時間應該夠了吧
 Dialogue: 6,0:10:34.78,0:10:36.41,Text CN,雀,0,0,0,,{\blur3.0}當然夠了
@@ -256,7 +256,7 @@ Dialogue: 6,0:11:46.14,0:11:47.90,Text CN,阿尔玛,0,0,0,,{\blur3.0}夠用嗎?
 Dialogue: 6,0:11:47.90,0:11:49.40,Text CN,花,0,0,0,,{\blur3.0}肯定用不上
 Dialogue: 6,0:11:49.40,0:11:52.65,Text CN,三吉,0,0,0,,{\blur3.0}竟然能和屋敷同學正常聊天…
 Dialogue: 6,0:11:56.03,0:11:57.53,Text CN,恩吉,0,0,0,,{\blur3.0}屋敷花…
-Dialogue: 6,0:11:57.53,0:12:00.53,Text CN,恩吉,0,0,0,,{\blur3.0}據阿爾瑪的報告  她已經知曉了阿爾瑪的真實身份{Meiko: 阿爾瑪並沒有說是自己告訴的，所以神里誤會了，以為她不是一般人}
+Dialogue: 6,0:11:57.53,0:12:00.53,Text CN,恩吉,0,0,0,,{\blur3.0}據阿爾瑪的報告  她已經知曉了阿爾瑪的真實身份{Meiko: 阿尔玛并没有说是自己告诉的，所以神里误会了，以为她不是一般人}
 Dialogue: 6,0:12:00.53,0:12:02.16,Text CN,恩吉,0,0,0,,{\blur3.0}或許不是一般人
 Dialogue: 6,0:12:02.62,0:12:07.25,Text CN,恩吉,0,0,0,,{\blur3.0}既然這樣  將阿爾瑪放在她身邊  反而能起到牽制作用
 Dialogue: 6,0:12:07.25,0:12:09.88,Text CN,恩吉,0,0,0,,{\blur3.0}目前最好是靜觀其變…
@@ -272,7 +272,7 @@ Dialogue: 6,0:12:37.07,0:12:39.20,Text CN,旁白,0,0,0,,{\blur3.0}阿爾瑪不�
 Dialogue: 6,0:12:40.91,0:12:42.30,Text CN,恩吉,0,0,0,,{\blur3.0}總之就是!
 Dialogue: 6,0:12:42.30,0:12:45.04,Text CN,恩吉,0,0,0,,{\blur3.0}過度擔心也無濟於事
 Dialogue: 6,0:12:45.04,0:12:48.83,Text CN,恩吉,0,0,0,,{\blur3.0}阿爾瑪一定會收穫很多經驗的
-Dialogue: 6,0:12:50.44,0:12:52.63,Text CN,阿尔玛,0,0,0,,{\blur3.0}大便不理不理  大不列顛{Meiko: 編的順口溜，實際讀起來還可以}
+Dialogue: 6,0:12:50.44,0:12:52.63,Text CN,阿尔玛,0,0,0,,{\blur3.0}大便不理不理  大不列顛{Meiko: 编的顺口溜，实际读起来还可以}
 Dialogue: 6,0:12:52.63,0:12:53.84,Text CN,女同学,0,0,0,,{\blur3.0}小阿爾瑪!?
 Dialogue: 6,0:12:53.84,0:12:57.09,Text CN,男同学,0,0,0,,{\blur3.0}耶！大便不理不理！大便!
 Dialogue: 6,0:12:57.09,0:12:58.76,Text CN,三吉,0,0,0,,{\blur3.0}喂！你們這幫男生!
@@ -347,7 +347,7 @@ Dialogue: 6,0:16:01.77,0:16:05.58,Text CN,三吉,0,0,0,,{\blur3.0}恩愛的夫�
 Dialogue: 6,0:16:05.58,0:16:07.66,Text CN,三吉,0,0,0,,{\blur3.0}就只有一件事了吧!
 Dialogue: 6,0:16:07.66,0:16:09.16,Text CN,花,0,0,0,,{\blur3.0}喂… 你在說什麼…!?
 Dialogue: 6,0:16:09.16,0:16:10.37,Text CN,三吉,0,0,0,,{\blur3.0}是「親親」哦!
-Dialogue: 6,0:16:15.79,0:16:17.08,Text CN,阿尔玛,0,0,0,,{\blur3.0}親親?{Meiko: 除非原文有，不然不建議在正文中用顏文字}
+Dialogue: 6,0:16:15.79,0:16:17.08,Text CN,阿尔玛,0,0,0,,{\blur3.0}親親?{Meiko: 除非原文有，不然不建议在正文中用颜文字}
 Dialogue: 6,0:16:17.08,0:16:18.52,Text CN,三吉,0,0,0,,{\blur3.0}開玩笑的
 Dialogue: 6,0:16:19.29,0:16:22.88,Text CN,三吉,0,0,0,,{\blur3.0}他們兩位大概是工作到很晚吧
 Dialogue: 6,0:16:22.88,0:16:24.59,Text CN,日野,0,0,0,,{\blur3.0}我爸爸也是這樣哦
@@ -446,7 +446,7 @@ Dialogue: 6,0:20:54.57,0:20:56.32,Text CN,雀,0,0,0,,{\blur3.0}那傢伙在幹�
 Dialogue: 6,0:20:56.32,0:20:57.32,Text CN,阿尔玛,0,0,0,,{\blur3.0}檢測中
 Dialogue: 6,0:20:58.15,0:21:00.99,Text CN,阿尔玛,0,0,0,,{\blur3.0}現在爸爸的嗅覺被啟用
 Dialogue: 6,0:21:00.99,0:21:02.98,Text CN,阿尔玛,0,0,0,,{\blur3.0}受到氣味的強烈影響
-Dialogue: 6,0:21:02.98,0:21:05.58,Text CN,阿尔玛,0,0,0,,{\blur3.0}正在處於輕微興奮狀態
+Dialogue: 6,0:21:02.98,0:21:05.58,Text CN,阿尔玛,0,0,0,,{\blur3.0}正處於輕微興奮狀態
 Dialogue: 6,0:21:05.58,0:21:07.24,Text CN,恩吉,0,0,0,,{\blur3.0}才沒有興奮啊
 Dialogue: 6,0:21:07.24,0:21:08.58,Text CN,恩吉,0,0,0,,{\blur3.0}什麼問題都沒有
 Dialogue: 6,0:21:08.58,0:21:11.13,Text CN,雀,0,0,0,,{\blur3.0}欸  興奮？氣味…!?
@@ -557,7 +557,7 @@ Dialogue: 5,0:07:31.39,0:07:34.72,Text JP,阿尔玛,0,0,0,,{\blur3.0}離れた�
 Dialogue: 5,0:07:35.64,0:07:39.44,Text JP,阿尔玛,0,0,0,,{\blur3.0}きっとジョンソンたちも　ここを「家」だと思っているのでしょう
 Dialogue: 5,0:07:41.48,0:07:43.94,Text JP,花,0,0,0,,{\blur3.0}こっぱずかしいこと言ってんじゃねえよ
 Dialogue: 5,0:07:43.94,0:07:47.99,Text JP,ハナの祖母,0,0,0,,{\blur3.0}おや　かわいいお嬢さんじゃない　ハナちゃん
-Dialogue: 5,0:07:47.99,0:07:48.95,Text JP,,0,0,0,,{\blur3.0}ばあちゃん
+Dialogue: 5,0:07:47.99,0:07:48.95,Text JP,花,0,0,0,,{\blur3.0}ばあちゃん
 Dialogue: 5,0:07:48.95,0:07:51.45,Text JP,阿尔玛,0,0,0,,{\blur3.0}ハナさんという名前なんですか？
 Dialogue: 5,0:07:52.08,0:07:53.02,Text JP,花,0,0,0,,{\blur3.0}そうだよ
 Dialogue: 5,0:07:53.45,0:07:54.91,Text JP,阿尔玛,0,0,0,,{\blur3.0}すてきな名前です
@@ -965,6 +965,8 @@ Dialogue: 0,0:23:16.92,0:23:21.67,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:23:21.67,0:23:27.26,EDOP,,0,0,0,,{\fad(540,540)}想要永遠平凡下去
 Dialogue: 0,0:23:27.51,0:23:31.39,EDOP,,0,0,0,,{\fad(540,540)}那些隨處可見的日常小生活
 Dialogue: 0,0:23:31.39,0:23:37.09,EDOP,,0,0,0,,{\fad(540,540)}只想永遠下去 只想永遠下去
+Comment: 0,0:00:42.02,0:00:42.02,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:00:42.02,0:00:42.02,OPJP,,0,0,0,,{=8}> OP
 Comment: 0,0:00:42.02,0:00:42.02,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:02:09.07,0:02:11.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:02:09.07,0:02:11.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8323,6 +8325,7 @@ Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,,{=9}> OP END
 Comment: 0,0:00:42.02,0:00:42.06,Default,,0,0,0,,
 
 [Aegisub Extradata]
@@ -8330,3 +8333,5 @@ Data: 2,a-mo,u?S*V>7FE)DIC94-S-T6G/41N/4EW.SUU:G%W,4AR9W)N9G-U:'5U-7&F:D1W)CQC<X
 Data: 3,a-mo,u?S*V>7FE)DIC-D2C/45Q:71N.4!V.#UU:'-W,7)S:$AN/$5U-'6D-42C-'%U)CQC<X*J:WFO97R5:8BU)DIC?VR=97YZ8&RG<O;7O?;NI_7&M/3[L?7=BE>#3S"&?(2S95*P<'2=8':T.4"=8':T=$*=8'*M>8)Q,D:=8'*P=G1T8&RD*EAW1T:$.E-G8&QT9S:)2E:'2E:'*FR=='^T+$%W.$!M.D5U+8XJGJ$HJY(GH9-NZ,W`ZZ3IZJWBZKS_)HU
 Data: 4,a-mo,u?S*V>7FE)DIC/7*C9T1X-T=N:'%Q9SUU-TEY,4EY.W-N-T!V.W-V/'1S94>F)CQC<X*J:WFO97R5:8BU)DIC?VR=97YU8&RG<O;CJO;[E/G\E?3^ES"$4C"8-D"=8':T/$"=8'*M>8)Q,D:=8'*P=G1Q8&RD*EAW2$:%.E)G8&RQ<X-I-4%U-#QU-4AJ@??FHOG(D#!AZI'JZ:#*8&R/Z;3=Z\[^)#$JGY!C@1
 Data: 7,a-mo,u?S*V>7FE)DIC:$1Y:71U:41N-$5U9CUU/7*D,7)Y9G)N:7)Y9W:G-W%S-T6D)CQC<X*J:WFO97R5:8BU)DIC?VR=97YU8&RG<O;CJO;[E/G\E?3^ES"$4C"8-D"=8':T/$"=8'*M>8)Q,D:=8'*P=G1Q8&RD*EAW2$:%.E)G8&RQ<X-I.4EQ,D9X,$5W-SYX/#F^[:C`Z<#5ZY[<?UVF;7NP/C$GFL$FIJ\EOI<JG,`FM*4HDJPHGI4FE)XFL:@DA))AZJ;QZZ3\[:WCZ;W8@3*^
+Data: 8,_aegi_folddata,e0;1;1
+Data: 9,_aegi_folddata,e1;1;1

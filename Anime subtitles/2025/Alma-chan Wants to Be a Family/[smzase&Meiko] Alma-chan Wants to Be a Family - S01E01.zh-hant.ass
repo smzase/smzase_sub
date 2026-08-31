@@ -17,9 +17,9 @@ Keyframes File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 01 [1080p CR 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 798
-Active Line: 827
-Video Position: 2997
+Scroll Position: 131
+Active Line: 132
+Video Position: 8115
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -171,7 +171,7 @@ Dialogue: 6,0:05:27.22,0:05:29.90,Text CN,阿尔玛,0,0,0,,{\blur3.0}「已識�
 Dialogue: 6,0:05:30.52,0:05:31.44,Text CN,旁白,0,0,0,,{\blur3.0}小紅花
 Dialogue: 6,0:05:33.69,0:05:35.07,Text CN,阿尔玛,0,0,0,,{\blur3.0}沒事吧?
 Dialogue: 6,0:05:35.42,0:05:37.53,Text CN,阿尔玛,0,0,0,,{\blur3.0}爸爸  媽媽
-Dialogue: 6,0:05:38.44,0:05:42.03,Text CN,阿尔玛,0,0,0,,{\blur3.0}從身體數據中  確認到壓力值微增
+Dialogue: 6,0:05:38.44,0:05:42.03,Text CN,阿尔玛,0,0,0,,{\blur3.0}從身體數據中  確認到壓力微增
 Dialogue: 6,0:05:42.03,0:05:43.78,Text CN,阿尔玛,0,0,0,,{\blur3.0}請問是有什麼問題嗎?
 Dialogue: 6,0:05:44.99,0:05:46.45,Text CN,恩吉,0,0,0,,{\blur3.0}阿爾瑪不用在意
 Dialogue: 6,0:05:46.83,0:05:47.79,Text CN,雀,0,0,0,,{\blur3.0}沒錯沒錯

@@ -15,10 +15,10 @@ Audio File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 03 [1080p CR WEB-
 Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 03 [1080p CR WEB-DL AVC AAC][MultiSub][F5B6DA7D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 918
-Active Line: 932
-Video Position: 11207
+Video Zoom Percent: 0.375000
+Scroll Position: 917
+Active Line: 8285
+Video Position: 3039
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————本字幕由「三明治摆烂组&Meiko」联合制作——————————
 Comment: 0,0:00:00.00,0:00:00.00,Text JP,,0,0,0,,——————————请遵循「CC BY-NC-ND 4.0」协议——————————
 Comment: 6,0:00:00.00,0:00:00.00,Text CN,,0,0,0,,————————正文CN————————
-Dialogue: 6,0:00:06.74,0:00:09.20,Text CN,,0,0,0,,{\blur3.0}她是 1 班的房敷同学吧
+Dialogue: 6,0:00:06.74,0:00:09.20,Text CN,,0,0,0,,{\blur3.0}她是 1 班的屋敷同学吧
 Dialogue: 6,0:00:09.20,0:00:10.70,Text CN,,0,0,0,,{\blur3.0}她在干什么呢…
 Dialogue: 6,0:00:10.99,0:00:11.75,Text CN,花,0,0,0,,{\blur3.0}嗯?
 Dialogue: 6,0:00:12.70,0:00:13.70,Text CN,,0,0,0,,{\blur3.0}快走吧
@@ -134,7 +134,7 @@ Comment: 6,0:05:47.29,0:05:47.95,Text CN,,0,0,0,,{\blur3.0}哈!
 Dialogue: 6,0:05:51.12,0:05:54.25,Text CN,恩吉,0,0,0,,{\blur3.0}{\fad(0,700)}不要暴露你是机器人… 机器人  机器人  机器人…
 Dialogue: 6,0:05:54.44,0:05:56.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}啊我我我我…
 Dialogue: 6,0:05:56.25,0:05:58.25,Text CN,阿尔玛,0,0,0,,{\blur3.0}我不是机器人
-Dialogue: 6,0:05:58.25,0:05:59.67,Text CN,花,0,0,0,,{\blur3.0}总感觉哪看过这句话
+Dialogue: 6,0:05:58.25,0:05:59.67,Text CN,花,0,0,0,,{\blur3.0}总感觉在哪看过这句话
 Dialogue: 6,0:05:59.67,0:06:02.43,Text CN,阿尔玛,0,0,0,,{\blur3.0}可不可怕我不清楚
 Dialogue: 6,0:06:02.43,0:06:06.68,Text CN,阿尔玛,0,0,0,,{\blur3.0}但你和这些小狗在一起时  露出的表情非常温柔{Meiko: 第二人称还是换成“你”}
 Dialogue: 6,0:06:07.01,0:06:08.01,Text CN,花,0,0,0,,{\blur3.0}有吗?
@@ -153,7 +153,7 @@ Dialogue: 6,0:06:55.36,0:06:56.69,Text CN,花,0,0,0,,{\blur3.0}好厉害…
 Dialogue: 6,0:06:58.31,0:07:00.86,Text CN,花,0,0,0,,{\blur3.0}你究竟是什么人啊!
 Dialogue: 6,0:07:00.86,0:07:03.74,Text CN,阿尔玛,0,0,0,,{\blur3.0}我是学习型自主机器人  阿尔玛
 Dialogue: 6,0:07:03.74,0:07:04.72,Text CN,花,0,0,0,,{\blur3.0}机器人!?
-Dialogue: 6,0:07:06.41,0:07:09.41,Text CN,阿尔玛,0,0,0,,{\blur3.0}阿尔玛之眼  阿尔玛之耳  全功率运行
+Dialogue: 6,0:07:06.41,0:07:09.41,Text CN,阿尔玛,0,0,0,,{\blur3.0}阿尔玛之耳  阿尔玛之眼  全功率运行
 Dialogue: 6,0:07:15.37,0:07:17.92,Text CN,阿尔玛,0,0,0,,{\blur3.0}目标「强森」已找到
 Dialogue: 6,0:07:19.20,0:07:19.80,Text CN,花,0,0,0,,{\blur3.0}诶…
 Dialogue: 6,0:07:20.50,0:07:21.63,Text CN,花,0,0,0,,{\blur3.0}那里是…
@@ -163,7 +163,7 @@ Dialogue: 6,0:07:31.39,0:07:34.72,Text CN,阿尔玛,0,0,0,,{\blur3.0}即便走�
 Dialogue: 6,0:07:35.64,0:07:39.44,Text CN,阿尔玛,0,0,0,,{\blur3.0}强森它们  一定是把这里当作「家」了吧
 Dialogue: 6,0:07:41.48,0:07:43.94,Text CN,花,0,0,0,,{\blur3.0}别说那么让人肉麻的话啊
 Dialogue: 6,0:07:43.94,0:07:47.99,Text CN,ハナの祖母,0,0,0,,{\blur3.0}哎呀  好可爱的小姑娘呢  小花
-Dialogue: 6,0:07:47.99,0:07:48.95,Text CN,,0,0,0,,{\blur3.0}奶奶
+Dialogue: 6,0:07:47.99,0:07:48.95,Text CN,花,0,0,0,,{\blur3.0}奶奶
 Dialogue: 6,0:07:48.95,0:07:51.45,Text CN,阿尔玛,0,0,0,,{\blur3.0}你的名字叫花女士吗?
 Dialogue: 6,0:07:52.08,0:07:53.02,Text CN,花,0,0,0,,{\blur3.0}是啊
 Dialogue: 6,0:07:53.45,0:07:54.91,Text CN,阿尔玛,0,0,0,,{\blur3.0}很棒的名字
@@ -174,12 +174,12 @@ Dialogue: 6,0:08:05.13,0:08:09.68,Text CN,ハナの祖母,0,0,0,,{\blur3.0}这�
 Dialogue: 6,0:08:09.68,0:08:11.10,Text CN,花,0,0,0,,{\blur3.0}什么？才没有…
 Dialogue: 6,0:08:11.55,0:08:14.60,Text CN,阿尔玛,0,0,0,,{\blur3.0}朋友… 第一次交到
 Dialogue: 6,0:08:14.60,0:08:15.43,Text CN,花,0,0,0,,{\blur3.0}什么!?
-Dialogue: 6,0:08:16.06,0:08:19.23,Text CN,阿尔玛,0,0,0,,{\blur3.0}可以向爸爸妈妈报告个好消息了
+Dialogue: 6,0:08:16.06,0:08:19.23,Text CN,阿尔玛,0,0,0,,{\blur3.0}可以向爸爸妈妈报告一个好消息了
 Dialogue: 6,0:08:19.23,0:08:21.98,Text CN,花,0,0,0,,{\blur3.0}我们今天才刚认识  你在说什么啊
 Dialogue: 6,0:08:21.98,0:08:25.49,Text CN,阿尔玛,0,0,0,,{\blur3.0}那么  多花点时间就能成为朋友了吧?
 Dialogue: 6,0:08:25.49,0:08:28.53,Text CN,花,0,0,0,,{\blur3.0}唔… 不是这个问题…
 Dialogue: 6,0:08:29.20,0:08:33.49,Text CN,花,0,0,0,,{\blur3.0}所谓朋友  是在一起互相了解的过程中
-Dialogue: 6,0:08:33.49,0:08:35.58,Text CN,花,0,0,0,,{\blur3.0}然后自然而然的…
+Dialogue: 6,0:08:33.49,0:08:35.58,Text CN,花,0,0,0,,{\blur3.0}然后自然而然地…
 Dialogue: 6,0:08:35.58,0:08:38.50,Text CN,阿尔玛,0,0,0,,{\blur3.0}请更详细地告诉我  小花
 Dialogue: 6,0:08:38.50,0:08:40.46,Text CN,花,0,0,0,,{\blur3.0}你好烦！快回家!
 Dialogue: 6,0:08:48.26,0:08:50.59,Text CN,飯田,0,0,0,,{\blur3.0}啊  对不起…
@@ -446,7 +446,7 @@ Dialogue: 6,0:20:54.57,0:20:56.32,Text CN,雀,0,0,0,,{\blur3.0}那家伙在干�
 Dialogue: 6,0:20:56.32,0:20:57.32,Text CN,阿尔玛,0,0,0,,{\blur3.0}检测中
 Dialogue: 6,0:20:58.15,0:21:00.99,Text CN,阿尔玛,0,0,0,,{\blur3.0}现在爸爸的嗅觉被激活
 Dialogue: 6,0:21:00.99,0:21:02.98,Text CN,阿尔玛,0,0,0,,{\blur3.0}受到气味的强烈影响
-Dialogue: 6,0:21:02.98,0:21:05.58,Text CN,阿尔玛,0,0,0,,{\blur3.0}正在处于轻微兴奋状态
+Dialogue: 6,0:21:02.98,0:21:05.58,Text CN,阿尔玛,0,0,0,,{\blur3.0}正处于轻微兴奋状态
 Dialogue: 6,0:21:05.58,0:21:07.24,Text CN,恩吉,0,0,0,,{\blur3.0}才没有兴奋啊
 Dialogue: 6,0:21:07.24,0:21:08.58,Text CN,恩吉,0,0,0,,{\blur3.0}什么问题都没有
 Dialogue: 6,0:21:08.58,0:21:11.13,Text CN,雀,0,0,0,,{\blur3.0}诶  兴奋？气味…!?
@@ -557,7 +557,7 @@ Dialogue: 5,0:07:31.39,0:07:34.72,Text JP,阿尔玛,0,0,0,,{\blur3.0}離れた�
 Dialogue: 5,0:07:35.64,0:07:39.44,Text JP,阿尔玛,0,0,0,,{\blur3.0}きっとジョンソンたちも　ここを「家」だと思っているのでしょう
 Dialogue: 5,0:07:41.48,0:07:43.94,Text JP,花,0,0,0,,{\blur3.0}こっぱずかしいこと言ってんじゃねえよ
 Dialogue: 5,0:07:43.94,0:07:47.99,Text JP,ハナの祖母,0,0,0,,{\blur3.0}おや　かわいいお嬢さんじゃない　ハナちゃん
-Dialogue: 5,0:07:47.99,0:07:48.95,Text JP,,0,0,0,,{\blur3.0}ばあちゃん
+Dialogue: 5,0:07:47.99,0:07:48.95,Text JP,花,0,0,0,,{\blur3.0}ばあちゃん
 Dialogue: 5,0:07:48.95,0:07:51.45,Text JP,阿尔玛,0,0,0,,{\blur3.0}ハナさんという名前なんですか？
 Dialogue: 5,0:07:52.08,0:07:53.02,Text JP,花,0,0,0,,{\blur3.0}そうだよ
 Dialogue: 5,0:07:53.45,0:07:54.91,Text JP,阿尔玛,0,0,0,,{\blur3.0}すてきな名前です
@@ -965,6 +965,8 @@ Dialogue: 0,0:23:16.92,0:23:21.67,EDOP,,0,0,0,,{\fad(540,540)}想要和你共度
 Dialogue: 0,0:23:21.67,0:23:27.26,EDOP,,0,0,0,,{\fad(540,540)}想要永远平凡下去
 Dialogue: 0,0:23:27.51,0:23:31.39,EDOP,,0,0,0,,{\fad(540,540)}那些随处可见的日常小生活
 Dialogue: 0,0:23:31.39,0:23:37.09,EDOP,,0,0,0,,{\fad(540,540)}只想永远下去 只想永远下去
+Comment: 0,0:00:42.02,0:00:42.02,OPJP,,0,0,0,,——————————OP——————————
+Comment: 0,0:00:42.02,0:00:42.02,OPJP,,0,0,0,,{=8}> OP
 Comment: 0,0:00:42.02,0:00:42.02,OPJP,,0,0,0,,——————————OP——————————
 Comment: 0,0:02:09.07,0:02:11.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase
 Dialogue: 0,0:02:09.07,0:02:11.99,Sign,,0,0,0,,{\an7\fn方正VDL兆黑 简 Medium\blur0.6\bord0\xshad-4\yshad3\c&HA2B52F&\4c&H4432AF&\pos(615,780)}{\fs70}字幕制作\N{\fs80}smzase\NMeiko
@@ -8323,6 +8325,7 @@ Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(985,1039,985,1076,0,
 Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(1035,1039,1035,1077,0,430)\fad(0,144)}如
 Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(1085,1039,1085,1074,0,430)\fad(0,155)}此
 Dialogue: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,fx,{\an5\move(1135,1039,1135,1075,0,430)\fad(0,282)}吧
+Comment: 2,0:02:06.73,0:02:07.07,OPCN,,0,0,0,,{=9}> OP END
 Comment: 0,0:00:42.02,0:00:42.06,Default,,0,0,0,,
 
 [Aegisub Extradata]
@@ -8330,3 +8333,5 @@ Data: 2,a-mo,u?S*V>7FE)DIC94-S-T6G/41N/4EW.SUU:G%W,4AR9W)N9G-U:'5U-7&F:D1W)CQC<X
 Data: 3,a-mo,u?S*V>7FE)DIC-D2C/45Q:71N.4!V.#UU:'-W,7)S:$AN/$5U-'6D-42C-'%U)CQC<X*J:WFO97R5:8BU)DIC?VR=97YZ8&RG<O;7O?;NI_7&M/3[L?7=BE>#3S"&?(2S95*P<'2=8':T.4"=8':T=$*=8'*M>8)Q,D:=8'*P=G1T8&RD*EAW1T:$.E-G8&QT9S:)2E:'2E:'*FR=='^T+$%W.$!M.D5U+8XJGJ$HJY(GH9-NZ,W`ZZ3IZJWBZKS_)HU
 Data: 4,a-mo,u?S*V>7FE)DIC/7*C9T1X-T=N:'%Q9SUU-TEY,4EY.W-N-T!V.W-V/'1S94>F)CQC<X*J:WFO97R5:8BU)DIC?VR=97YU8&RG<O;CJO;[E/G\E?3^ES"$4C"8-D"=8':T/$"=8'*M>8)Q,D:=8'*P=G1Q8&RD*EAW2$:%.E)G8&RQ<X-I-4%U-#QU-4AJ@??FHOG(D#!AZI'JZ:#*8&R/Z;3=Z\[^)#$JGY!C@1
 Data: 7,a-mo,u?S*V>7FE)DIC:$1Y:71U:41N-$5U9CUU/7*D,7)Y9G)N:7)Y9W:G-W%S-T6D)CQC<X*J:WFO97R5:8BU)DIC?VR=97YU8&RG<O;CJO;[E/G\E?3^ES"$4C"8-D"=8':T/$"=8'*M>8)Q,D:=8'*P=G1Q8&RD*EAW2$:%.E)G8&RQ<X-I.4EQ,D9X,$5W-SYX/#F^[:C`Z<#5ZY[<?UVF;7NP/C$GFL$FIJ\EOI<JG,`FM*4HDJPHGI4FE)XFL:@DA))AZJ;QZZ3\[:WCZ;W8@3*^
+Data: 8,_aegi_folddata,e0;1;1
+Data: 9,_aegi_folddata,e1;1;1
