@@ -16,7 +16,8 @@ Video File: ../CR/[Erai-raws] Alma-chan wa Kazoku ni Naritai - 11 [1080p CR WEB-
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.250000
-Active Line: 2
+Scroll Position: 259
+Active Line: 297
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -333,7 +334,7 @@ Dialogue: 6,0:17:31.20,0:17:33.07,Text CN,恩吉,0,0,0,,{\blur3.0}沒什麼大�
 Dialogue: 6,0:17:33.07,0:17:36.87,Text CN,雀,0,0,0,,{\blur3.0}你啊  在這種時候還裝什麼酷
 Dialogue: 6,0:17:36.87,0:17:39.00,Text CN,雀,0,0,0,,{\blur3.0}明明之前還向領導叩頭
 Dialogue: 6,0:17:39.00,0:17:42.13,Text CN,雀,0,0,0,,{\blur3.0}還把我的那份交接材料都做了
-Dialogue: 6,0:17:42.13,0:17:44.04,Text CN,雀,0,0,0,,{\blur3.0}{匆匆忙忙}連滾帶爬飛回日本的
+Dialogue: 6,0:17:42.13,0:17:44.04,Text CN,雀,0,0,0,,{\blur3.0}匆匆忙忙連滾帶爬飛回日本的
 Dialogue: 6,0:17:44.04,0:17:45.26,Text CN,恩吉,0,0,0,,{\blur3.0}現在別說這個
 Dialogue: 6,0:17:48.17,0:17:48.80,Text CN,恩吉,0,0,0,,{\blur3.0}阿爾瑪
 Dialogue: 6,0:17:49.36,0:17:52.12,Text CN,恩吉,0,0,0,,{\blur3.0}你能支持我們的夢想  真的很高興
