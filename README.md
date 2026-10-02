@@ -14,6 +14,7 @@
 | [Lv999的村民](./Anime%20subtitles/2026/Lv999%20no%20Murabito) | 中日双语　Web 源 | 赤石时间到！该来赤石了！ |
 | [少女怪兽焦糖味](./Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser) | 中日双语　Web 源 | 比较看好这部的制作 |
 | [才女的侍从](./Anime%20subtitles/2026/Saijo%20no%20Osewa) | 中日双语　Web 源 | 还行 |
+| [转生成为魔剑 第二季](./Anime%20subtitles/2026/Tensei%20Shitara%20Ken%20Deshita) | 中日双语　Web 源 | 诶嘿嘿 女儿可爱🥰🥰🥰 |
 
 
 ## 字幕说明
