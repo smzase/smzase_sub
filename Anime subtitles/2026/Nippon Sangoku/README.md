@@ -37,6 +37,10 @@
 
 ## 使用字体
 
+| 字体整合包 |
+| --- |
+| [日本三国 字体整合包.7z](https://download.072158.xyz/font-packages/%E6%97%A5%E6%9C%AC%E4%B8%89%E5%9B%BD%20%E5%AD%97%E4%BD%93%E6%95%B4%E5%90%88%E5%8C%85.7z) |
+
 | 字体名 | 字体下载 |
 | --- | --- |
 | FOT-グレコ Std | [FOT-GrecoStd-DB.otf](https://download.072158.xyz/fonts/FOT-GrecoStd-DB.otf) |
