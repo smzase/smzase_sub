@@ -16,10 +16,10 @@ Video File: E:/111111111111anime/Tensei Shitara Ken Deshita/Reincarnated as a Sw
 Keyframes File: E:/111111111111anime/Tensei Shitara Ken Deshita/Reincarnated as a Sword S02E01 SUBFRENCH 1080p ADN WEB-DL AAC2.0 x264-Tsundere-Raws.mkv.kf.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 2605
-Active Line: 2920
-Video Position: 4193
+Video Zoom Percent: 1.000000
+Scroll Position: 2623
+Active Line: 2924
+Video Position: 3194
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,9 +32,9 @@ Style: Text ENG Top,梦源宋体 CN W24,50,&H00FEFEFE,&H000000FF,&H00303030,&H00
 Style: Sign,梦源宋体 CN W24,70,&H00FEFEFE,&H000000FF,&H000E0E0E,&H000E0E0E,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Note,梦源宋体 CN W24,56,&H00FFFFFF,&H00FFFFFF,&H00292929,&H000E0E0E,0,0,0,0,100,100,0,0,1,3,0,7,22,22,10,1
 Style: OPJP,獅尾加糖宋體JP-Bold,54,&H00F6F5F8,&H5AFFFFFF,&H0007050D,&H0007050D,0,0,0,0,100,100,0,0,1,0,3.4,8,25,25,15,1
-Style: OPCN,獅尾加糖宋體SC-Bold,54,&H00F6F5F8,&H5AFFFFFF,&H0007050D,&H0007050D,0,0,0,0,100,100,0,0,1,0,3.4,2,25,25,20,1
-Style: EDJP,Dream Han Serif JP W22,60,&H00FCFCFC,&H5AFFFFFF,&H006E3CE1,&H0007050D,0,0,0,0,100,100,0,0,1,3.2,0,8,25,25,10,1
-Style: EDCN,梦源宋体 CN W22,60,&H00FCFCFC,&H5AFFFFFF,&H006E3CE1,&H0007050D,0,0,0,0,100,100,0,0,1,3.2,0,2,25,25,15,1
+Style: OPCN,獅尾加糖宋體SC-Bold,54,&H00F6F5F8,&H5AFFFFFF,&H0007050D,&H0007050D,0,0,0,0,100,100,0,0,1,0,3.4,2,25,25,15,1
+Style: EDJP,Dream Han Serif JP W22,60,&H00FCFCFC,&H5AFFFFFF,&H0051319A,&H0007050D,0,0,0,0,100,100,0,0,1,3.2,0,8,25,25,10,1
+Style: EDCN,梦源宋体 CN W22,60,&H00FCFCFC,&H5AFFFFFF,&H008154E7,&H0007050D,0,0,0,0,100,100,0,0,1,3.2,0,2,25,25,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -69,7 +69,7 @@ Dialogue: 6,0:03:01.58,0:03:03.54,Text CN,芙兰,0,0,0,,吃完啦~
 Dialogue: 6,0:03:03.54,0:03:05.62,Text CN,芙兰,0,0,0,,好幸福~
 Dialogue: 6,0:03:05.62,0:03:07.63,Text CN,芙兰,0,0,0,,師父  再來一碗
 Dialogue: 6,0:03:07.63,0:03:08.54,Text CN,师父,0,0,0,,嗯嗯
-Dialogue: 6,0:03:09.46,0:03:13.05,Text CN,师父,1000,0,0,,話說回來  我們離阿雷薩都這麼遠了
+Dialogue: 6,0:03:09.46,0:03:13.05,Text CN,师父,1000,0,0,,話說回來  我們都離阿雷薩這麼遠了
 Dialogue: 6,0:03:14.92,0:03:16.04,Text CN,师父,0,0,0,,那是什麼
 Dialogue: 6,0:03:16.76,0:03:18.39,Text CN,芙兰,0,0,0,,那是「浮空島」
 Dialogue: 6,0:03:18.39,0:03:20.72,Text CN,师父,0,0,0,,那是島嗎?
@@ -2963,27 +2963,217 @@ Comment: 0,0:01:27.98,0:01:27.98,OPJP,,0,0,0,,———————————�
 Dialogue: 0,0:02:54.86,0:02:58.03,Sign,,0,0,0,,{\an1\fn獅尾加糖宋體JP-Bold\fs43\blur0\bord0\shad3\c&HF6F5F8&\4c&H07050D&\fad(260,0)\pos(721,890)}字幕{\fscx131}　{\fscx100\fs46}三明治擺爛組
 Dialogue: 0,0:02:54.86,0:02:58.03,Sign,,0,0,0,,{\an4\fn獅尾加糖宋體JP-Bold\fs22\blur0\bord0\shad3\c&HF6F5F8&\4c&H07050D&\fad(260,0)\pos(848.5,905)}({\fscx20}　{\fscx100}{\fs28}smzase{\fs22}{\fscx20}　{\fscx100})
 Comment: 0,0:01:27.98,0:01:27.98,OPJP,,0,0,0,,———————————— OPJP ————————————
-Comment: 0,0:01:28.69,0:01:33.74,OPJP,,0,0,0,,Am I dreaming of a butterfly
-Comment: 0,0:01:33.74,0:01:38.91,OPJP,,0,0,0,,Am I in the dream of a butterfly
-Comment: 0,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,
-Comment: 0,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,Calling me, calling me, no transmission
-Comment: 0,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,Say it again!
-Comment: 0,0:01:54.18,0:01:56.64,OPJP,,0,0,0,,
-Comment: 0,0:01:56.64,0:01:58.89,OPJP,,0,0,0,,
-Comment: 0,0:01:58.89,0:02:01.06,OPJP,,0,0,0,,
-Comment: 0,0:02:01.06,0:02:04.23,OPJP,,0,0,0,,
-Comment: 0,0:02:04.23,0:02:07.86,OPJP,,0,0,0,,
-Comment: 0,0:02:07.86,0:02:11.99,OPJP,,0,0,0,,失うものなど
-Comment: 0,0:02:11.99,0:02:15.70,OPJP,,0,0,0,,
-Comment: 0,0:02:15.70,0:02:21.37,OPJP,,0,0,0,,あれは誰の夢
-Comment: 0,0:02:21.37,0:02:26.38,OPJP,,0,0,0,,この世のすべて　その手ですべて
-Comment: 0,0:02:26.38,0:02:31.42,OPJP,,0,0,0,,
-Comment: 0,0:02:31.42,0:02:36.51,OPJP,,0,0,0,,
-Comment: 0,0:02:36.51,0:02:39.68,OPJP,,0,0,0,,もう何のないさ
-Comment: 0,0:02:39.68,0:02:44.85,OPJP,,0,0,0,,愛も未来も
-Comment: 0,0:02:44.85,0:02:49.82,OPJP,,0,0,0,,Am I dreaming of a butterfly
-Comment: 0,0:02:49.82,0:02:55.32,OPJP,,0,0,0,,Am I in the dream of a butterfly
+Dialogue: 0,0:01:28.69,0:01:33.74,OPJP,,0,0,0,,Am I dreaming of a butterfly?
+Dialogue: 0,0:01:33.74,0:01:38.91,OPJP,,0,0,0,,Am I in the dream of a butterfly?
+Comment: 0,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,The distance between us bends all dimensions
+Comment: 0,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,Calling me, calling me, no transmissions
+Comment: 0,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,Say again!
+Comment: 0,0:01:54.18,0:01:56.64,OPJP,,0,0,0,,奪ったり奪われたり　誰の為のREAL?
+Comment: 0,0:01:56.64,0:01:58.89,OPJP,,0,0,0,,上がり下がりまくり　また嫌な夢
+Comment: 0,0:01:58.89,0:02:01.06,OPJP,,0,0,0,,{\fs54}歪む。眩む目を開いて\N{\fs46}(what should I do...)
+Comment: 0,0:02:01.06,0:02:04.23,OPJP,,0,0,0,,境目surviving　己を裁いてる
+Dialogue: 0,0:02:04.52,0:02:07.86,OPJP,,0,0,0,,{\fad(1180,0)}All in for it all
+Dialogue: 0,0:02:07.86,0:02:11.99,OPJP,,0,0,0,,失うものなど
+Dialogue: 0,0:02:11.99,0:02:15.70,OPJP,,0,0,0,,All in for it all
+Dialogue: 0,0:02:15.70,0:02:21.37,OPJP,,0,0,0,,あれは誰の夢?
+Dialogue: 0,0:02:21.37,0:02:26.38,OPJP,,0,0,0,,この世の全て　その手で総べて
+Dialogue: 0,0:02:26.38,0:02:31.42,OPJP,,0,0,0,,Are you happy now? What did you get to pay?
+Dialogue: 0,0:02:31.42,0:02:36.51,OPJP,,0,0,0,,There was hope in your hands, When you played in the sand
+Dialogue: 0,0:02:36.51,0:02:39.68,OPJP,,0,0,0,,もう何もないさ
+Dialogue: 0,0:02:39.68,0:02:44.85,OPJP,,0,0,0,,愛も未来も
+Dialogue: 0,0:02:44.85,0:02:49.82,OPJP,,0,0,0,,Am I dreaming of a butterfly?
+Dialogue: 0,0:02:49.82,0:02:55.15,OPJP,,0,0,0,,{\fad(0,280)}Am I in the dream of a butterfly?
+Dialogue: 0,0:01:28.69,0:01:33.74,OPCN,,0,0,0,,我是否在夢中化作了蝴蝶?
+Dialogue: 0,0:01:33.74,0:01:38.91,OPCN,,0,0,0,,亦或是本就身處蝴蝶的夢境?
+Comment: 0,0:01:43.67,0:01:48.76,OPCN,,0,0,0,,你我相隔的距離  將所有維度盡數扭曲
+Comment: 0,0:01:48.76,0:01:53.09,OPCN,,0,0,0,,聲聲呼喚著我  卻總是杳無音信
+Comment: 0,0:01:53.09,0:01:54.18,OPCN,,0,0,0,,再說一遍!
+Comment: 0,0:01:54.18,0:01:56.64,OPCN,,0,0,0,,奪取與被奪  周而復始  這殘酷的現實究竟為誰而存?
+Comment: 0,0:01:56.64,0:01:58.89,OPCN,,0,0,0,,跌宕起伏不斷  又是一場令人厭惡的夢
+Comment: 0,0:01:58.89,0:02:01.06,OPCN,,0,0,0,,{\fs46}(我該如何是好…){\fs54}\N視線扭曲。睜開暈眩的雙眼
+Comment: 0,0:02:01.06,0:02:04.23,OPCN,,0,0,0,,苟存於虛實交界之淵  不斷審判著自我
+Dialogue: 0,0:02:04.52,0:02:07.86,OPCN,,0,0,0,,{\fad(1180,0)}傾注一切  孤注一擲
+Dialogue: 0,0:02:07.86,0:02:11.99,OPCN,,0,0,0,,又有什麼可失去的呢
+Dialogue: 0,0:02:11.99,0:02:15.70,OPCN,,0,0,0,,傾注一切  孤注一擲
+Dialogue: 0,0:02:15.70,0:02:21.37,OPCN,,0,0,0,,那究竟是誰的夢境?
+Dialogue: 0,0:02:21.37,0:02:26.38,OPCN,,0,0,0,,將世間萬物  皆由你之手執掌統治
+Dialogue: 0,0:02:26.38,0:02:31.42,OPCN,,0,0,0,,如今的你幸福嗎?  你又為此付出了怎樣的代價?
+Dialogue: 0,0:02:31.42,0:02:36.51,OPCN,,0,0,0,,憶往昔於沙中嬉戲之時  你的掌心曾滿載著希望
+Dialogue: 0,0:02:36.51,0:02:39.68,OPCN,,0,0,0,,而如今早已一無所有
+Dialogue: 0,0:02:39.68,0:02:44.85,OPCN,,0,0,0,,不論是愛  還是未來  皆不復有
+Dialogue: 0,0:02:44.85,0:02:49.82,OPCN,,0,0,0,,我是否在夢中化作了蝴蝶?
+Dialogue: 0,0:02:49.82,0:02:55.15,OPCN,,0,0,0,,{\fad(0,280)}亦或是本就身處蝴蝶的夢境?
+Dialogue: 0,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H00FFF663&\bord9\blur5\shad0}The distance between us bends all dimensions
+Dialogue: 1,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00C939FF&\bord4.8\blur1.8\shad0\fax-.035}The distance between us bends all dimensions
+Dialogue: 2,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,{\fad(80,120)\1a&HFF&\3c&H00C939FF&\3a&H38&\bord3.3\blur1.2\fax.04\t(0,90,\fax-.04)\t(90,180,\fax.04)\t(180,260,\fax0)}The distance between us bends all dimensions
+Dialogue: 2,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H0047FFF6&\3c&H0017084B&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)\fax.025}The distance between us bends all dimensions
+Dialogue: 3,0:01:43.67,0:01:48.76,OPJP,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}The distance between us bends all dimensions
+Dialogue: 0,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H00FFF663&\bord9\blur5\shad0}Calling me, calling me, no transmissions
+Dialogue: 1,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00C939FF&\bord4.8\blur1.8\shad0\fax-.035}Calling me, calling me, no transmissions
+Dialogue: 2,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,{\fad(80,120)\1a&HFF&\3c&H00C939FF&\3a&H38&\bord3.3\blur1.2\fax.04\t(0,90,\fax-.04)\t(90,180,\fax.04)\t(180,260,\fax0)}Calling me, calling me, no transmissions
+Dialogue: 2,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H0047FFF6&\3c&H0017084B&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)\fax.025}Calling me, calling me, no transmissions
+Dialogue: 3,0:01:48.76,0:01:53.09,OPJP,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}Calling me, calling me, no transmissions
+Dialogue: 0,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H00FFF663&\bord9\blur5\shad0}Say again!
+Dialogue: 1,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00C939FF&\bord4.8\blur1.8\shad0\fax-.035}Say again!
+Dialogue: 2,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,{\fad(80,120)\1a&HFF&\3c&H00C939FF&\3a&H38&\bord3.3\blur1.2\fax.04\t(0,90,\fax-.04)\t(90,180,\fax.04)\t(180,260,\fax0)}Say again!
+Dialogue: 2,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H0047FFF6&\3c&H0017084B&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)\fax.025}Say again!
+Dialogue: 3,0:01:53.09,0:01:54.18,OPJP,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}Say again!
+Dialogue: 0,0:01:43.67,0:01:48.76,OPCN,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H00FFF663&\bord9\blur5\shad0}你我相隔的距離  將所有維度盡數扭曲
+Dialogue: 1,0:01:43.67,0:01:48.76,OPCN,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00C939FF&\bord4.8\blur1.8\shad0\fax-.035}你我相隔的距離  將所有維度盡數扭曲
+Dialogue: 2,0:01:43.67,0:01:48.76,OPCN,,0,0,0,,{\fad(80,120)\1a&HFF&\3c&H00C939FF&\3a&H38&\bord3.3\blur1.2\fax.04\t(0,90,\fax-.04)\t(90,180,\fax.04)\t(180,260,\fax0)}你我相隔的距離  將所有維度盡數扭曲
+Dialogue: 2,0:01:43.67,0:01:48.76,OPCN,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H0047FFF6&\3c&H0017084B&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)\fax.025}你我相隔的距離  將所有維度盡數扭曲
+Dialogue: 3,0:01:43.67,0:01:48.76,OPCN,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}你我相隔的距離  將所有維度盡數扭曲
+Dialogue: 0,0:01:48.76,0:01:53.09,OPCN,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H00FFF663&\bord9\blur5\shad0}聲聲呼喚著我  卻總是杳無音信
+Dialogue: 1,0:01:48.76,0:01:53.09,OPCN,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00C939FF&\bord4.8\blur1.8\shad0\fax-.035}聲聲呼喚著我  卻總是杳無音信
+Dialogue: 2,0:01:48.76,0:01:53.09,OPCN,,0,0,0,,{\fad(80,120)\1a&HFF&\3c&H00C939FF&\3a&H38&\bord3.3\blur1.2\fax.04\t(0,90,\fax-.04)\t(90,180,\fax.04)\t(180,260,\fax0)}聲聲呼喚著我  卻總是杳無音信
+Dialogue: 2,0:01:48.76,0:01:53.09,OPCN,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H0047FFF6&\3c&H0017084B&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)\fax.025}聲聲呼喚著我  卻總是杳無音信
+Dialogue: 3,0:01:48.76,0:01:53.09,OPCN,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}聲聲呼喚著我  卻總是杳無音信
+Dialogue: 0,0:01:53.09,0:01:54.18,OPCN,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H00FFF663&\bord9\blur5\shad0}再說一遍!
+Dialogue: 1,0:01:53.09,0:01:54.18,OPCN,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00C939FF&\bord4.8\blur1.8\shad0\fax-.035}再說一遍!
+Dialogue: 2,0:01:53.09,0:01:54.18,OPCN,,0,0,0,,{\fad(80,120)\1a&HFF&\3c&H00C939FF&\3a&H38&\bord3.3\blur1.2\fax.04\t(0,90,\fax-.04)\t(90,180,\fax.04)\t(180,260,\fax0)}再說一遍!
+Dialogue: 2,0:01:53.09,0:01:54.18,OPCN,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H0047FFF6&\3c&H0017084B&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)\fax.025}再說一遍!
+Dialogue: 3,0:01:53.09,0:01:54.18,OPCN,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}再說一遍!
+Dialogue: 0,0:01:54.18,0:01:56.64,OPJP,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}奪ったり奪われたり　誰の為のREAL?
+Dialogue: 1,0:01:54.18,0:01:56.64,OPJP,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}奪ったり奪われたり　誰の為のREAL?
+Dialogue: 2,0:01:54.18,0:01:56.64,OPJP,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}奪ったり奪われたり　誰の為のREAL?
+Dialogue: 3,0:01:54.18,0:01:56.64,OPJP,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}奪ったり奪われたり　誰の為のREAL?
+Dialogue: 0,0:01:56.64,0:01:58.89,OPJP,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}上がり下がりまくり　また嫌な夢
+Dialogue: 1,0:01:56.64,0:01:58.89,OPJP,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}上がり下がりまくり　また嫌な夢
+Dialogue: 2,0:01:56.64,0:01:58.89,OPJP,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}上がり下がりまくり　また嫌な夢
+Dialogue: 3,0:01:56.64,0:01:58.89,OPJP,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}上がり下がりまくり　また嫌な夢
+Dialogue: 0,0:01:58.89,0:02:01.06,OPJP,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}{\fs54}歪む。眩む目を開いて\N{\fs46}(what should I do...)
+Dialogue: 1,0:01:58.89,0:02:01.06,OPJP,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}{\fs54}歪む。眩む目を開いて\N{\fs46}(what should I do...)
+Dialogue: 2,0:01:58.89,0:02:01.06,OPJP,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}{\fs54}歪む。眩む目を開いて\N{\fs46}(what should I do...)
+Dialogue: 3,0:01:58.89,0:02:01.06,OPJP,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}{\fs54}歪む。眩む目を開いて\N{\fs46}(what should I do...)
+Dialogue: 0,0:02:01.06,0:02:04.23,OPJP,,0,0,0,,{\fad(180,0)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}境目surviving　己を裁いてる
+Dialogue: 1,0:02:01.06,0:02:04.23,OPJP,,0,0,0,,{\fad(130,0)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}境目surviving　己を裁いてる
+Dialogue: 2,0:02:01.06,0:02:04.23,OPJP,,0,0,0,,{\fad(130,0)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}境目surviving　己を裁いてる
+Dialogue: 3,0:02:01.06,0:02:04.23,OPJP,,0,0,0,,{\fad(0,0)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}境目surviving　己を裁いてる
+Dialogue: 0,0:01:54.18,0:01:56.64,OPCN,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}奪取與被奪  周而復始  這殘酷的現實究竟為誰而存?
+Dialogue: 1,0:01:54.18,0:01:56.64,OPCN,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}奪取與被奪  周而復始  這殘酷的現實究竟為誰而存?
+Dialogue: 2,0:01:54.18,0:01:56.64,OPCN,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}奪取與被奪  周而復始  這殘酷的現實究竟為誰而存?
+Dialogue: 3,0:01:54.18,0:01:56.64,OPCN,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}奪取與被奪  周而復始  這殘酷的現實究竟為誰而存?
+Dialogue: 0,0:01:56.64,0:01:58.89,OPCN,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}跌宕起伏不斷  又是一場令人厭惡的夢
+Dialogue: 1,0:01:56.64,0:01:58.89,OPCN,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}跌宕起伏不斷  又是一場令人厭惡的夢
+Dialogue: 2,0:01:56.64,0:01:58.89,OPCN,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}跌宕起伏不斷  又是一場令人厭惡的夢
+Dialogue: 3,0:01:56.64,0:01:58.89,OPCN,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}跌宕起伏不斷  又是一場令人厭惡的夢
+Dialogue: 0,0:01:58.89,0:02:01.06,OPCN,,0,0,0,,{\fad(180,260)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}{\fs46}(我該如何是好…){\fs54}\N視線扭曲。睜開暈眩的雙眼
+Dialogue: 1,0:01:58.89,0:02:01.06,OPCN,,0,0,0,,{\fad(130,230)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}{\fs46}(我該如何是好…){\fs54}\N視線扭曲。睜開暈眩的雙眼
+Dialogue: 2,0:01:58.89,0:02:01.06,OPCN,,0,0,0,,{\fad(130,220)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}{\fs46}(我該如何是好…){\fs54}\N視線扭曲。睜開暈眩的雙眼
+Dialogue: 3,0:01:58.89,0:02:01.06,OPCN,,0,0,0,,{\fad(0,160)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}{\fs46}(我該如何是好…){\fs54}\N視線扭曲。睜開暈眩的雙眼
+Dialogue: 0,0:02:01.06,0:02:04.23,OPCN,,0,0,0,,{\fad(180,0)\1a&HFF&\3a&H58&\3c&H0036B8FF&\bord9\blur5\shad0}苟存於虛實交界之淵  不斷審判著自我
+Dialogue: 1,0:02:01.06,0:02:04.23,OPCN,,0,0,0,,{\fad(130,0)\1a&HFF&\3a&H55&\3c&H00A46528&\bord4.8\blur1.8\shad0}苟存於虛實交界之淵  不斷審判著自我
+Dialogue: 2,0:02:01.06,0:02:04.23,OPCN,,0,0,0,,{\fad(130,0)\1c&H00F8F5F8&\2c&H00FFDDA8&\3c&H00231B18&\bord2.4\shad1.2\blur0.15\t(0,180,\fscx104\fscy104)\t(180,460,\fscx100\fscy100)}苟存於虛實交界之淵  不斷審判著自我
+Dialogue: 3,0:02:01.06,0:02:04.23,OPCN,,0,0,0,,{\fad(0,0)\1c&H00FFFFFF&\2c&H00FFFFFF&\3c&H00FFFFFF&\1a&H55&\3a&H80&\bord0\blur0.3\t(0,120,\fscx103)\t(120,260,\fscx100)}苟存於虛實交界之淵  不斷審判著自我
 Comment: 0,0:22:03.97,0:22:03.97,EDJP,,0,0,0,,———————————— ED ————————————
+Dialogue: 2,0:22:04.55,0:22:13.77,EDJP,,0,0,0,,Hey! Buddy
+Dialogue: 2,0:22:13.77,0:22:16.85,EDJP,,0,0,0,,Come on!
+Dialogue: 2,0:22:26.83,0:22:29.87,EDJP,,0,0,0,,コンパスに導かれて
+Dialogue: 2,0:22:29.87,0:22:31.50,EDJP,,0,0,0,,ゴールデンコンビ
+Dialogue: 2,0:22:31.50,0:22:33.08,EDJP,,0,0,0,,僕らが登場
+Dialogue: 2,0:22:33.08,0:22:34.54,EDJP,,0,0,0,,ハイパーマッチ
+Dialogue: 2,0:22:34.54,0:22:36.42,EDJP,,0,0,0,,調子は最高潮
+Dialogue: 2,0:22:36.42,0:22:39.67,EDJP,,0,0,0,,以心伝心 一挙公開
+Dialogue: 2,0:22:39.67,0:22:42.92,EDJP,,0,0,0,,鬼神変人 いっちょどーだい？
+Dialogue: 2,0:22:42.92,0:22:46.05,EDJP,,0,0,0,,最もBAD でも這い上がる猛獣キッズ
+Dialogue: 2,0:22:46.05,0:22:49.22,EDJP,,0,0,0,,圧倒 What a パワー 込み上げる That's so sick!
+Dialogue: 2,0:22:49.22,0:22:50.77,EDJP,,0,0,0,,おかわりちょーだい
+Dialogue: 2,0:22:50.77,0:22:52.56,EDJP,,0,0,0,,華麗にSHOW TIME
+Dialogue: 2,0:22:52.56,0:22:54.10,EDJP,,0,0,0,,スマイル豪快
+Dialogue: 2,0:22:54.10,0:22:55.40,EDJP,,0,0,0,,僕らは超た・い・さ・く
+Dialogue: 2,0:22:55.40,0:22:57.98,EDJP,,0,0,0,,Hey! Buddy
+Dialogue: 2,0:22:57.98,0:22:58.52,EDJP,,0,0,0,,Move on!
+Dialogue: 2,0:22:58.52,0:23:01.90,EDJP,,0,0,0,,バリバリBuddy, Yeah! 心踊れ
+Dialogue: 2,0:23:01.90,0:23:05.07,EDJP,,0,0,0,,バリバリBuddy, Yeah! 熱く 高く
+Dialogue: 2,0:23:05.07,0:23:08.53,EDJP,,0,0,0,,メラメラBuddy, Yeah! 炎灯せ
+Dialogue: 2,0:23:08.53,0:23:11.49,EDJP,,0,0,0,,バリバリBuddy, Yeah! Rise up, with you!
+Dialogue: 2,0:23:11.49,0:23:13.50,EDJP,,0,0,0,,僕らのストーリー
+Dialogue: 2,0:23:13.50,0:23:14.66,EDJP,,0,0,0,,No limit でいけ
+Dialogue: 2,0:23:14.66,0:23:16.42,EDJP,,0,0,0,,Going Going Going
+Dialogue: 2,0:23:16.42,0:23:21.13,EDJP,,0,0,0,,2人だけの世界抱きしめ
+Dialogue: 2,0:23:21.13,0:23:23.05,EDJP,,0,0,0,,Burning Burning Burning
+Dialogue: 2,0:23:23.05,0:23:24.34,EDJP,,0,0,0,,未来へ
+Dialogue: 2,0:22:04.55,0:22:13.77,EDCN,,0,0,0,,嘿！伙伴
+Dialogue: 2,0:22:13.77,0:22:16.85,EDCN,,0,0,0,,來吧!
+Dialogue: 2,0:22:26.83,0:22:29.87,EDCN,,0,0,0,,循著指南針的指引
+Dialogue: 2,0:22:29.87,0:22:31.50,EDCN,,0,0,0,,黃金搭檔
+Dialogue: 2,0:22:31.50,0:22:33.08,EDCN,,0,0,0,,我們閃亮登場
+Dialogue: 2,0:22:33.08,0:22:34.54,EDCN,,0,0,0,,絕配默契
+Dialogue: 2,0:22:34.54,0:22:36.42,EDCN,,0,0,0,,狀態飆到最高狂潮
+Dialogue: 2,0:22:36.42,0:22:39.67,EDCN,,0,0,0,,你我心有靈犀 一口氣全盤亮相
+Dialogue: 2,0:22:39.67,0:22:42.92,EDCN,,0,0,0,,各路神仙狂魔  放馬過來幹一場如何?
+Dialogue: 2,0:22:42.92,0:22:46.05,EDCN,,0,0,0,,哪怕身處最糟絕境  也能絕地反擊的猛獸小鬼
+Dialogue: 2,0:22:46.05,0:22:49.22,EDCN,,0,0,0,,足以壓到一切的力量  正不斷湧出  簡直太酷了!
+Dialogue: 2,0:22:49.22,0:22:50.77,EDCN,,0,0,0,,再來一碗
+Dialogue: 2,0:22:50.77,0:22:52.56,EDCN,,0,0,0,,華麗開演
+Dialogue: 2,0:22:52.56,0:22:54.10,EDCN,,0,0,0,,笑容豪爽
+Dialogue: 2,0:22:54.10,0:22:55.40,EDCN,,0,0,0,,我們就是史·上·最·強
+Dialogue: 2,0:22:55.40,0:22:57.98,EDCN,,0,0,0,,嘿！伙伴
+Dialogue: 2,0:22:57.98,0:22:58.52,EDCN,,0,0,0,,向前出發!
+Dialogue: 2,0:22:58.52,0:23:01.90,EDCN,,0,0,0,,活力爆棚的伙伴！耶！心潮澎湃
+Dialogue: 2,0:23:01.90,0:23:05.07,EDCN,,0,0,0,,勢不可擋的伙伴！耶！熱血沸騰  飆得更高
+Dialogue: 2,0:23:05.07,0:23:08.53,EDCN,,0,0,0,,熊熊烈火的伙伴！耶！如火如荼
+Dialogue: 2,0:23:08.53,0:23:11.49,EDCN,,0,0,0,,戰意爆表的伙伴！耶！奮發向上  同心協力
+Dialogue: 2,0:23:11.49,0:23:13.50,EDCN,,0,0,0,,屬於我們的冒險篇章
+Dialogue: 2,0:23:13.50,0:23:14.66,EDCN,,0,0,0,,突破極限  勇往直前
+Dialogue: 2,0:23:14.66,0:23:16.42,EDCN,,0,0,0,,衝啊  衝啊  衝啊
+Dialogue: 2,0:23:16.42,0:23:21.13,EDCN,,0,0,0,,緊緊擁抱只屬於你我的世界
+Dialogue: 2,0:23:21.13,0:23:23.05,EDCN,,0,0,0,,燃燒吧  熊熊烈火
+Dialogue: 2,0:23:23.05,0:23:24.34,EDCN,,0,0,0,,奔向未來
+Dialogue: 0,0:22:04.55,0:22:13.77,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}Hey! Buddy
+Dialogue: 0,0:22:13.77,0:22:16.85,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}Come on!
+Dialogue: 0,0:22:26.83,0:22:29.87,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}コンパスに導かれて
+Dialogue: 0,0:22:29.87,0:22:31.50,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}ゴールデンコンビ
+Dialogue: 0,0:22:31.50,0:22:33.08,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}僕らが登場
+Dialogue: 0,0:22:33.08,0:22:34.54,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}ハイパーマッチ
+Dialogue: 0,0:22:34.54,0:22:36.42,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}調子は最高潮
+Dialogue: 0,0:22:36.42,0:22:39.67,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}以心伝心 一挙公開
+Dialogue: 0,0:22:39.67,0:22:42.92,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}鬼神変人 いっちょどーだい？
+Dialogue: 0,0:22:42.92,0:22:46.05,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}最もBAD でも這い上がる猛獣キッズ
+Dialogue: 0,0:22:46.05,0:22:49.22,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}圧倒 What a パワー 込み上げる That's so sick!
+Dialogue: 0,0:22:49.22,0:22:50.77,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}おかわりちょーだい
+Dialogue: 0,0:22:50.77,0:22:52.56,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}華麗にSHOW TIME
+Dialogue: 0,0:22:52.56,0:22:54.10,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}スマイル豪快
+Dialogue: 0,0:22:54.10,0:22:55.40,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}僕らは超た・い・さ・く
+Dialogue: 0,0:22:55.40,0:22:57.98,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}Hey! Buddy
+Dialogue: 0,0:22:57.98,0:22:58.52,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}Move on!
+Dialogue: 0,0:22:58.52,0:23:01.90,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}バリバリBuddy, Yeah! 心踊れ
+Dialogue: 0,0:23:01.90,0:23:05.07,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}バリバリBuddy, Yeah! 熱く 高く
+Dialogue: 0,0:23:05.07,0:23:08.53,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}メラメラBuddy, Yeah! 炎灯せ
+Dialogue: 0,0:23:08.53,0:23:11.49,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}バリバリBuddy, Yeah! Rise up, with you!
+Dialogue: 0,0:23:11.49,0:23:13.50,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}僕らのストーリー
+Dialogue: 0,0:23:13.50,0:23:14.66,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}No limit でいけ
+Dialogue: 0,0:23:14.66,0:23:16.42,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}Going Going Going
+Dialogue: 0,0:23:16.42,0:23:21.13,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}2人だけの世界抱きしめ
+Dialogue: 0,0:23:21.13,0:23:23.05,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}Burning Burning Burning
+Dialogue: 0,0:23:23.05,0:23:24.34,EDJP,,0,0,0,发光,{\blur10\3c&H8E8EE4&}未来へ
+Dialogue: 0,0:22:04.55,0:22:13.77,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}嘿！伙伴
+Dialogue: 0,0:22:13.77,0:22:16.85,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}來吧!
+Dialogue: 0,0:22:26.83,0:22:29.87,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}循著指南針的指引
+Dialogue: 0,0:22:29.87,0:22:31.50,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}黃金搭檔
+Dialogue: 0,0:22:31.50,0:22:33.08,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}我們閃亮登場
+Dialogue: 0,0:22:33.08,0:22:34.54,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}絕配默契
+Dialogue: 0,0:22:34.54,0:22:36.42,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}狀態飆到最高狂潮
+Dialogue: 0,0:22:36.42,0:22:39.67,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}你我心有靈犀 一口氣全盤亮相
+Dialogue: 0,0:22:39.67,0:22:42.92,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}各路神仙狂魔  放馬過來幹一場如何?
+Dialogue: 0,0:22:42.92,0:22:46.05,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}哪怕身處最糟絕境  也能絕地反擊的猛獸小鬼
+Dialogue: 0,0:22:46.05,0:22:49.22,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}足以壓到一切的力量  正不斷湧出  簡直太酷了!
+Dialogue: 0,0:22:49.22,0:22:50.77,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}再來一碗
+Dialogue: 0,0:22:50.77,0:22:52.56,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}華麗開演
+Dialogue: 0,0:22:52.56,0:22:54.10,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}笑容豪爽
+Dialogue: 0,0:22:54.10,0:22:55.40,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}我們就是史·上·最·強
+Dialogue: 0,0:22:55.40,0:22:57.98,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}嘿！伙伴
+Dialogue: 0,0:22:57.98,0:22:58.52,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}向前出發!
+Dialogue: 0,0:22:58.52,0:23:01.90,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}活力爆棚的伙伴！耶！心潮澎湃
+Dialogue: 0,0:23:01.90,0:23:05.07,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}勢不可擋的伙伴！耶！熱血沸騰  飆得更高
+Dialogue: 0,0:23:05.07,0:23:08.53,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}熊熊烈火的伙伴！耶！如火如荼
+Dialogue: 0,0:23:08.53,0:23:11.49,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}戰意爆表的伙伴！耶！奮發向上  同心協力
+Dialogue: 0,0:23:11.49,0:23:13.50,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}屬於我們的冒險篇章
+Dialogue: 0,0:23:13.50,0:23:14.66,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}突破極限  勇往直前
+Dialogue: 0,0:23:14.66,0:23:16.42,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}衝啊  衝啊  衝啊
+Dialogue: 0,0:23:16.42,0:23:21.13,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}緊緊擁抱只屬於你我的世界
+Dialogue: 0,0:23:21.13,0:23:23.05,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}燃燒吧  熊熊烈火
+Dialogue: 0,0:23:23.05,0:23:24.34,EDCN,,0,0,0,发光,{\blur10\3c&H8E8EE4&}奔向未來
 
 [Aegisub Extradata]
 Data: 0,_aegi_folddata,e0;1;1
