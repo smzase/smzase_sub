@@ -21,6 +21,7 @@
 | 集数 | 标题 | 简体下载 | 繁體下載 |
 | --- | --- | --- | --- |
 | EP01 | 漂浮在空中的是一座岛 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Tensei%20Shitara%20Ken%20Deshita/%5Bsmzase%5D%20Tensei%20Shitara%20Ken%20Deshita%20-%20S02E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Tensei%20Shitara%20Ken%20Deshita/%5Bsmzase%5D%20Tensei%20Shitara%20Ken%20Deshita%20-%20S02E01.zh-hant.ass) |
+| EP02 | 让恩·杜比很优秀 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Tensei%20Shitara%20Ken%20Deshita/%5Bsmzase%5D%20Tensei%20Shitara%20Ken%20Deshita%20-%20S02E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Tensei%20Shitara%20Ken%20Deshita/%5Bsmzase%5D%20Tensei%20Shitara%20Ken%20Deshita%20-%20S02E02.zh-hant.ass) |
 
 ## 使用字体
 
