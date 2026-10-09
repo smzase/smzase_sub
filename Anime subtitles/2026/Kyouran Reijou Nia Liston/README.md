@@ -21,3 +21,16 @@
 | --- | --- | --- | --- |
 | EP01 | 自黑暗中浮现 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E01.zh-hant.ass) |
 
+## 使用字体
+
+| 字体名 | 字体下载 |
+| --- | --- |
+| FOT-CinemaCN | [FOT-CinemaCN.ttf](https://download.072158.xyz/fonts/FOT-CinemaCN.ttf) |
+| FOT-筑紫Aオールド明朝 Pr6 | [FOT-TsukuAOldMinPr6-B.otf](https://download.072158.xyz/fonts/FOT-TsukuAOldMinPr6-B.otf) |
+| Georgia Bold | [georgiab.ttf](https://download.072158.xyz/fonts/georgiab.ttf) |
+| 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 方正FW筑紫A老明朝 简 | [方正FW筑紫A老明朝 简 B.otf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3FW%E7%AD%91%E7%B4%ABA%E8%80%81%E6%98%8E%E6%9C%9D%20%E7%AE%80%20B.otf) |
+| 方正筑紫明朝宋 简繁 | [FZZhuZMCSJF.TTF](https://download.072158.xyz/fonts/FZZhuZMCSJF.TTF) |
+| 梦源宋体 CN W26 | [DreamHanSerifCN-W26.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W26.ttf) |
+| 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+
