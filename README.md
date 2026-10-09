@@ -16,6 +16,7 @@
 | [少女怪兽焦糖味](./Anime%20subtitles/2026/Otome%20Kaijuu%20Carameliser) | 中日双语　Web 源 | 比较看好这部的制作 |
 | [才女的侍从](./Anime%20subtitles/2026/Saijo%20no%20Osewa) | 中日双语　Web 源 | 还行 |
 | [转生成为魔剑 第二季](./Anime%20subtitles/2026/Tensei%20Shitara%20Ken%20Deshita) | 中日双语　Web 源 | 诶嘿嘿 女儿可爱🥰🥰🥰 |
+| [乱世千金倪亚·利斯顿](./Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston) | 中日双语　Web 源 | 白毛萝莉说是 |
 
 
 ## 字幕说明
