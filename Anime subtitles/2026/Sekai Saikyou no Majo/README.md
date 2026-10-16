@@ -35,4 +35,5 @@
 | 方正粗雅宋_GBK | [方正粗雅宋_GBK.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E7%B2%97%E9%9B%85%E5%AE%8B_GBK.ttf) |
 | 梦源宋体 CN W22 | [DreamHanSerifCN-W22.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W22.ttf) |
 | 梦源黑体 CN W20 | [DreamHanSansCN-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W20.ttf) |
+| 梦源黑体 CN W26 | [DreamHanSansCN-W26.ttf](https://download.072158.xyz/fonts/DreamHanSansCN-W26.ttf) |
 
