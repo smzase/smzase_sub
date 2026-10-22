@@ -21,6 +21,7 @@
 | --- | --- | --- | --- |
 | EP01 | 自黑暗中浮现 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E01.zh-hant.ass) |
 | EP02 | 在王都的工作 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E02.zh-hant.ass) |
+| EP03 | 舞台落幕之后 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Kyouran%20Reijou%20Nia%20Liston/%5Bsmzase%5D%20Kyouran%20Reijou%20Nia%20Liston%20-%20S01E03.zh-hant.ass) |
 
 ## 使用字体
 
