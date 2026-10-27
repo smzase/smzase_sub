@@ -19,6 +19,7 @@
 | --- | --- | --- | --- |
 | EP01 | 尝试使用了互联网！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E01.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E01.zh-hant.ass) |
 | EP02 | 尝试成为了冒险者！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E02.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E02.zh-hant.ass) |
+| EP03 | 尝试查看了讨论区 | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E03.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E03.zh-hant.ass) |
 
 ## 使用字体
 
