@@ -16,10 +16,10 @@ Video File: E:/111111111111anime/Sekai Saikyou no Majo/[Erai-raws] Sekai Saikyou
 Keyframes File: E:/111111111111anime/Sekai Saikyou no Majo/[Erai-raws] Sekai Saikyou no Majo Hajimemashita - 05 [1080p CR WEB-DL AVC AAC][MultiSub][837F82E6].mkv.kf.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 76
+Video Zoom Percent: 0.500000
+Scroll Position: 63
 Active Line: 86
-Video Position: 23227
+Video Position: 8565
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -866,7 +866,7 @@ Dialogue: 2,0:17:28.03,0:17:31.07,Sign,,0,0,0,,{\an7\pos(552.58,610.37)\p1\c&HD6
 Dialogue: 3,0:17:28.03,0:17:31.07,Sign,,0,0,0,,{\an7\fn方正兰亭圆_GBK_中粗\fs52\blur0.4\bord3\fsp0\fscx100\fscy100\c&H10150A&\3c&HFCFEFD&\fay-0.000\frz-16.54\fax-0.05\pos(608.3,610.62)}【黃昏古代教堂】
 Dialogue: 3,0:17:28.03,0:17:31.07,Sign,,0,0,0,,{\an7\fn方正兰亭圆_GBK_中粗\fs35\blur0.4\bord4\fsp2\fscx100\fscy100\c&H10150A&\3c&HFCFEFD&\fay-0.000\frz-16.54\fax-0.03\pos(600.55,678.07)}位於【霆雷濕原】中央的休息據點。因為【黃昏邪龍教團】\N在事件劇情動畫中登場而變成聖地，即使前往此地探索一番，\N也不會有任何收穫。
 Dialogue: 3,0:17:51.72,0:17:53.01,Sign,,0,0,0,,{\an5\fn方正兰亭圆_GBK_中粗\fs66\blur0.2\bord4\fscy0\t(10,110,\fscy100)\c&HFFFFFF&\3c&HFFFFFF&\t(120,250,\c&HFEFEFE&\3c&HDC6147&)\fad(0,0)\pos(960,800)}雷獅子已經被洛娜打敗了!
-Dialogue: 3,0:17:55.97,0:17:59.39,Sign,,0,0,0,,{\an5\fn方正兰亭圆_GBK_中粗\fs66\blur0.2\bord4\fscy0\t(10,110,\fscy100)\c&HFFFFFF&\3c&HFFFFFF&\t(120,250,\c&HFEFEFE&\3c&HDC6147&)\fad(0,0)\pos(960,800)}洛娜根本沒有
+Dialogue: 3,0:17:55.97,0:17:59.39,Sign,,0,0,0,,{\an5\fn方正兰亭圆_GBK_中粗\fs66\blur0.2\bord4\fscy0\t(10,110,\fscy100)\c&HFFFFFF&\3c&HFFFFFF&\t(120,250,\c&HFEFEFE&\3c&HDC6147&)\fad(0,0)\pos(960,800)}洛娜根本不知道什麼是首席!
 Dialogue: 2,0:21:55.67,0:21:58.17,Sign,,0,0,0,,{\an7\pos(284.8,619.35)\p1\c&HB772F4&\blur2}m 0 0 l 162.93 0 162.93 70.31 0 70.31
 Dialogue: 2,0:21:55.67,0:21:58.17,Sign,,0,0,0,,{\an7\pos(284.8,975.41)\p1\c&HFCFD01&}m 0 0 l 132.01 0 132.01 45.89 0 45.89
 Dialogue: 2,0:21:55.67,0:21:58.17,Sign,,0,0,0,,{\an7\pos(536.27,975.15)\p1\c&HFDFDFD&\blur2}m 0 1.28 l 114.84 0.77 115.61 46.92 2.56 46.15 m 244.03 1.54 l 355.03 0 355.54 47.17 245.32 46.4 m 484.23 1.03 l 607.78 0.77 609.32 46.92 483.2 44.86 m 722.11 2.82 l 850.8 2.05 851.56 48.45 722.11 47.17 m 961.54 3.34 l 1102.27 2.57 1102.78 43.33 957.43 45.38
