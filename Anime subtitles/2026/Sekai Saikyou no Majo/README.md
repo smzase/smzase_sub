@@ -32,8 +32,10 @@
 | RoG2サンセリフStd-B | [RoGSanSrfStd-Bd.otf](https://download.072158.xyz/fonts/RoGSanSrfStd-Bd.otf) |
 | 夢ノ明朝 JP W22 | [DreamHanSerifJP-W22.ttf](https://download.072158.xyz/fonts/DreamHanSerifJP-W22.ttf) |
 | 夢ノ角ゴ JP W20 | [DreamHanSansJP-W20.ttf](https://download.072158.xyz/fonts/DreamHanSansJP-W20.ttf) |
+| 方正兰亭圆_GBK_中 | [方正兰亭圆_GBK_中.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E4%B8%AD.ttf) |
 | 方正兰亭圆_GBK_中粗 | [方正兰亭圆_GBK_中粗.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E4%B8%AD%E7%B2%97.ttf) |
 | 方正兰亭圆_GBK_准 | [方正兰亭圆_GBK_准.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E5%87%86.ttf) |
+| 方正兰亭圆_GBK_特 | [方正兰亭圆_GBK_特.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E5%85%B0%E4%BA%AD%E5%9C%86_GBK_%E7%89%B9.ttf) |
 | 方正正大黑_GBK | [方正正大黑_GBK.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E6%AD%A3%E5%A4%A7%E9%BB%91_GBK.ttf) |
 | 方正粗雅宋_GBK | [方正粗雅宋_GBK.ttf](https://download.072158.xyz/fonts/%E6%96%B9%E6%AD%A3%E7%B2%97%E9%9B%85%E5%AE%8B_GBK.ttf) |
 | 梦源宋体 CN W22 | [DreamHanSerifCN-W22.ttf](https://download.072158.xyz/fonts/DreamHanSerifCN-W22.ttf) |
