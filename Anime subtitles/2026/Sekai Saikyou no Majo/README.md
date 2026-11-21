@@ -23,6 +23,7 @@
 | EP04 | 试着阻止了野心！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E04.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E04.zh-hant.ass) |
 | EP05 | 试着卸任了救世主！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E05.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E05.zh-hant.ass) |
 | EP06 | 试着成为了神明！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E06.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E06.zh-hant.ass) |
+| EP07 | 试着建造了秘密武器！ | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E07.zh-hans.ass) | [下载](https://raw.githubusercontent.com/smzase/smzase_sub/main/Anime%20subtitles/2026/Sekai%20Saikyou%20no%20Majo/%5Bsmzase%5D%20Sekai%20Saikyou%20no%20Majo%20-%20S01E07.zh-hant.ass) |
 
 ## 使用字体
 
